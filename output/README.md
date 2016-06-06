@@ -8,7 +8,7 @@
 [Machine Learning Blogs](machine_learning#MachineLearningBlogs)  
 [Machine Learning Podcasts](machine_learning#MachineLearningPodcasts)  
 [Machine Learning Packages](machine_learning#MachineLearningPackages)  
-###[Programming](./programming)  
+###[Programming and Computer Science](./programming)  
 [Python Textbooks](programming#PythonTextbooks)  
 [R Textbooks](programming#RTextbooks)  
 [Python Tutorials](programming#PythonTutorials)  

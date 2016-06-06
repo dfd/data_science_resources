@@ -174,10 +174,6 @@ Other tags: [R Packages](../programming#RPackages)
 "Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002)."  
 Other tags: [R Packages](../programming#RPackages)   
   
-[reshape2](https://cran.r-project.org/web/packages/reshape2/index.html)  
-"Flexibly restructure and aggregate data using just two functions: melt and dcast (or acast)."  
-Other tags: [R Packages](../programming#RPackages)   
-  
 ## <a name="MathPackages"></a>Math Packages  
 
 [SymPy](http://www.sympy.org/en/index.html)  

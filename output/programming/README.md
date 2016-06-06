@@ -1,4 +1,4 @@
-#Programming  
+#Programming and Computer Science  
 ## Local Table of Contents  
 [(Back to Master Table of Contents)](../)  
 [Python Textbooks](#PythonTextbooks)  
@@ -280,5 +280,4 @@ Other tags: [Statistics Packages](../statistics#StatisticsPackages)
   
 [reshape2](https://cran.r-project.org/web/packages/reshape2/index.html)  
 "Flexibly restructure and aggregate data using just two functions: melt and dcast (or acast)."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
   
