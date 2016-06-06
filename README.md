@@ -1,4 +1,4 @@
-#Free Resources for Learning Data Science
+#Free Online Resources for Learning Data Science
 
 This is a curated collection of free online resources for learning data science.  It focuses on Statistics, Machine Learning, Python, R, and Spark (via PySpark).
 
