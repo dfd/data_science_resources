@@ -1,0 +1,57 @@
+{
+    "structure": {
+        "machine_learning": {
+            "headings": [
+                "Machine Learning Textbooks",
+                "Machine Learning Tutorials",
+                "Machine Learning Courses",
+                "Machine Learning Lectures",
+                "Machine Learning Blogs",
+                "Machine Learning Podcasts",
+                "Machine Learning Packages"
+            ],
+            "title": "Machine Learning"
+        },
+        "programming": {
+            "headings": [
+                "Python Textbooks",
+                "R Textbooks",
+                "Python Tutorials",
+                "R Tutorials",
+                "Python Courses",
+                "R Courses",
+                "Spark Courses",
+                "Programming Blogs",
+                "Python Podcasts",
+                "Python Packages",
+                "R Packages"
+            ],
+            "title": "Programming"
+        },
+        "statistics": {
+            "headings": [
+                "Statistics Textbooks",
+                "Math Textbooks",
+                "Statistics Tutorials",
+                "Statistics Courses",
+                "Math Courses",
+                "Probability Lectures",
+                "Information Theory Lectures",
+                "Statistics Blogs",
+                "Statistics Podcasts",
+                "Statistics Misc",
+                "Statistics Packages",
+                "Math Packages"
+            ],
+            "title": "Statistics, Probability, and Mathematics"
+        },
+        "visualizaiton": {
+            "headings": [
+                "Visualization Tutorials",
+                "Visualization Blogs",
+                "Visualization Packages"
+            ],
+            "title": "Visualization"
+        }
+    }
+}

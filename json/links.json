@@ -1,0 +1,767 @@
+{
+    "links": [
+        {
+            "author": "Allen Downey",
+            "description": "\"Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\" Uses Python 3.",
+            "tags": [
+                "Python Textbooks"
+            ],
+            "title": "Think Python 2e",
+            "url": "http://greenteapress.com/wp/think-python-2e/"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "\"Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\" Uses Python 2.",
+            "tags": [
+                "Python Textbooks"
+            ],
+            "title": "Think Python 1e",
+            "url": "http://greenteapress.com/wp/think-python/"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "\"Think Stats is an introduction to Probability and Statistics for Python programmers. Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets. If you have basic skills in Python, you can use them to learn concepts in probability and statistics. Think Stats is based on a Python library for probability distributions (PMFs and CDFs). Many of the exercises use short programs to run experiments and help readers develop understanding.\"",
+            "tags": [
+                "Statistics Textbooks"
+            ],
+            "title": "Think Stats 2e",
+            "url": "http://greenteapress.com/thinkstats2/index.html"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "\"Think Bayes is an introduction to Bayesian statistics using computational methods. Most books on Bayesian statistics use mathematical notation and present ideas in terms of mathematical concepts like calculus. This book uses Python code instead of math, and discrete approximations instead of continuous mathematics. As a result, what would be an integral in a math book becomes a summation, and most operations on probability distributions are simple loops.\"",
+            "tags": [
+                "Statistics Textbooks"
+            ],
+            "title": "Think Bayes",
+            "url": "http://greenteapress.com/wp/think-bayes/"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "\"This book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science.\"",
+            "tags": [
+                "Python Textbooks"
+            ],
+            "title": "Think Complexity",
+            "url": "http://greenteapress.com/complexity/index.html"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "\"Think DSP is an introduction to Digital Signal Processing in Python.\"",
+            "tags": [
+                "Statistics Textbooks"
+            ],
+            "title": "Think DSP",
+            "url": "http://greenteapress.com/wp/think-dsp/"
+        },
+        {
+            "author": "Gary W. Oehlert",
+            "description": "\"This text covers the basic topics in experimental design and analysis and is intended for graduate students and advanced undergraduates. Students should have had an introductory statistical methods course at about the level of Moore and McCabe's Introduction to the Practice of Statistics (Moore and McCabe 1999) and be familiar with t-tests, p-values, confidence intervals, and the basics of regression and ANOVA.\"",
+            "tags": [
+                "Statistics Textbooks"
+            ],
+            "title": "A First Course in Design and Analysis of Experiments",
+            "url": "http://users.stat.umn.edu/~gary/book/fcdae.pdf"
+        },
+        {
+            "author": "David J.C. MacKay",
+            "description": "\"This book is aimed at senior undergraduates and graduate students in Engineering, Science, Mathematics, and Computing. It expects familiarity with calculus, probability theory, and linear algebra as taught in a first- or secondyear undergraduate course on mathematics for scientists and engineers. Conventional courses on information theory cover not only the beautiful theoretical ideas of Shannon, but also practical solutions to communication problems. This book goes further, bringing in Bayesian data modelling, Monte Carlo methods, variational methods, clustering algorithms, and neural networks.\"",
+            "tags": [
+                "Statistics Textbooks",
+                "Machine Learning Textbooks"
+            ],
+            "title": "Information Theory, Inference, and Learning Algorithms",
+            "url": "http://www.inference.phy.cam.ac.uk/itila/"
+        },
+        {
+            "author": "Cosma Rohilla Shalizi",
+            "description": "\"This book began as the notes for 36-402, Advanced Data Analysis, at Carnegie Mellon University... ADA is a class in statistical methodology: its aim is to get students to understand something of the range of modern methods of data analysis, and of the considerations which go into choosing the right method for the job at hand (rather than distorting the problem to fit the methods you happen to know). Statistical theory is kept to a minimum, and largely introduced as needed. Since ADA is also a class in data analysis, there are a lot of assignments in which large, real data sets are analyzed with the new methods.\"",
+            "tags": [
+                "Statistics Textbooks",
+                "R Textbooks"
+            ],
+            "title": "Advanced Data Analysis from an Elementary Point of View",
+            "url": "http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/"
+        },
+        {
+            "author": "Muhammad Yasoob Ullah Khalid",
+            "description": "\"The topics which are discussed in this book open up your mind towards some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.\"",
+            "tags": [
+                "Python Textbooks"
+            ],
+            "title": "Intermediate Python",
+            "url": "http://book.pythontips.com/en/latest/"
+        },
+        {
+            "author": "Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",
+            "description": "\"This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.\"",
+            "tags": [
+                "Statistics Textbooks",
+                "Machine Learning Textbooks",
+                "R Textbooks"
+            ],
+            "title": "An Introduction to Statistical Learning",
+            "url": "http://www-bcf.usc.edu/~gareth/ISL/"
+        },
+        {
+            "author": "Trevor Hastie, Robert Tibshirani, Jerome Friedman",
+            "description": "\"During the past decade has been an explosion in computation and information technology. With it has come vast amounts of data in a variety of fields such as medicine, biology, finance, and marketing. The challenge of understanding these data has led to the development of new tools in the field of statistics, and spawned new areas such as data mining, machine learning, and bioinformatics. Many of these tools have common underpinnings but are often expressed with different terminology. This book descibes the important ideas in these areas in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of color graphics. It should be a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting--the first comprehensive treatment of this topic in any book.\"",
+            "tags": [
+                "Statistics Textbooks",
+                "Machine Learning Textbooks",
+                "R Textbooks"
+            ],
+            "title": "The Elements of Statistical Learning",
+            "url": "http://statweb.stanford.edu/~tibs/ElemStatLearn/"
+        },
+        {
+            "author": "Zico Kolter (updated by Chuong Do)",
+            "description": "A concise overview of linear algebra.",
+            "tags": [
+                "Math Textbooks"
+            ],
+            "title": "Linear Algebra Review and Reference",
+            "url": "https://www.cs.cmu.edu/~15381/slides/linalg_notes.pdf"
+        },
+        {
+            "author": "Ani Adhikari and John DeNero",
+            "description": "\"Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios.\" Uses Python 3.",
+            "tags": [
+                "Python Textbooks",
+                "Statistics Textbooks"
+            ],
+            "title": "The Foundations of Data Science",
+            "url": "https://www.gitbook.com/book/ds8/textbook/details"
+        },
+        {
+            "author": "Cam Davidson-Pilon",
+            "description": "\"Bayesian Methods for Hackers is designed as an introduction to Bayesian inference from a computational/understanding-first, and mathematics-second, point of view. Of course as an introductory book, we can only leave it at that: an introductory book. For the mathematically trained, they may cure the curiosity this text generates with other texts designed with mathematical analysis in mind. For the enthusiast with less mathematical-background, or one who is not interested in the mathematics but simply the practice of Bayesian methods, this text should be sufficient and entertaining.\"",
+            "tags": [
+                "Statistics Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Probabilistic Programming and Bayesian Methods for Hackers",
+            "url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers"
+        },
+        {
+            "author": "Robert Ghrist and David Lonoff",
+            "description": "Wiki of Calculus topics",
+            "tags": [
+                "Math Textbooks"
+            ],
+            "title": "The PennCalcWiki",
+            "url": "http://calculus.seas.upenn.edu/"
+        },
+        {
+            "description": "\"Simple and efficient tools for data mining and data analysis.\"",
+            "tags": [
+                "Machine Learning Packages",
+                "Python Packages"
+            ],
+            "title": "scikit-learn",
+            "url": "http://scikit-learn.org/stable/"
+        },
+        {
+            "description": "\"*pandas* is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.\"",
+            "tags": [
+                "Python Packages"
+            ],
+            "title": "pandas",
+            "url": "http://scikit-learn.org/stable/"
+        },
+        {
+            "description": "\"Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator.\"",
+            "tags": [
+                "Python Packages",
+                "Statistics Packages"
+            ],
+            "title": "Statsmodels",
+            "url": "http://statsmodels.sourceforge.net/"
+        },
+        {
+            "description": "\"NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities.\"",
+            "tags": [
+                "Python Packages",
+                "Statistics Packages"
+            ],
+            "title": "NumPy",
+            "url": "http://www.numpy.org/"
+        },
+        {
+            "description": "\"It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization.\"",
+            "tags": [
+                "Python Packages",
+                "Statistics Packages"
+            ],
+            "title": "SciPy",
+            "url": "https://www.scipy.org/scipylib/index.html"
+        },
+        {
+            "description": "\"matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell..., web application servers, and six graphical user interface toolkits.\"",
+            "tags": [
+                "Python Packages",
+                "Visualization Packages"
+            ],
+            "title": "matplotlib",
+            "url": "http://matplotlib.org/"
+        },
+        {
+            "description": "\"SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python.\"",
+            "tags": [
+                "Python Packages",
+                "Math Packages"
+            ],
+            "title": "SymPy",
+            "url": "http://www.sympy.org/en/index.html"
+        },
+        {
+            "description": "\"Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.\"",
+            "tags": [
+                "Python Packages",
+                "Visualization Packages"
+            ],
+            "title": "Seaborn",
+            "url": "https://web.stanford.edu/~mwaskom/software/seaborn/"
+        },
+        {
+            "description": "\"Bokeh is a Python interactive visualization library that targets modern web browsers for presentation. Its goal is to provide elegant, concise construction of novel graphics in the style of D3.js, and to extend this capability with high-performance interactivity over very large or streaming datasets. Bokeh can help anyone who would like to quickly and easily create interactive plots, dashboards, and data applications.\"",
+            "tags": [
+                "Python Packages",
+                "Visualization Packages"
+            ],
+            "title": "Bokeh",
+            "url": "http://bokeh.pydata.org/en/latest/"
+        },
+        {
+            "description": "\"ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics. It is built for making profressional looking, plots quickly with minimal code.\"",
+            "tags": [
+                "Python Packages",
+                "Visualization Packages"
+            ],
+            "title": "ggplot",
+            "url": "http://ggplot.yhathq.com/"
+        },
+        {
+            "description": "\"TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization. The system is designed to facilitate research in machine learning, and to make it quick and easy to transition from research prototype to production system.\"",
+            "tags": [
+                "Python Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "TensorFlow",
+            "url": "https://www.tensorflow.org/"
+        },
+        {
+            "description": "\"PyMC is a python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo. Its flexibility and extensibility make it applicable to a large suite of problems. Along with core sampling functionality, PyMC includes methods for summarizing output, plotting, goodness-of-fit and convergence diagnostics.\"",
+            "tags": [
+                "Python Packages",
+                "Statistics Packages"
+            ],
+            "title": "PyMC",
+            "url": "https://pymc-devs.github.io/pymc/"
+        },
+        {
+            "description": "\"PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.\"",
+            "tags": [
+                "Python Packages",
+                "Statistics Packages"
+            ],
+            "title": "PyMC3",
+            "url": "http://pymc-devs.github.io/pymc3/"
+        },
+        {
+            "description": "\"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.\"",
+            "tags": [
+                "Python Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "Theano",
+            "url": "http://deeplearning.net/software/theano/"
+        },
+        {
+            "description": "\"Keras is a minimalist, highly modular neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.\"",
+            "tags": [
+                "Python Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "Keras",
+            "url": "http://keras.io/"
+        },
+        {
+            "description": "An optimized, flexible, portable, regression and classification gradient boosting package that supports distributed training.",
+            "tags": [
+                "Python Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "XGBoost (Python)",
+            "url": "http://xgboost.readthedocs.io/en/latest/python/python_intro.html"
+        },
+        {
+            "description": "An optimized, flexible, portable, regression and classification gradient boosting package that supports distributed training.",
+            "tags": [
+                "R Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "XGBoost (R)",
+            "url": "http://xgboost.readthedocs.io/en/latest/R-package/index.html"
+        },
+        {
+            "description": "\"The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation.\"",
+            "tags": [
+                "R Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "caret",
+            "url": "http://topepo.github.io/caret/index.html"
+        },
+        {
+            "description": "\"A data.frame processor/conditioner that prepares real-world data for predictive modeling in a statistically sound manner. Prepares variables so that data has fewer exceptional cases, making it easier to safely use models in production. Common problems 'vtreat' defends against: Inf, NA, too many categorical levels, rare categorical levels, new categorical levels (levels seen during application, but not during training).\"",
+            "tags": [
+                "R Packages",
+                "Statistics Packages"
+            ],
+            "title": "vtreat",
+            "url": "https://cran.r-project.org/web/packages/vtreat/index.html"
+        },
+        {
+            "description": "\"A powerful and elegant high-level data visualization system inspired by Trellis graphics, with an emphasis on multivariate data. Lattice is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an introduction.\"",
+            "tags": [
+                "R Packages",
+                "Visualization Packages"
+            ],
+            "title": "Lattice",
+            "url": "https://cran.r-project.org/web/packages/lattice/index.html"
+        },
+        {
+            "description": "\"ggplot2 is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics.\"",
+            "tags": [
+                "R Packages",
+                "Visualization Packages"
+            ],
+            "title": "ggplot2",
+            "url": "http://ggplot2.org/"
+        },
+        {
+            "description": "\"Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002).\"",
+            "tags": [
+                "R Packages",
+                "Statistics Packages"
+            ],
+            "title": "MASS",
+            "url": "https://cran.r-project.org/web/packages/MASS/index.html"
+        },
+        {
+            "description": "\"A set of tools that solves a common set of problems: you need to break a big problem down into manageable pieces, operate on each piece and then put all the pieces back together. For example, you might want to fit a model to each spatial location or time point in your study, summarise data by panels or collapse high-dimensional arrays to simpler summary statistics. The development of 'plyr' has been generously supported by 'Becton Dickinson'.\"",
+            "tags": [
+                "R Packages"
+            ],
+            "title": "plyr",
+            "url": "https://cran.r-project.org/web/packages/plyr/index.html"
+        },
+        {
+            "description": "\"A fast, consistent tool for working with data frame like objects, both in memory and out of memory.\"",
+            "tags": [
+                "R Packages"
+            ],
+            "title": "dplyr",
+            "url": "https://cran.r-project.org/web/packages/dplyr/index.html"
+        },
+        {
+            "description": "\"Flexibly restructure and aggregate data using just two functions: melt and dcast (or acast).\"",
+            "tags": [
+                "R Packages"
+            ],
+            "title": "reshape2",
+            "url": "https://cran.r-project.org/web/packages/reshape2/index.html"
+        },
+        {
+            "author": "Charles Severance (with material adapted from Allen Downey)",
+            "description": "\"The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics.\"",
+            "tags": [
+                "Python Textbooks"
+            ],
+            "title": "Python for Informatics: Exploring Information",
+            "url": "http://www.pythonlearn.com/book.php"
+        },
+        {
+            "author": "Andrew Ng, Stanford University",
+            "description": "\"This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.\"",
+            "tags": [
+                "Machine Learning Courses"
+            ],
+            "title": "Machine Learning",
+            "url": "https://www.coursera.org/learn/machine-learning"
+        },
+        {
+            "author": "Jim Fowler, The Ohio State University",
+            "description": "\"This course is a first and friendly introduction to calculus, suitable for someone who has never seen the subject before, or for someone who has seen some calculus but wants to review the concepts and practice applying those concepts to solve problems.\"",
+            "tags": [
+                "Math Courses"
+            ],
+            "title": "Calculus One",
+            "url": "https://www.coursera.org/learn/calculus1"
+        },
+        {
+            "author": "Daphne Koller, Stanford University",
+            "description": "\"In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques; you will also learn algorithms for using a PGM to reach conclusions about the world from limited and noisy evidence, and for making good decisions under uncertainty. The class covers both the theoretical underpinnings of the PGM framework and practical skills needed to apply these techniques to new problems.\"  Sign up for a previous offering of the course.",
+            "tags": [
+                "Machine Learning Courses"
+            ],
+            "title": "Probabilistic Graphical Models",
+            "url": "https://class.coursera.org/pgm/lecture/preview"
+        },
+        {
+            "author": "Eric Grimson, John Guttag, and Ana Bell, MIT",
+            "description": "\"What you'll learn: A Notion of computation, The Python programming language, Some simple algorithms, Testing and debugging, An informal introduction to algorithmic complexity, Data structures\"",
+            "tags": [
+                "Python Courses"
+            ],
+            "title": "Introduction to Computer Science and Programming Using Python",
+            "url": "https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8"
+        },
+        {
+            "author": "Eric Grimson, John Guttag, and Ana Bell, MIT",
+            "description": "\"6.00.2x will teach you how to use computation to accomplish a variety of goals and provides you with a brief introduction to a variety of topics in computational problem solving . This course is aimed at students with some prior programming experience in Python and a rudimentary knowledge of computational complexity. You will spend a considerable amount of time writing programs to implement the concepts covered in the course. For example, you will write a program that will simulate a robot vacuum cleaning a room or will model the population dynamics of viruses replicating and drug treatments in a patient's body.\"",
+            "tags": [
+                "Python Courses"
+            ],
+            "title": "Introduction to Computational Thinking and Data Science",
+            "url": "https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3"
+        },
+        {
+            "author": "Filip Schouwenaars, Microsoft",
+            "description": "\"In this practical course, you will start from the very beginning, with basic arithmetic and variables, and learn how to handle data structures, such as Python lists, Numpy arrays, and Pandas DataFrames. Along the way, you'll learn about Python functions and control flow. Plus, you'll look at the world of data visualizations with Python and create your own stunning visualizations based on real data.\"",
+            "tags": [
+                "Python Courses"
+            ],
+            "title": "Introduction to Python for Data Science",
+            "url": "https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-1"
+        },
+        {
+            "author": "Authman Apatira, Microsoft",
+            "description": "\"In this practical computer science course, you will build on your existing Python skills and learn how to manipulate data using Pandas, and build machine learning solutions in Python using the scikit-learn package.\"",
+            "tags": [
+                "Python Courses",
+                "Machine Learning Courses"
+            ],
+            "title": "Programming with Python for Data Science",
+            "url": "https://www.edx.org/course/programming-python-data-science-microsoft-dat210x"
+        },
+        {
+            "author": "Filip Schouwenaars, Microsoft",
+            "description": "\"This introduction to R programming course will help you master the basics of R. In seven sections, you will cover its basic syntax, making you ready to undertake your own first data analysis using R. Starting from variables and basic operations, you will eventually learn how to handle data structures such as vectors, matrices, data frames and lists. In the final section, you will dive deeper into the graphical capabilities of R, and create your own stunning data visualizations. No prior knowledge in programming or data science is required.\"",
+            "tags": [
+                "R Courses"
+            ],
+            "title": "Introduction to R for Data Science",
+            "url": "https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0"
+        },
+        {
+            "author": "Anders Stockmarr",
+            "description": "\"In this course you will learn all you need to get up to speed with programming in R. Explore R data structures and syntaxes, see how to read and write data from a local file to a cloud-hosted database, work with data, get summaries, and transform them to fit your needs. Plus, find out how to perform predictive analytics using R and how to create visualizations using the popular ggplot2 package.\"",
+            "tags": [
+                "R Courses",
+                "Machine Learning Courses"
+            ],
+            "title": "Programming with R for Data Science",
+            "url": "https://www.edx.org/course/programming-r-data-science-microsoft-dat209x-0"
+        },
+        {
+            "author": "Anthony D. Joseph, UC Berkeley and Jon Bates, Databricks",
+            "description": "\"This statistics and data analysis course will teach you the basics of working with Spark and will provide you with the necessary foundation for diving deeper into Spark. You'll learn about Spark's architecture and programming model, including commonly used APIs. After completing this course, you'll be able to write and debug basic Spark applications. This course will also explain how to use Spark's web user interface (UI), how to recognize common coding errors, and how to proactively prevent errors. The focus of this course will be Spark Core and Spark SQL.\"",
+            "tags": [
+                "Spark Courses"
+            ],
+            "title": "Introduction to Apache Spark",
+            "url": "https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x"
+        },
+        {
+            "author": "Ameet Talwalkar, UCLA and Jon Bates, Databricks",
+            "description": "\"This statistics and data analysis course introduces the underlying statistical and algorithmic principles required to develop scalable real-world machine learning pipelines. We present an integrated view of data processing by highlighting the various components of these pipelines, including exploratory data analysis, feature extraction, supervised learning, and model evaluation. You will gain hands-on experience applying these principles using Spark, a cluster computing system well-suited for large-scale machine learning tasks, and its packages spark.ml and spark.mllib. You will implement distributed algorithms for fundamental statistical models (linear regression, logistic regression, principal component analysis) while tackling key problems from domains such as online advertising and cognitive neuroscience.\"",
+            "tags": [
+                "Spark Courses",
+                "Machine Learning Courses"
+            ],
+            "title": "Distributed Machine Learning with Apache Spark",
+            "url": "https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x"
+        },
+        {
+            "author": "Anthony D. Joseph, UC Berkeley and Jon Bates, Databricks",
+            "description": "\"This statistics and data analysis course will attempt to articulate the expected output of data scientists and then teach students how to use PySpark (part of Spark) to deliver against these expectations. The course assignments include log mining, textual entity recognition, and collaborative filtering exercises that teach students how to manipulate data sets using parallel processing with PySpark.\"",
+            "tags": [
+                "Spark Courses"
+            ],
+            "title": "Big Data Analysis with Apache Spark",
+            "url": "https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x"
+        },
+        {
+            "author": "Anthony D. Joseph, UC Berkeley and Jon Bates, Databricks",
+            "description": "\"Gain a deeper understanding of Spark by learning about its APIs, architecture, and common use cases.  This statistics and data analysis course will cover material relevant to both data engineers and data scientists.  You'll learn how Spark efficiently transfers data across the network via its shuffle, details of memory management, optimizations to reduce compute costs, and more.  Learners will see several use cases for Spark and will work to solve a variety of real-world problems using public datasets.  After taking this course, you should have a thorough understanding of how Spark works and how you can best utilize its APIs to write efficient, scalable code.  You'll also learn about a wide variety of Spark's APIs, including the APIs in Spark Streaming. \"",
+            "tags": [
+                "Spark Courses"
+            ],
+            "title": "Advanced Apache Spark for Data Science and Data Engineering",
+            "url": "https://www.edx.org/course/advanced-apache-spark-data-science-data-uc-berkeleyx-cs115x"
+        },
+        {
+            "author": "Ameet Talwalkar, UCLA and Jon Bates, Databricks",
+            "description": "\"Building on the core ideas presented in Distributed Machine Learning with Spark, this course covers advanced topics for training and deploying large-scale learning pipelines. You will study state-of-the-art distributed algorithms for collaborative filtering, ensemble methods (e.g., random forests), clustering and topic modeling, with a focus on model parallelism and the crucial tradeoffs between computation and communication.\"",
+            "tags": [
+                "Spark Courses",
+                "Machine Learning Courses"
+            ],
+            "title": "Advanced Distributed Machine Learning with Apache Spark",
+            "url": "https://www.edx.org/course/advanced-distributed-machine-learning-uc-berkeleyx-cs125x"
+        },
+        {
+            "author": "Trevor Hastie and Rob Tibshirani, Stanford University",
+            "description": "\"This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).\"",
+            "tags": [
+                "Statistics Courses",
+                "Machine Learning Courses",
+                "R Courses"
+            ],
+            "title": "Statistical Learning",
+            "url": "http://online.stanford.edu/course/statistical-learning-Winter-16"
+        },
+        {
+            "author": "Brian Caffo, Johns Hopkins University",
+            "description": "\"This class presents the fundamental probability and statistical concepts used in elementary data analysis. It will be taught at an introductory level for students with junior or senior college-level mathematical training including a working knowledge of calculus. A small amount of linear algebra and programming are useful for the class, but not required.\"",
+            "tags": [
+                "Statistics Courses"
+            ],
+            "title": "Mathematical Biostatistics Boot Camp 1",
+            "url": "https://www.coursera.org/learn/biostatistics"
+        },
+        {
+            "author": "Brian Caffo, Johns Hopkins University",
+            "description": "\"Learn fundamental concepts in data analysis and statistical inference, focusing on one and two independent samples.\"",
+            "tags": [
+                "Statistics Courses"
+            ],
+            "title": "Mathematical Biostatistics Boot Camp 2",
+            "url": "https://www.coursera.org/learn/biostatistics-2"
+        },
+        {
+            "author": "mathematicalmonk",
+            "description": "160 Machine Learning Short Lectures",
+            "tags": [
+                "Machine Learning Lectures"
+            ],
+            "title": "Machine Learning Playlist",
+            "url": "https://www.youtube.com/user/mathematicalmonk/playlists"
+        },
+        {
+            "author": "mathematicalmonk",
+            "description": "43 Short Probability Lectures",
+            "tags": [
+                "Probability Lectures"
+            ],
+            "title": "Probabilty Playlist",
+            "url": "https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4"
+        },
+        {
+            "author": "mathematicalmonk",
+            "description": "54 Short Information Theory Lectures",
+            "tags": [
+                "Information Theory Lectures"
+            ],
+            "title": "Information Theory Playlist",
+            "url": "https://www.youtube.com/watch?v=UrefKMSEuAI&list=PLE125425EC837021F"
+        },
+        {
+            "author": "Andrew Gelman",
+            "description": "This is a blog by the author of Bayesian Data Analysis.",
+            "tags": [
+                "Statistics Blogs"
+            ],
+            "title": "Statistical Modeling, Causal Inference, and Social Science",
+            "url": "http://andrewgelman.com/"
+        },
+        {
+            "author": "John D. Cook",
+            "description": "A blog about applied math, statistics, and software development.",
+            "tags": [
+                "Statistics Blogs",
+                "Programming Blogs"
+            ],
+            "title": "John D. Cook",
+            "url": "http://www.johndcook.com/blog/"
+        },
+        {
+            "author": "Michael Kennedy",
+            "description": "\"The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).\"",
+            "tags": [
+                "Python Podcasts"
+            ],
+            "title": "Talk Python to Me",
+            "url": "https://talkpython.fm/"
+        },
+        {
+            "author": "Tobias Macey and Chris Patti",
+            "description": "\"Podcast.init is a show about the Python programming language and the awesome community that has grown up around it. Our goal is to share discussions on subjects ranging from interesting and useful tools and products to social and ethical issues such as diversity and inclusiveness in tech.\"",
+            "tags": [
+                "Python Podcasts"
+            ],
+            "title": "Podcast.\\_\\_init\\_\\_",
+            "url": "http://podcastinit.com/"
+        },
+        {
+            "author": "Katherine Gorman and Ryan Adams (Harvard University)",
+            "description": "\"Talking Machines is your window into the world of machine learning. Your hosts, Katherine Gorman and Ryan Adams, bring you clear conversations with experts in the field, insightful discussions of industry news, and useful answers to your questions.\"",
+            "tags": [
+                "Machine Learning Podcasts"
+            ],
+            "title": "Talking Machines",
+            "url": "http://www.thetalkingmachines.com/"
+        },
+        {
+            "author": "Jonathon Morgan, Vidya Spandana, and Chris Albon",
+            "description": "\"Partially Derivative is a weekly podcast, blog, and newsletter about the data science in the world around us. We geek out on silly data stories, interview amazing people doing interesting work, and drink beer.\"",
+            "tags": [
+                "Machine Learning Podcasts"
+            ],
+            "title": "Partially Derivative",
+            "url": "http://partiallyderivative.com/"
+        },
+        {
+            "author": "Roger Peng (Johns Hopkins University) and Hilary Mason",
+            "description": "Podcast on Data Science, Statistics, Python, and R in academia and industry.",
+            "tags": [
+                "Statistics Podcasts"
+            ],
+            "title": "Not So Standard Deviations",
+            "url": "https://soundcloud.com/nssd-podcast"
+        },
+        {
+            "author": "Ben Lorica (O'Reilly)",
+            "description": "\"The O'Reilly Data Show Podcast: Danny Bickson on recommenders, data science, and applications of machine learning.\"",
+            "tags": [
+                "Machine Learning Podcasts"
+            ],
+            "title": "O'Reilly Data Show Podcast",
+            "url": "https://www.oreilly.com/topics/oreilly-data-show-podcast"
+        },
+        {
+            "author": "Nathan Yau",
+            "description": "\"FlowingData explores how statisticians, designers, data scientists, and others use analysis, visualization, and exploration to understand data and ourselves.\"  Paid membership optional for visualization tutorials.",
+            "tags": [
+                "Visualization Blogs"
+            ],
+            "title": "Flowing Data",
+            "url": "http://flowingdata.com/"
+        },
+        {
+            "author": "Cliburn Chan (Duke University)",
+            "description": "Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Computational Statistics in Python",
+            "url": "http://people.duke.edu/~ccc14/sta-663-2016/index.html"
+        },
+        {
+            "author": "Chris Burns, Christophe Combelles, Emmanuelle Gouillart, and Ga\u00ebl Varoquaux",
+            "description": "\"Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.\"",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Scipy lecture notes",
+            "url": "http://www.scipy-lectures.org/"
+        },
+        {
+            "author": "Python Software Foundation",
+            "description": "Tutorials and Documentation for Beginner, Moderate, and Advanced Users.  Available for Python 2 and 3.",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Official Python Documentation",
+            "url": "https://www.python.org/doc/"
+        },
+        {
+            "author": "Kunal Jain",
+            "description": "Covers basics through predictive modeling in Python 2.",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "A Complete Tutorial to Learn Data Science with Python from Scratch",
+            "url": "http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/"
+        },
+        {
+            "author": "Kunal Jain",
+            "description": "\"In this guide, I will use NumPy, Matplotlib, Seaborn and Pandas to perform data exploration.\" Uses Python 2.",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas",
+            "url": "http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/"
+        },
+        {
+            "author": "Michael Nielsen",
+            "description": "\"The book will teach you about: Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data; Deep learning, a powerful set of techniques for learning in neural networks.\"  Uses Python 2.",
+            "tags": [
+                "Machine Learning Textbooks"
+            ],
+            "title": "Neural Networks and Deep Learning",
+            "url": "http://neuralnetworksanddeeplearning.com/"
+        },
+        {
+            "author": "John Mount and Nina Zumel",
+            "description": "The Win-Vector LLC data science blog",
+            "tags": [
+                "Statistics Blogs",
+                "Machine Learning Blogs",
+                "Programming Blogs"
+            ],
+            "title": "Win-Vector",
+            "url": "http://www.win-vector.com/blog/"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "Allen Downey's PyCon tutorial for computational statistics in Python.",
+            "tags": [
+                "Statistics Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Allen Downey - Computational Statistics - PyCon 2016",
+            "url": "https://www.youtube.com/watch?v=VR52vSbHBAk"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "Allen Downey's PyCon tutorial for Bayesian Statistics in Python.",
+            "tags": [
+                "Statistics Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Allen Downey - Bayesian statistics made simple - PyCon 2016",
+            "url": "https://www.youtube.com/watch?v=6GV5bTCLC8g"
+        },
+        {
+            "author": "Julia Ferraioli, Amy Unruh, Eli Bixby",
+            "description": "\"Machine learning can be an intimidating subject. In this session, we\u2019ll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We\u2019ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization.\"",
+            "tags": [
+                "Python Tutorials",
+                "Machine Learning Tutorials"
+            ],
+            "title": "Diving into Machine Learning through TensorFlow - PyCon 2016",
+            "url": "https://www.youtube.com/watch?v=GZBIPwdGtkk"
+        },
+        {
+            "author": "John D. Cook",
+            "description": "\"The following diagram summarizes conjugate prior relationships for a number of common sampling distributions.\"",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "Diagram of Bayesian Conjugate Priors",
+            "url": "http://www.johndcook.com/blog/conjugate_prior_diagram/"
+        },
+        {
+            "author": "Kaggle",
+            "description": "Interviews of Kaggle Compeition top finishers, and scripts shared by competitors.",
+            "tags": [
+                "Machine Learning Blogs"
+            ],
+            "title": "No Free Hunch",
+            "url": "http://blog.kaggle.com/"
+        }
+    ]
+}
