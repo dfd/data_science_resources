@@ -144,6 +144,10 @@ Podcast on Data Science, Statistics, Python, and R in academia and industry.
 by John D. Cook  
 "The following diagram summarizes conjugate prior relationships for a number of common sampling distributions."  
   
+[A Table of Narratives and Generated Distributions](http://b-k.github.io/narratives-distributions/index.html)  
+by Ben Klemens  
+"This project lists open-form narratives and the closed-form distributions that approximate them. Its intent is to help you build estimable statistical models on a sound micro-level foundation."  
+  
 ## <a name="StatisticsPackages"></a>Statistics Packages  
 
 [Statsmodels](http://statsmodels.sourceforge.net/)  

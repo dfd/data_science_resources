@@ -755,6 +755,15 @@
             "url": "http://www.johndcook.com/blog/conjugate_prior_diagram/"
         },
         {
+            "author": "Ben Klemens",
+            "description": "\"This project lists open-form narratives and the closed-form distributions that approximate them. Its intent is to help you build estimable statistical models on a sound micro-level foundation.\"",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "A Table of Narratives and Generated Distributions",
+            "url": "http://b-k.github.io/narratives-distributions/index.html"
+        },
+        {
             "author": "Kaggle",
             "description": "Interviews of Kaggle Compeition top finishers, and scripts shared by competitors.",
             "tags": [
