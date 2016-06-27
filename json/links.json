@@ -74,6 +74,52 @@
             "url": "http://www.inference.phy.cam.ac.uk/itila/"
         },
         {
+            "author": "Jure Leskovec, Anand Rajaraman, Jeff Ullman (Stanford University)",
+            "description": "\"The book is based on Stanford Computer Science course CS246: Mining Massive Datasets (and CS345A: Data Mining). The book, like the course, is designed at the undergraduate computer science level with no formal prerequisites. To support deeper explorations, most of the chapters are supplemented with further reading references.\"",
+            "tags": [
+                "Machine Learning Textbooks"
+            ],
+            "title": "Mining Massive Datasets",
+            "url": "http://www.mmds.org/#ver21"
+        },
+        {
+            "author": "Carl Edward Rasmussen and Christopher K. I. Williams",
+            "description": "\"Gaussian processes (GPs) provide a principled, practical, probabilistic approach to learning in kernel machines. GPs have received increased attention in the machine-learning community over the past decade, and this book provides a long-needed systematic and unified treatment of theoretical and practical aspects of GPs in machine learning. The treatment is comprehensive and self-contained, targeted at researchers and students in machine learning and applied statistics. The book deals with the supervised-learning problem for both regression and classification, and includes detailed algorithms. A wide variety of covariance (kernel) functions are presented and their properties discussed. Model selection is discussed both from a Bayesian and a classical perspective. Many connections to other well-known techniques from machine learning and statistics are discussed, including support-vector machines, neural networks, splines, regularization networks, relevance vector machines and others. Theoretical issues including learning curves and the PAC-Bayesian framework are treated, and several approximation methods for learning with large datasets are discussed. The book contains illustrative examples and exercises, and code and datasets are available on the Web. Appendixes provide mathematical background and a discussion of Gaussian Markov processes.\"",
+            "tags": [
+                "Machine Learning Textbooks"
+            ],
+            "title": "Gaussian Processes for Machine Learning",
+            "url": "http://www.gaussianprocess.org/gpml/"
+        },
+        {
+            "author": "Max Welling",
+            "description": "A nice introduction to various algorithms, with intuitive explanations of the formulas.",
+            "tags": [
+                "Machine Learning Textbooks"
+            ],
+            "title": "A First Encounter with Machine Learning",
+            "url": "https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf"
+        },
+        {
+            "author": "David Barber",
+            "description": "\"The book is designed to appeal to students with only a modest mathematical background in undergraduate calculus and linear algebra. No formal computer science or statistical background is required to follow the book, although a basic familiarity with probability, calculus and linear algebra would be useful. The book should appeal to students from a variety of backgrounds, including Computer Science, Engineering, applied Statistics, Physics, and Bioinformatics that wish to gain an entry to probabilistic approaches in Machine Learning. In order to engage with students, the book introduces fundamental concepts in inference using only minimal reference to algebra and calculus. More mathematical techniques are postponed until as and when required, always with the concept as primary and the mathematics secondary.\"",
+            "tags": [
+                "Machine Learning Textbooks",
+                "Statistics Textbooks"
+            ],
+            "title": "Bayesian Reasoning and Machine Learning",
+            "url": "http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online"
+        },
+        {
+            "author": "Richard S. Sutton and Andrew G. Barto",
+            "description": "\"The book consists of three parts. Part I is introductory and problem oriented. We focus on the simplest aspects of reinforcement learning and on its main distinguishing features. One full chapter is devoted to introducing the reinforcement learning problem whose solution we explore in the rest of the book. Part II presents what we see as the three most important elementary solution methods: dynamic programming, simple Monte Carlo methods, and temporal-difference learning. The first of these is a planning method and assumes explicit knowledge of all aspects of a problem, whereas the other two are learning methods. Part III is concerned with generalizing these methods and blending them. Eligibility traces allow unification of Monte Carlo and temporal-difference methods, and function approximation methods such as artificial neural networks extend all the methods so that they can be applied to much larger problems. We bring planning and learning methods together again and relate them to heuristic search. Finally, we summarize our view of the state of reinforcement learning research and briefly present case studies, including some of the most impressive applications of reinforcement learning to date.\"",
+            "tags": [
+                "Machine Learning Textbooks"
+            ],
+            "title": "Reinforcement Learning: An Introduction ",
+            "url": "http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html"
+        },
+        {
             "author": "Cosma Rohilla Shalizi",
             "description": "\"This book began as the notes for 36-402, Advanced Data Analysis, at Carnegie Mellon University... ADA is a class in statistical methodology: its aim is to get students to understand something of the range of modern methods of data analysis, and of the considerations which go into choosing the right method for the job at hand (rather than distorting the problem to fit the methods you happen to know). Statistical theory is kept to a minimum, and largely introduced as needed. Since ADA is also a class in data analysis, there are a lot of assignments in which large, real data sets are analyzed with the new methods.\"",
             "tags": [
@@ -124,6 +170,16 @@
             "url": "https://www.cs.cmu.edu/~15381/slides/linalg_notes.pdf"
         },
         {
+            "author": "Roger Levy",
+            "description": "\"I'm in the process of writing a textbook on the topic of using probabilistic models in scientific work on language ranging from experimental data analysis to corpus work to cognitive modeling. The intended audience is graduate students in linguistics, psychology, cognitive science, and computer science who are interested in using probabilistic models to study language.\"",
+            "tags": [
+                "R Textbooks",
+                "Statistics Textbooks"
+            ],
+            "title": "Probabilistic Models in the Study of Language",
+            "url": "http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html"
+        },
+        {
             "author": "Ani Adhikari and John DeNero",
             "description": "\"Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios.\" Uses Python 3.",
             "tags": [
@@ -160,6 +216,14 @@
             ],
             "title": "scikit-learn",
             "url": "http://scikit-learn.org/stable/"
+        },
+        {
+            "description": "Flow chart for Machine Learning Algorithms in scikit-learn.",
+            "tags": [
+                "Machine Learning Misc"
+            ],
+            "title": "scikit-learn algorithm cheat sheet",
+            "url": "http://scikit-learn.org/stable/tutorial/machine_learning_map/"
         },
         {
             "description": "\"*pandas* is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.\"",
@@ -267,6 +331,60 @@
             ],
             "title": "PyMC3",
             "url": "http://pymc-devs.github.io/pymc3/"
+        },
+        {
+            "description": "\"NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.\"",
+            "tags": [
+                "Machine Learning Packages",
+                "Python Packages"
+            ],
+            "title": "NLTK",
+            "url": "http://www.nltk.org/"
+        },
+        {
+            "description": "\"spaCy helps you write programs that do clever things with text. You give it a string of characters, it gives you an object that provides multiple useful views of its meaning and linguistic structure. Specifically, spaCy features a high performance tokenizer, part-of-speech tagger, named entity recognizer and syntactic dependency parser, with built-in support for word vectors. All of the functionality is united behind a clean high-level Python API, that makes it easy to use the different annotations together.\"",
+            "tags": [
+                "Machine Learning Packages",
+                "Python Packages"
+            ],
+            "title": "spaCy",
+            "url": "https://spacy.io/"
+        },
+        {
+            "description": "\"Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.\"",
+            "tags": [
+                "Machine Learning Packages",
+                "Python Packages"
+            ],
+            "title": "FuzzyWuzzy",
+            "url": "https://github.com/seatgeek/fuzzywuzzy"
+        },
+        {
+            "description": "\"OpenCV is released under a BSD license and hence it\u2019s free for both academic and commercial use. It has C++, C, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications.\"",
+            "tags": [
+                "Machine Learning Packages",
+                "Python Packages"
+            ],
+            "title": "OpenCV-Python",
+            "url": "http://opencv.org/"
+        },
+        {
+            "description": "\"SimpleCV is an open source framework for building computer vision applications. With it, you get access to several high-powered computer vision libraries such as OpenCV \u2013 without having to first learn about bit depths, file formats, color spaces, buffer management, eigenvalues, or matrix versus bitmap storage. This is computer vision made easy.\"",
+            "tags": [
+                "Machine Learning Packages",
+                "Python Packages"
+            ],
+            "title": "Simple CV",
+            "url": "http://simplecv.org/"
+        },
+        {
+            "description": "\"scikit-image is a collection of algorithms for image processing. It is available free of charge and free of restriction. We pride ourselves on high-quality, peer-reviewed code, written by an active community of volunteers.\"",
+            "tags": [
+                "Machine Learning Packages",
+                "Python Packages"
+            ],
+            "title": "scikit-image",
+            "url": "http://scikit-image.org/"
         },
         {
             "description": "\"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.\"",
@@ -551,6 +669,25 @@
             "url": "https://www.youtube.com/user/mathematicalmonk/playlists"
         },
         {
+            "author": "Yaser Abu-Mostafa (Caltech)",
+            "description": "Machine Learning course from Caltech. \"The fundamental concepts and techniques are explained in detail. The focus of the lectures is real understanding, not just 'knowing.'\"",
+            "tags": [
+                "Machine Learning Lectures"
+            ],
+            "title": "Learning From Data",
+            "url": "http://work.caltech.edu/lectures.html"
+        },
+        {
+            "author": "Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)",
+            "description": "",
+            "tags": [
+                "Machine Learning Lectures",
+                "Python Lectures"
+            ],
+            "title": "Data Science",
+            "url": "http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml"
+        },
+        {
             "author": "mathematicalmonk",
             "description": "43 Short Probability Lectures",
             "tags": [
@@ -651,6 +788,24 @@
             "url": "http://flowingdata.com/"
         },
         {
+            "author": "Hadley Wickham",
+            "description": "Material for Hadley Wickham's course on visualization at Rice University.",
+            "tags": [
+                "Visualization Misc"
+            ],
+            "title": "Data Visualisation",
+            "url": "http://had.co.nz/stat645/"
+        },
+        {
+            "author": "Unknown",
+            "description": "Flow chart for choosing a chart type.",
+            "tags": [
+                "Visualization Misc"
+            ],
+            "title": "Choosing a Data Chart",
+            "url": "http://img.labnol.org/di/data-chart-type.png"
+        },
+        {
             "author": "Cliburn Chan (Duke University)",
             "description": "Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.",
             "tags": [
@@ -658,6 +813,16 @@
             ],
             "title": "Computational Statistics in Python",
             "url": "http://people.duke.edu/~ccc14/sta-663-2016/index.html"
+        },
+        {
+            "author": "Carl Vogel",
+            "description": "Python implementations of examples from Machine Learning for Hackers. Uses Python 2.",
+            "tags": [
+                "Python Tutorials",
+                "Machine Learning Tutorials"
+            ],
+            "title": "Will it Python? Machine Learning for Hackers",
+            "url": "https://github.com/carljv/Will_it_Python/tree/master/MLFH"
         },
         {
             "author": "Chris Burns, Christophe Combelles, Emmanuelle Gouillart, and Ga\u00ebl Varoquaux",
@@ -703,6 +868,15 @@
             ],
             "title": "Neural Networks and Deep Learning",
             "url": "http://neuralnetworksanddeeplearning.com/"
+        },
+        {
+            "author": "Ian Goodfellow, Yoshua Bengio and Aaron Courville",
+            "description": "\"The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.\" A pdf version appears to be available here: https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf",
+            "tags": [
+                "Machine Learning Textbooks"
+            ],
+            "title": "Deep Learning",
+            "url": "http://www.deeplearningbook.org/"
         },
         {
             "author": "John Mount and Nina Zumel",
@@ -771,6 +945,43 @@
             ],
             "title": "No Free Hunch",
             "url": "http://blog.kaggle.com/"
+        },
+        {
+            "author": "Sebatian Raschka",
+            "description": "Blog of the author of the 'Python Machine Learning' book",
+            "tags": [
+                "Machine Learning Blogs"
+            ],
+            "title": "Sebatian Raschka's Blog",
+            "url": "http://sebastianraschka.com/blog/index.html"
+        },
+        {
+            "author": "Zygmunt Zaj\u0105c",
+            "description": "\"This site is brought to you by the letters \u201cM\u201d and \u201cL\u201d. It is meant to tackle interesting topics in machine learning while being entertaining and easy to read and understand. FastML probably grew out of a frustration with papers you need a PhD in math to understand and with either no code or half-baked Matlab implementation of homework-assignment quality. We understand that some cutting-edge researchers might have no interest in providing the goodies for free, or just no interest in such down-to-earth matters. But we don't have time nor desire to become experts in every machine learning topic. Fortunately, there is quite a lot of good software with acceptable documentation.\"",
+            "tags": [
+                "Machine Learning Blogs"
+            ],
+            "title": "Fast ML",
+            "url": "http://fastml.com/"
+        },
+        {
+            "author": "Chris Fonnesbeck",
+            "description": "A worked exmaple of Hierarchical Modeling using pystan",
+            "tags": [
+                "Statistics Tutorial",
+                "Python Tutorial"
+            ],
+            "title": "A Primer on Bayesian Multilevel Modeling using PyStan",
+            "url": "http://mc-stan.org/documentation/case-studies/radon.html"
+        },
+        {
+            "author": "Jake Vanderplas",
+            "description": "\"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics.\"",
+            "tags": [
+                "Statistics Lecture"
+            ],
+            "title": "Statistics for Hackers - PyCon 2016",
+            "url": "https://www.youtube.com/watch?v=L5GVOFAYi8k"
         }
     ]
 }

@@ -8,7 +8,8 @@
                 "Machine Learning Lectures",
                 "Machine Learning Blogs",
                 "Machine Learning Podcasts",
-                "Machine Learning Packages"
+                "Machine Learning Packages",
+                "Machine Learning Misc"
             ],
             "title": "Machine Learning"
         },
@@ -21,6 +22,7 @@
                 "Python Courses",
                 "R Courses",
                 "Spark Courses",
+                "Python Lectures",
                 "Programming Blogs",
                 "Python Podcasts",
                 "Python Packages",
@@ -49,7 +51,8 @@
             "headings": [
                 "Visualization Tutorials",
                 "Visualization Blogs",
-                "Visualization Packages"
+                "Visualization Packages",
+                "Visualization Misc"
             ],
             "title": "Visualization"
         }
