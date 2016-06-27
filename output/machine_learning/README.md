@@ -67,10 +67,6 @@ by Julia Ferraioli, Amy Unruh, Eli Bixby
 "Machine learning can be an intimidating subject. In this session, we’ll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
-[Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
-by Sebatian Raschka  
-  
-  
 ## <a name="MachineLearningCourses"></a>Machine Learning Courses  
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning)  
@@ -212,4 +208,8 @@ Other tags: [R Packages](../programming#RPackages)
 
 [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)  
 Flow chart for Machine Learning Algorithms in scikit-learn.  
+  
+[Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
+by Sebatian Raschka  
+  
   
