@@ -8,6 +8,7 @@
 [Python Courses](#PythonCourses)  
 [R Courses](#RCourses)  
 [Spark Courses](#SparkCourses)  
+[Python Lectures](#PythonLectures)  
 [Programming Blogs](#ProgrammingBlogs)  
 [Python Podcasts](#PythonPodcasts)  
 [Python Packages](#PythonPackages)  
@@ -56,6 +57,11 @@ by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 "During the past decade has been an explosion in computation and information technology. With it has come vast amounts of data in a variety of fields such as medicine, biology, finance, and marketing. The challenge of understanding these data has led to the development of new tools in the field of statistics, and spawned new areas such as data mining, machine learning, and bioinformatics. Many of these tools have common underpinnings but are often expressed with different terminology. This book descibes the important ideas in these areas in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of color graphics. It should be a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting--the first comprehensive treatment of this topic in any book."  
 Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks), [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks)   
   
+[Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html)  
+by Roger Levy  
+"I'm in the process of writing a textbook on the topic of using probabilistic models in scientific work on language ranging from experimental data analysis to corpus work to cognitive modeling. The intended audience is graduate students in linguistics, psychology, cognitive science, and computer science who are interested in using probabilistic models to study language."  
+Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks)   
+  
 ## <a name="PythonTutorials"></a>Python Tutorials  
 
 [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
@@ -66,6 +72,11 @@ Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)
 [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2016/index.html)  
 by Cliburn Chan (Duke University)  
 Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.  
+  
+[Will it Python? Machine Learning for Hackers](https://github.com/carljv/Will_it_Python/tree/master/MLFH)  
+by Carl Vogel  
+Python implementations of examples from Machine Learning for Hackers. Uses Python 2.  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
 [Scipy lecture notes](http://www.scipy-lectures.org/)  
 by Chris Burns, Christophe Combelles, Emmanuelle Gouillart, and Gaël Varoquaux  
@@ -97,6 +108,11 @@ Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)
 by Julia Ferraioli, Amy Unruh, Eli Bixby  
 "Machine learning can be an intimidating subject. In this session, we’ll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[A Primer on Bayesian Multilevel Modeling using PyStan](http://mc-stan.org/documentation/case-studies/radon.html)  
+by Chris Fonnesbeck  
+A worked exmaple of Hierarchical Modeling using pystan  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
 ## <a name="RTutorials"></a>R Tutorials  
 
@@ -158,6 +174,13 @@ by Anthony D. Joseph, UC Berkeley and Jon Bates, Databricks
 by Ameet Talwalkar, UCLA and Jon Bates, Databricks  
 "Building on the core ideas presented in Distributed Machine Learning with Spark, this course covers advanced topics for training and deploying large-scale learning pipelines. You will study state-of-the-art distributed algorithms for collaborative filtering, ensemble methods (e.g., random forests), clustering and topic modeling, with a focus on model parallelism and the crucial tradeoffs between computation and communication."  
 Other tags: [Machine Learning Courses](../machine_learning#MachineLearningCourses)   
+  
+## <a name="PythonLectures"></a>Python Lectures  
+
+[Data Science](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml)  
+by Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)  
+  
+Other tags: [Machine Learning Lectures](../machine_learning#MachineLearningLectures)   
   
 ## <a name="ProgrammingBlogs"></a>Programming Blogs  
 
@@ -233,6 +256,30 @@ Other tags: [Statistics Packages](../statistics#StatisticsPackages)
 [PyMC3](http://pymc-devs.github.io/pymc3/)  
 "PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems."  
 Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
+  
+[NLTK](http://www.nltk.org/)  
+"NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum."  
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
+  
+[spaCy](https://spacy.io/)  
+"spaCy helps you write programs that do clever things with text. You give it a string of characters, it gives you an object that provides multiple useful views of its meaning and linguistic structure. Specifically, spaCy features a high performance tokenizer, part-of-speech tagger, named entity recognizer and syntactic dependency parser, with built-in support for word vectors. All of the functionality is united behind a clean high-level Python API, that makes it easy to use the different annotations together."  
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
+  
+[FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)  
+"Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package."  
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
+  
+[OpenCV-Python](http://opencv.org/)  
+"OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, C, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications."  
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
+  
+[Simple CV](http://simplecv.org/)  
+"SimpleCV is an open source framework for building computer vision applications. With it, you get access to several high-powered computer vision libraries such as OpenCV – without having to first learn about bit depths, file formats, color spaces, buffer management, eigenvalues, or matrix versus bitmap storage. This is computer vision made easy."  
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
+  
+[scikit-image](http://scikit-image.org/)  
+"scikit-image is a collection of algorithms for image processing. It is available free of charge and free of restriction. We pride ourselves on high-quality, peer-reviewed code, written by an active community of volunteers."  
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
   
 [Theano](http://deeplearning.net/software/theano/)  
 "Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently."  

@@ -6,6 +6,7 @@
 [Statistics Tutorials](#StatisticsTutorials)  
 [Statistics Courses](#StatisticsCourses)  
 [Math Courses](#MathCourses)  
+[Statistics Lectures](#StatisticsLectures)  
 [Probability Lectures](#ProbabilityLectures)  
 [Information Theory Lectures](#InformationTheoryLectures)  
 [Statistics Blogs](#StatisticsBlogs)  
@@ -36,6 +37,11 @@ by David J.C. MacKay
 "This book is aimed at senior undergraduates and graduate students in Engineering, Science, Mathematics, and Computing. It expects familiarity with calculus, probability theory, and linear algebra as taught in a first- or secondyear undergraduate course on mathematics for scientists and engineers. Conventional courses on information theory cover not only the beautiful theoretical ideas of Shannon, but also practical solutions to communication problems. This book goes further, bringing in Bayesian data modelling, Monte Carlo methods, variational methods, clustering algorithms, and neural networks."  
 Other tags: [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks)   
   
+[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)  
+by David Barber  
+"The book is designed to appeal to students with only a modest mathematical background in undergraduate calculus and linear algebra. No formal computer science or statistical background is required to follow the book, although a basic familiarity with probability, calculus and linear algebra would be useful. The book should appeal to students from a variety of backgrounds, including Computer Science, Engineering, applied Statistics, Physics, and Bioinformatics that wish to gain an entry to probabilistic approaches in Machine Learning. In order to engage with students, the book introduces fundamental concepts in inference using only minimal reference to algebra and calculus. More mathematical techniques are postponed until as and when required, always with the concept as primary and the mathematics secondary."  
+Other tags: [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks)   
+  
 [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)  
 by Cosma Rohilla Shalizi  
 "This book began as the notes for 36-402, Advanced Data Analysis, at Carnegie Mellon University... ADA is a class in statistical methodology: its aim is to get students to understand something of the range of modern methods of data analysis, and of the considerations which go into choosing the right method for the job at hand (rather than distorting the problem to fit the methods you happen to know). Statistical theory is kept to a minimum, and largely introduced as needed. Since ADA is also a class in data analysis, there are a lot of assignments in which large, real data sets are analyzed with the new methods."  
@@ -50,6 +56,11 @@ Other tags: [Machine Learning Textbooks](../machine_learning#MachineLearningText
 by Trevor Hastie, Robert Tibshirani, Jerome Friedman  
 "During the past decade has been an explosion in computation and information technology. With it has come vast amounts of data in a variety of fields such as medicine, biology, finance, and marketing. The challenge of understanding these data has led to the development of new tools in the field of statistics, and spawned new areas such as data mining, machine learning, and bioinformatics. Many of these tools have common underpinnings but are often expressed with different terminology. This book descibes the important ideas in these areas in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of color graphics. It should be a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting--the first comprehensive treatment of this topic in any book."  
 Other tags: [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks), [R Textbooks](../programming#RTextbooks)   
+  
+[Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html)  
+by Roger Levy  
+"I'm in the process of writing a textbook on the topic of using probabilistic models in scientific work on language ranging from experimental data analysis to corpus work to cognitive modeling. The intended audience is graduate students in linguistics, psychology, cognitive science, and computer science who are interested in using probabilistic models to study language."  
+Other tags: [R Textbooks](../programming#RTextbooks)   
   
 [The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)  
 by Ani Adhikari and John DeNero  
@@ -83,6 +94,11 @@ by Allen Downey
 Allen Downey's PyCon tutorial for Bayesian Statistics in Python.  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
+[A Primer on Bayesian Multilevel Modeling using PyStan](http://mc-stan.org/documentation/case-studies/radon.html)  
+by Chris Fonnesbeck  
+A worked exmaple of Hierarchical Modeling using pystan  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
 ## <a name="StatisticsCourses"></a>Statistics Courses  
 
 [Statistical Learning](http://online.stanford.edu/course/statistical-learning-Winter-16)  
@@ -103,6 +119,12 @@ by Brian Caffo, Johns Hopkins University
 [Calculus One](https://www.coursera.org/learn/calculus1)  
 by Jim Fowler, The Ohio State University  
 "This course is a first and friendly introduction to calculus, suitable for someone who has never seen the subject before, or for someone who has seen some calculus but wants to review the concepts and practice applying those concepts to solve problems."  
+  
+## <a name="StatisticsLectures"></a>Statistics Lectures  
+
+[Statistics for Hackers - PyCon 2016](https://www.youtube.com/watch?v=L5GVOFAYi8k)  
+by Jake Vanderplas  
+"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics."  
   
 ## <a name="ProbabilityLectures"></a>Probability Lectures  
 

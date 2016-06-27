@@ -956,6 +956,15 @@
             "url": "http://sebastianraschka.com/blog/index.html"
         },
         {
+            "author": "Sebatian Raschka",
+            "description": "",
+            "tags": [
+                "Machine Learning Tutorials"
+            ],
+            "title": "Model evaluation, model selection, and algorithm selection in machine learning - Part I",
+            "url": "http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html"
+        },
+        {
             "author": "Zygmunt Zaj\u0105c",
             "description": "\"This site is brought to you by the letters \u201cM\u201d and \u201cL\u201d. It is meant to tackle interesting topics in machine learning while being entertaining and easy to read and understand. FastML probably grew out of a frustration with papers you need a PhD in math to understand and with either no code or half-baked Matlab implementation of homework-assignment quality. We understand that some cutting-edge researchers might have no interest in providing the goodies for free, or just no interest in such down-to-earth matters. But we don't have time nor desire to become experts in every machine learning topic. Fortunately, there is quite a lot of good software with acceptable documentation.\"",
             "tags": [
@@ -968,8 +977,8 @@
             "author": "Chris Fonnesbeck",
             "description": "A worked exmaple of Hierarchical Modeling using pystan",
             "tags": [
-                "Statistics Tutorial",
-                "Python Tutorial"
+                "Statistics Tutorials",
+                "Python Tutorials"
             ],
             "title": "A Primer on Bayesian Multilevel Modeling using PyStan",
             "url": "http://mc-stan.org/documentation/case-studies/radon.html"
@@ -978,7 +987,7 @@
             "author": "Jake Vanderplas",
             "description": "\"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics.\"",
             "tags": [
-                "Statistics Lecture"
+                "Statistics Lectures"
             ],
             "title": "Statistics for Hackers - PyCon 2016",
             "url": "https://www.youtube.com/watch?v=L5GVOFAYi8k"
