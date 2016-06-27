@@ -179,7 +179,7 @@ Other tags: [Machine Learning Courses](../machine_learning#MachineLearningCourse
 
 [Data Science](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml)  
 by Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)  
-  
+Lectures from Harvard Extension School's Data Science class  
 Other tags: [Machine Learning Lectures](../machine_learning#MachineLearningLectures)   
   
 ## <a name="ProgrammingBlogs"></a>Programming Blogs  

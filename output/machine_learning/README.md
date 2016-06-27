@@ -114,7 +114,7 @@ Machine Learning course from Caltech. "The fundamental concepts and techniques a
   
 [Data Science](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml)  
 by Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)  
-  
+Lectures from Harvard Extension School's Data Science class  
 Other tags: [Python Lectures](../programming#PythonLectures)   
   
 ## <a name="MachineLearningBlogs"></a>Machine Learning Blogs  

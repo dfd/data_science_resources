@@ -679,7 +679,7 @@
         },
         {
             "author": "Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)",
-            "description": "",
+            "description": "Lectures from Harvard Extension School's Data Science class",
             "tags": [
                 "Machine Learning Lectures",
                 "Python Lectures"
