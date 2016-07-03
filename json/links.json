@@ -642,6 +642,15 @@
             "url": "http://online.stanford.edu/course/statistical-learning-Winter-16"
         },
         {
+            "author": "David Robinson and Neo Christopher Chung (Princeton University)",
+            "description": "\"This course combines video, HTML and interactive components to teach the statistical programming language R.\"",
+            "tags": [
+                "R Courses"
+            ],
+            "title": "Data Analysis and Visualization Using R",
+            "url": "http://varianceexplained.org/RData/"
+        },
+        {
             "author": "Brian Caffo, Johns Hopkins University",
             "description": "\"This class presents the fundamental probability and statistical concepts used in elementary data analysis. It will be taught at an introductory level for students with junior or senior college-level mathematical training including a working knowledge of calculus. A small amount of linear algebra and programming are useful for the class, but not required.\"",
             "tags": [

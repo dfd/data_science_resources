@@ -151,6 +151,10 @@ by Trevor Hastie and Rob Tibshirani, Stanford University
 "This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical)."  
 Other tags: [Statistics Courses](../statistics#StatisticsCourses), [Machine Learning Courses](../machine_learning#MachineLearningCourses)   
   
+[Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)  
+by David Robinson and Neo Christopher Chung (Princeton University)  
+"This course combines video, HTML and interactive components to teach the statistical programming language R."  
+  
 ## <a name="SparkCourses"></a>Spark Courses  
 
 [Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)  
