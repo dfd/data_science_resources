@@ -160,6 +160,10 @@ Other tags: [Machine Learning Blogs](../machine_learning#MachineLearningBlogs), 
 by Roger Peng (Johns Hopkins University) and Hilary Mason  
 Podcast on Data Science, Statistics, Python, and R in academia and industry.  
   
+[Data Skeptic](http://dataskeptic.com/)  
+by Kyle and Linh Da  
+"Data Skeptic is a podcast that alternates between short mini episodes and longer interviews. For the mini-episodes, Kyle and Linh Da explore basic data science concepts. Longer interviews feature practitioners and experts on interesting topics related to data, all through the eye of scientific skepticism."  
+  
 ## <a name="StatisticsMisc"></a>Statistics Misc  
 
 [Diagram of Bayesian Conjugate Priors](http://www.johndcook.com/blog/conjugate_prior_diagram/)  

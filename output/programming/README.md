@@ -40,6 +40,10 @@ Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks)
 by Charles Severance (with material adapted from Allen Downey)  
 "The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics."  
   
+[Effective Pandas](https://leanpub.com/effective-pandas)  
+by Tom Augspurger  
+"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It’s targeted at an intermediate level: people who have some experince with pandas, but are looking to improve." Based on series of posts found here: <a href='http://tomaugspurger.github.io/modern-1.html'>http://tomaugspurger.github.io/modern-1.html</a>Payment optional.  
+  
 ## <a name="RTextbooks"></a>R Textbooks  
 
 [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)  
@@ -109,6 +113,41 @@ by Julia Ferraioli, Amy Unruh, Eli Bixby
 "Machine learning can be an intimidating subject. In this session, we’ll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
+[Tidy Data In Python](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)  
+by Jean Francois Puget  
+Tutorial on preparing data sets using Pandas  
+  
+[12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)  
+by Aarshay Jain  
+"This article focuses on providing 12 ways for data manipulation in Python. I’ve also shared some tips & tricks which will allow you to work faster."  
+  
+[Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
+by Skipper Seabold  
+Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Things in Pandas I Wish I'd Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)  
+by Sebastian Raschka  
+"This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful"  
+  
+[Pandas Pivot Table Explained](http://pbpython.com/pandas-pivot-table-explained.html)  
+by Chris Moffitt  
+"This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis."  
+  
+[Exploring Seaborn and Pandas based plot types in HoloViews](http://philippjfr.com/blog/seabornviews/)  
+by Philipp Rudiger  
+"In this notebook we'll look at interfacing between the composability and ability to generate complex visualizations that HoloViews provides and the great looking plots incorporated in the seaborn library. Along the way we'll explore how to wrap different types of data in a number of Seaborn View types, including: Distribution Views, Bivariate Views, TimeSeries Views"  
+Other tags: [Visualization Tutorials](../visualizaiton#VisualizationTutorials)   
+  
+[SQL for pandas DataFrames](http://blog.yhat.com/posts/pandasql-sql-for-pandas-dataframes.html)  
+by yhat  
+"This is a post about pandasql, a library we're open-sourcing for Python which lets you use SQL on pandas dataframes."  
+  
+[Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)  
+by Zac Stewart  
+"The following is a moderately detailed explanation and a few examples of how I use pipelining when I work on competitions."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
 [A Primer on Bayesian Multilevel Modeling using PyStan](http://mc-stan.org/documentation/case-studies/radon.html)  
 by Chris Fonnesbeck  
 A worked exmaple of Hierarchical Modeling using pystan  
@@ -116,6 +155,10 @@ Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)
   
 ## <a name="RTutorials"></a>R Tutorials  
 
+[Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf)  
+by Hadley Wickham  
+"A huge amount of effort is spent cleaning data to get it ready for analysis, but there has been little research on how to make data cleaning as easy and effective as possible. This paper tackles a small, but important, component of data cleaning: data tidying. Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. This framework makes it easy to tidy messy datasets because only a small set of tools are needed to deal with a wide range of un-tidy datasets. This structure also makes it easier to develop tidy tools for data analysis, tools that both input and output tidy datasets. The advantages of a consistent data structure and matching tools are demonstrated with a case study free from mundane data manipulation chores."  
+  
 ## <a name="PythonCourses"></a>Python Courses  
 
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8)  

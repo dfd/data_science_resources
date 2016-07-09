@@ -67,6 +67,16 @@ by Julia Ferraioli, Amy Unruh, Eli Bixby
 "Machine learning can be an intimidating subject. In this session, we’ll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
+[Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
+by Skipper Seabold  
+Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)  
+by Zac Stewart  
+"The following is a moderately detailed explanation and a few examples of how I use pipelining when I work on competitions."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
 ## <a name="MachineLearningCourses"></a>Machine Learning Courses  
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning)  
