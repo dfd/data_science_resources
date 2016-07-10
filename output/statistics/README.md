@@ -19,10 +19,12 @@
 [Think Stats 2e](http://greenteapress.com/thinkstats2/index.html)  
 by Allen Downey  
 "Think Stats is an introduction to Probability and Statistics for Python programmers. Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets. If you have basic skills in Python, you can use them to learn concepts in probability and statistics. Think Stats is based on a Python library for probability distributions (PMFs and CDFs). Many of the exercises use short programs to run experiments and help readers develop understanding."  
+Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)   
   
 [Think Bayes](http://greenteapress.com/wp/think-bayes/)  
 by Allen Downey  
 "Think Bayes is an introduction to Bayesian statistics using computational methods. Most books on Bayesian statistics use mathematical notation and present ideas in terms of mathematical concepts like calculus. This book uses Python code instead of math, and discrete approximations instead of continuous mathematics. As a result, what would be an integral in a math book becomes a summation, and most operations on probability distributions are simple loops."  
+Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)   
   
 [Think DSP](http://greenteapress.com/wp/think-dsp/)  
 by Allen Downey  
@@ -50,7 +52,7 @@ Other tags: [R Textbooks](../programming#RTextbooks)
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)  
 by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani  
 "This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist."  
-Other tags: [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks), [R Textbooks](../programming#RTextbooks)   
+Other tags: [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks), [R Textbooks](../programming#RTextbooks), [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
 [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)  
 by Trevor Hastie, Robert Tibshirani, Jerome Friedman  
@@ -65,7 +67,7 @@ Other tags: [R Textbooks](../programming#RTextbooks)
 [The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)  
 by Ani Adhikari and John DeNero  
 "Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios." Uses Python 3.  
-Other tags: [Python Textbooks](../programming#PythonTextbooks)   
+Other tags: [Python Textbooks](../programming#PythonTextbooks), [Beginner Statistics](../beginner#BeginnerStatistics)   
   
 ## <a name="MathTextbooks"></a>Math Textbooks  
 
@@ -125,6 +127,7 @@ by Jim Fowler, The Ohio State University
 [Statistics for Hackers - PyCon 2016](https://www.youtube.com/watch?v=L5GVOFAYi8k)  
 by Jake Vanderplas  
 "Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics."  
+Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)   
   
 ## <a name="ProbabilityLectures"></a>Probability Lectures  
 
@@ -163,6 +166,7 @@ Podcast on Data Science, Statistics, Python, and R in academia and industry.
 [Data Skeptic](http://dataskeptic.com/)  
 by Kyle and Linh Da  
 "Data Skeptic is a podcast that alternates between short mini episodes and longer interviews. For the mini-episodes, Kyle and Linh Da explore basic data science concepts. Longer interviews feature practitioners and experts on interesting topics related to data, all through the eye of scientific skepticism."  
+Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)   
   
 ## <a name="StatisticsMisc"></a>Statistics Misc  
 
@@ -173,20 +177,21 @@ by John D. Cook
 [A Table of Narratives and Generated Distributions](http://b-k.github.io/narratives-distributions/index.html)  
 by Ben Klemens  
 "This project lists open-form narratives and the closed-form distributions that approximate them. Its intent is to help you build estimable statistical models on a sound micro-level foundation."  
+Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)   
   
 ## <a name="StatisticsPackages"></a>Statistics Packages  
 
 [Statsmodels](http://statsmodels.sourceforge.net/)  
 "Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator."  
-Other tags: [Python Packages](../programming#PythonPackages)   
+Other tags: [Python Packages](../programming#PythonPackages), [Beginner Python](../beginner#BeginnerPython)   
   
 [NumPy](http://www.numpy.org/)  
 "NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities."  
-Other tags: [Python Packages](../programming#PythonPackages)   
+Other tags: [Python Packages](../programming#PythonPackages), [Beginner Python](../beginner#BeginnerPython)   
   
 [SciPy](https://www.scipy.org/scipylib/index.html)  
 "It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization."  
-Other tags: [Python Packages](../programming#PythonPackages)   
+Other tags: [Python Packages](../programming#PythonPackages), [Beginner Python](../beginner#BeginnerPython)   
   
 [PyMC](https://pymc-devs.github.io/pymc/)  
 "PyMC is a python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo. Its flexibility and extensibility make it applicable to a large suite of problems. Along with core sampling functionality, PyMC includes methods for summarizing output, plotting, goodness-of-fit and convergence diagnostics."  
@@ -196,13 +201,17 @@ Other tags: [Python Packages](../programming#PythonPackages)
 "PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems."  
 Other tags: [Python Packages](../programming#PythonPackages)   
   
+[PyStan](https://pystan.readthedocs.io/en/latest/)  
+"PyStan provides an interface to Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo."  
+Other tags: [Python Packages](../programming#PythonPackages)   
+  
 [vtreat](https://cran.r-project.org/web/packages/vtreat/index.html)  
 "A data.frame processor/conditioner that prepares real-world data for predictive modeling in a statistically sound manner. Prepares variables so that data has fewer exceptional cases, making it easier to safely use models in production. Common problems 'vtreat' defends against: Inf, NA, too many categorical levels, rare categorical levels, new categorical levels (levels seen during application, but not during training)."  
 Other tags: [R Packages](../programming#RPackages)   
   
 [MASS](https://cran.r-project.org/web/packages/MASS/index.html)  
 "Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002)."  
-Other tags: [R Packages](../programming#RPackages)   
+Other tags: [R Packages](../programming#RPackages), [Beginner R](../beginner#BeginnerR)   
   
 ## <a name="MathPackages"></a>Math Packages  
 

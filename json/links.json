@@ -4,7 +4,8 @@
             "author": "Allen Downey",
             "description": "\"Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\" Uses Python 3.",
             "tags": [
-                "Python Textbooks"
+                "Python Textbooks",
+                "Beginner Python"
             ],
             "title": "Think Python 2e",
             "url": "http://greenteapress.com/wp/think-python-2e/"
@@ -13,7 +14,8 @@
             "author": "Allen Downey",
             "description": "\"Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\" Uses Python 2.",
             "tags": [
-                "Python Textbooks"
+                "Python Textbooks",
+                "Beginner Python"
             ],
             "title": "Think Python 1e",
             "url": "http://greenteapress.com/wp/think-python/"
@@ -22,7 +24,8 @@
             "author": "Allen Downey",
             "description": "\"Think Stats is an introduction to Probability and Statistics for Python programmers. Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets. If you have basic skills in Python, you can use them to learn concepts in probability and statistics. Think Stats is based on a Python library for probability distributions (PMFs and CDFs). Many of the exercises use short programs to run experiments and help readers develop understanding.\"",
             "tags": [
-                "Statistics Textbooks"
+                "Statistics Textbooks",
+                "Beginner Statistics"
             ],
             "title": "Think Stats 2e",
             "url": "http://greenteapress.com/thinkstats2/index.html"
@@ -31,7 +34,8 @@
             "author": "Allen Downey",
             "description": "\"Think Bayes is an introduction to Bayesian statistics using computational methods. Most books on Bayesian statistics use mathematical notation and present ideas in terms of mathematical concepts like calculus. This book uses Python code instead of math, and discrete approximations instead of continuous mathematics. As a result, what would be an integral in a math book becomes a summation, and most operations on probability distributions are simple loops.\"",
             "tags": [
-                "Statistics Textbooks"
+                "Statistics Textbooks",
+                "Beginner Statistics"
             ],
             "title": "Think Bayes",
             "url": "http://greenteapress.com/wp/think-bayes/"
@@ -95,7 +99,8 @@
             "author": "Max Welling",
             "description": "A nice introduction to various algorithms, with intuitive explanations of the formulas.",
             "tags": [
-                "Machine Learning Textbooks"
+                "Machine Learning Textbooks",
+                "Beginner Machine Learning"
             ],
             "title": "A First Encounter with Machine Learning",
             "url": "https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf"
@@ -144,7 +149,8 @@
             "tags": [
                 "Statistics Textbooks",
                 "Machine Learning Textbooks",
-                "R Textbooks"
+                "R Textbooks",
+                "Beginner Machine Learning"
             ],
             "title": "An Introduction to Statistical Learning",
             "url": "http://www-bcf.usc.edu/~gareth/ISL/"
@@ -184,7 +190,8 @@
             "description": "\"Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios.\" Uses Python 3.",
             "tags": [
                 "Python Textbooks",
-                "Statistics Textbooks"
+                "Statistics Textbooks",
+                "Beginner Statistics"
             ],
             "title": "The Foundations of Data Science",
             "url": "https://www.gitbook.com/book/ds8/textbook/details"
@@ -212,7 +219,8 @@
             "description": "\"Simple and efficient tools for data mining and data analysis.\"",
             "tags": [
                 "Machine Learning Packages",
-                "Python Packages"
+                "Python Packages",
+                "Beginner Machine Learning"
             ],
             "title": "scikit-learn",
             "url": "http://scikit-learn.org/stable/"
@@ -220,7 +228,8 @@
         {
             "description": "Flow chart for Machine Learning Algorithms in scikit-learn.",
             "tags": [
-                "Machine Learning Misc"
+                "Machine Learning Misc",
+                "Beginner Machine Learning"
             ],
             "title": "scikit-learn algorithm cheat sheet",
             "url": "http://scikit-learn.org/stable/tutorial/machine_learning_map/"
@@ -228,7 +237,8 @@
         {
             "description": "\"*pandas* is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.\"",
             "tags": [
-                "Python Packages"
+                "Python Packages",
+                "Beginner Python"
             ],
             "title": "pandas",
             "url": "http://scikit-learn.org/stable/"
@@ -237,7 +247,8 @@
             "description": "\"Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator.\"",
             "tags": [
                 "Python Packages",
-                "Statistics Packages"
+                "Statistics Packages",
+                "Beginner Python"
             ],
             "title": "Statsmodels",
             "url": "http://statsmodels.sourceforge.net/"
@@ -246,7 +257,8 @@
             "description": "\"NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities.\"",
             "tags": [
                 "Python Packages",
-                "Statistics Packages"
+                "Statistics Packages",
+                "Beginner Python"
             ],
             "title": "NumPy",
             "url": "http://www.numpy.org/"
@@ -255,7 +267,8 @@
             "description": "\"It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization.\"",
             "tags": [
                 "Python Packages",
-                "Statistics Packages"
+                "Statistics Packages",
+                "Beginner Python"
             ],
             "title": "SciPy",
             "url": "https://www.scipy.org/scipylib/index.html"
@@ -264,7 +277,8 @@
             "description": "\"matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell..., web application servers, and six graphical user interface toolkits.\"",
             "tags": [
                 "Python Packages",
-                "Visualization Packages"
+                "Visualization Packages",
+                "Beginner Python"
             ],
             "title": "matplotlib",
             "url": "http://matplotlib.org/"
@@ -331,6 +345,15 @@
             ],
             "title": "PyMC3",
             "url": "http://pymc-devs.github.io/pymc3/"
+        },
+        {
+            "description": "\"PyStan provides an interface to Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo.\"",
+            "tags": [
+                "Python Packages",
+                "Statistics Packages"
+            ],
+            "title": "PyStan",
+            "url": "https://pystan.readthedocs.io/en/latest/"
         },
         {
             "description": "\"NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.\"",
@@ -426,7 +449,8 @@
             "description": "\"The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation.\"",
             "tags": [
                 "R Packages",
-                "Machine Learning Packages"
+                "Machine Learning Packages",
+                "Beginner R"
             ],
             "title": "caret",
             "url": "http://topepo.github.io/caret/index.html"
@@ -444,7 +468,8 @@
             "description": "\"A powerful and elegant high-level data visualization system inspired by Trellis graphics, with an emphasis on multivariate data. Lattice is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an introduction.\"",
             "tags": [
                 "R Packages",
-                "Visualization Packages"
+                "Visualization Packages",
+                "Beginner R"
             ],
             "title": "Lattice",
             "url": "https://cran.r-project.org/web/packages/lattice/index.html"
@@ -453,7 +478,8 @@
             "description": "\"ggplot2 is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics.\"",
             "tags": [
                 "R Packages",
-                "Visualization Packages"
+                "Visualization Packages",
+                "Beginner R"
             ],
             "title": "ggplot2",
             "url": "http://ggplot2.org/"
@@ -462,7 +488,8 @@
             "description": "\"Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002).\"",
             "tags": [
                 "R Packages",
-                "Statistics Packages"
+                "Statistics Packages",
+                "Beginner R"
             ],
             "title": "MASS",
             "url": "https://cran.r-project.org/web/packages/MASS/index.html"
@@ -502,7 +529,7 @@
         },
         {
             "author": "Tom Augspurger",
-            "description": "\"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It\u2019s targeted at an intermediate level: people who have some experince with pandas, but are looking to improve.\" Based on series of posts found here: <a href='http://tomaugspurger.github.io/modern-1.html'>http://tomaugspurger.github.io/modern-1.html</a>Payment optional.",
+            "description": "\"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It's targeted at an intermediate level: people who have some experince with pandas, but are looking to improve.\" Based on series of posts found here: <a href='http://tomaugspurger.github.io/modern-1.html'>http://tomaugspurger.github.io/modern-1.html</a> Payment optional.",
             "tags": [
                 "Python Textbooks"
             ],
@@ -513,7 +540,8 @@
             "author": "Andrew Ng, Stanford University",
             "description": "\"This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.\"",
             "tags": [
-                "Machine Learning Courses"
+                "Machine Learning Courses",
+                "Beginner Machine Learning"
             ],
             "title": "Machine Learning",
             "url": "https://www.coursera.org/learn/machine-learning"
@@ -534,13 +562,14 @@
                 "Machine Learning Courses"
             ],
             "title": "Probabilistic Graphical Models",
-            "url": "https://class.coursera.org/pgm/lecture/preview"
+            "url": "https://www.coursera.org/learn/probabilistic-graphical-models"
         },
         {
             "author": "Eric Grimson, John Guttag, and Ana Bell, MIT",
             "description": "\"What you'll learn: A Notion of computation, The Python programming language, Some simple algorithms, Testing and debugging, An informal introduction to algorithmic complexity, Data structures\"",
             "tags": [
-                "Python Courses"
+                "Python Courses",
+                "Beginner Python"
             ],
             "title": "Introduction to Computer Science and Programming Using Python",
             "url": "https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8"
@@ -558,7 +587,8 @@
             "author": "Filip Schouwenaars, Microsoft",
             "description": "\"In this practical course, you will start from the very beginning, with basic arithmetic and variables, and learn how to handle data structures, such as Python lists, Numpy arrays, and Pandas DataFrames. Along the way, you'll learn about Python functions and control flow. Plus, you'll look at the world of data visualizations with Python and create your own stunning visualizations based on real data.\"",
             "tags": [
-                "Python Courses"
+                "Python Courses",
+                "Beginner Python"
             ],
             "title": "Introduction to Python for Data Science",
             "url": "https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-1"
@@ -577,7 +607,8 @@
             "author": "Filip Schouwenaars, Microsoft",
             "description": "\"This introduction to R programming course will help you master the basics of R. In seven sections, you will cover its basic syntax, making you ready to undertake your own first data analysis using R. Starting from variables and basic operations, you will eventually learn how to handle data structures such as vectors, matrices, data frames and lists. In the final section, you will dive deeper into the graphical capabilities of R, and create your own stunning data visualizations. No prior knowledge in programming or data science is required.\"",
             "tags": [
-                "R Courses"
+                "R Courses",
+                "Beginner R"
             ],
             "title": "Introduction to R for Data Science",
             "url": "https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0"
@@ -654,7 +685,9 @@
             "author": "David Robinson and Neo Christopher Chung (Princeton University)",
             "description": "\"This course combines video, HTML and interactive components to teach the statistical programming language R.\"",
             "tags": [
-                "R Courses"
+                "R Courses",
+                "Beginner R",
+                "Beginner Visualization"
             ],
             "title": "Data Analysis and Visualization Using R",
             "url": "http://varianceexplained.org/RData/"
@@ -818,7 +851,8 @@
             "author": "Unknown",
             "description": "Flow chart for choosing a chart type.",
             "tags": [
-                "Visualization Misc"
+                "Visualization Misc",
+                "Beginner Visualization"
             ],
             "title": "Choosing a Data Chart",
             "url": "http://img.labnol.org/di/data-chart-type.png"
@@ -827,7 +861,8 @@
             "author": "Cliburn Chan (Duke University)",
             "description": "Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "Computational Statistics in Python",
             "url": "http://people.duke.edu/~ccc14/sta-663-2016/index.html"
@@ -846,7 +881,8 @@
             "author": "Chris Burns, Christophe Combelles, Emmanuelle Gouillart, and Ga\u00ebl Varoquaux",
             "description": "\"Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.\"",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "Scipy lecture notes",
             "url": "http://www.scipy-lectures.org/"
@@ -855,7 +891,8 @@
             "author": "Python Software Foundation",
             "description": "Tutorials and Documentation for Beginner, Moderate, and Advanced Users.  Available for Python 2 and 3.",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "Official Python Documentation",
             "url": "https://www.python.org/doc/"
@@ -864,7 +901,8 @@
             "author": "Kunal Jain",
             "description": "Covers basics through predictive modeling in Python 2.",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "A Complete Tutorial to Learn Data Science with Python from Scratch",
             "url": "http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/"
@@ -873,7 +911,8 @@
             "author": "Kunal Jain",
             "description": "\"In this guide, I will use NumPy, Matplotlib, Seaborn and Pandas to perform data exploration.\" Uses Python 2.",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas",
             "url": "http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/"
@@ -929,7 +968,7 @@
         },
         {
             "author": "Julia Ferraioli, Amy Unruh, Eli Bixby",
-            "description": "\"Machine learning can be an intimidating subject. In this session, we\u2019ll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We\u2019ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization.\"",
+            "description": "\"Machine learning can be an intimidating subject. In this session, we'll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We\u2019ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization.\"",
             "tags": [
                 "Python Tutorials",
                 "Machine Learning Tutorials"
@@ -941,7 +980,8 @@
             "author": "Jean Francois Puget",
             "description": "Tutorial on preparing data sets using Pandas",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "Tidy Data In Python",
             "url": "https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en"
@@ -957,9 +997,10 @@
         },
         {
             "author": "Aarshay Jain",
-            "description": "\"This article focuses on providing 12 ways for data manipulation in Python. I\u2019ve also shared some tips & tricks which will allow you to work faster.\"",
+            "description": "\"This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster.\"",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "12 Useful Pandas Techniques in Python for Data Manipulation",
             "url": "http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/"
@@ -969,7 +1010,9 @@
             "description": "Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.",
             "tags": [
                 "Python Tutorials",
-                "Machine Learning Tutorials"
+                "Machine Learning Tutorials",
+                "Beginner Machine Learning",
+                "Beginner Python"
             ],
             "title": "Using pandas and scikit-learn for classification tasks",
             "url": "https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb"
@@ -978,7 +1021,8 @@
             "author": "Sebastian Raschka",
             "description": "\"This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful\"",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "Things in Pandas I Wish I'd Known Earlier",
             "url": "http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb"
@@ -987,7 +1031,8 @@
             "author": "Chris Moffitt",
             "description": "\"This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis.\"",
             "tags": [
-                "Python Tutorials"
+                "Python Tutorials",
+                "Beginner Python"
             ],
             "title": "Pandas Pivot Table Explained",
             "url": "http://pbpython.com/pandas-pivot-table-explained.html"
@@ -1025,7 +1070,8 @@
             "author": "Kyle and Linh Da",
             "description": "\"Data Skeptic is a podcast that alternates between short mini episodes and longer interviews. For the mini-episodes, Kyle and Linh Da explore basic data science concepts. Longer interviews feature practitioners and experts on interesting topics related to data, all through the eye of scientific skepticism.\"",
             "tags": [
-                "Statistics Podcasts"
+                "Statistics Podcasts",
+                "Beginner Statistics"
             ],
             "title": "Data Skeptic",
             "url": "http://dataskeptic.com/"
@@ -1043,7 +1089,8 @@
             "author": "Ben Klemens",
             "description": "\"This project lists open-form narratives and the closed-form distributions that approximate them. Its intent is to help you build estimable statistical models on a sound micro-level foundation.\"",
             "tags": [
-                "Statistics Misc"
+                "Statistics Misc",
+                "Beginner Statistics"
             ],
             "title": "A Table of Narratives and Generated Distributions",
             "url": "http://b-k.github.io/narratives-distributions/index.html"
@@ -1098,7 +1145,8 @@
             "author": "Jake Vanderplas",
             "description": "\"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics.\"",
             "tags": [
-                "Statistics Lectures"
+                "Statistics Lectures",
+                "Beginner Statistics"
             ],
             "title": "Statistics for Hackers - PyCon 2016",
             "url": "https://www.youtube.com/watch?v=L5GVOFAYi8k"

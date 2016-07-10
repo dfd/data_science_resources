@@ -18,10 +18,12 @@
 [Think Python 2e](http://greenteapress.com/wp/think-python-2e/)  
 by Allen Downey  
 "Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters." Uses Python 3.  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Think Python 1e](http://greenteapress.com/wp/think-python/)  
 by Allen Downey  
 "Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters." Uses Python 2.  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Think Complexity](http://greenteapress.com/complexity/index.html)  
 by Allen Downey  
@@ -34,7 +36,7 @@ by Muhammad Yasoob Ullah Khalid
 [The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)  
 by Ani Adhikari and John DeNero  
 "Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios." Uses Python 3.  
-Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks)   
+Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks), [Beginner Statistics](../beginner#BeginnerStatistics)   
   
 [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)  
 by Charles Severance (with material adapted from Allen Downey)  
@@ -42,7 +44,7 @@ by Charles Severance (with material adapted from Allen Downey)
   
 [Effective Pandas](https://leanpub.com/effective-pandas)  
 by Tom Augspurger  
-"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It’s targeted at an intermediate level: people who have some experince with pandas, but are looking to improve." Based on series of posts found here: <a href='http://tomaugspurger.github.io/modern-1.html'>http://tomaugspurger.github.io/modern-1.html</a>Payment optional.  
+"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It's targeted at an intermediate level: people who have some experince with pandas, but are looking to improve." Based on series of posts found here: <a href='http://tomaugspurger.github.io/modern-1.html'>http://tomaugspurger.github.io/modern-1.html</a> Payment optional.  
   
 ## <a name="RTextbooks"></a>R Textbooks  
 
@@ -54,7 +56,7 @@ Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks)
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)  
 by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani  
 "This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist."  
-Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks), [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks)   
+Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks), [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks), [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
 [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)  
 by Trevor Hastie, Robert Tibshirani, Jerome Friedman  
@@ -76,6 +78,7 @@ Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)
 [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2016/index.html)  
 by Cliburn Chan (Duke University)  
 Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Will it Python? Machine Learning for Hackers](https://github.com/carljv/Will_it_Python/tree/master/MLFH)  
 by Carl Vogel  
@@ -85,18 +88,22 @@ Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTuto
 [Scipy lecture notes](http://www.scipy-lectures.org/)  
 by Chris Burns, Christophe Combelles, Emmanuelle Gouillart, and Gaël Varoquaux  
 "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Official Python Documentation](https://www.python.org/doc/)  
 by Python Software Foundation  
 Tutorials and Documentation for Beginner, Moderate, and Advanced Users.  Available for Python 2 and 3.  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)  
 by Kunal Jain  
 Covers basics through predictive modeling in Python 2.  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)  
 by Kunal Jain  
 "In this guide, I will use NumPy, Matplotlib, Seaborn and Pandas to perform data exploration." Uses Python 2.  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Allen Downey - Computational Statistics - PyCon 2016](https://www.youtube.com/watch?v=VR52vSbHBAk)  
 by Allen Downey  
@@ -110,29 +117,33 @@ Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)
   
 [Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk)  
 by Julia Ferraioli, Amy Unruh, Eli Bixby  
-"Machine learning can be an intimidating subject. In this session, we’ll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
+"Machine learning can be an intimidating subject. In this session, we'll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
 [Tidy Data In Python](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)  
 by Jean Francois Puget  
 Tutorial on preparing data sets using Pandas  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)  
 by Aarshay Jain  
-"This article focuses on providing 12 ways for data manipulation in Python. I’ve also shared some tips & tricks which will allow you to work faster."  
+"This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster."  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
 by Skipper Seabold  
 Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
-Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials), [Beginner Machine Learning](../beginner#BeginnerMachineLearning), [Beginner Python](../beginner#BeginnerPython)   
   
 [Things in Pandas I Wish I'd Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)  
 by Sebastian Raschka  
 "This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful"  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Pandas Pivot Table Explained](http://pbpython.com/pandas-pivot-table-explained.html)  
 by Chris Moffitt  
 "This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis."  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Exploring Seaborn and Pandas based plot types in HoloViews](http://philippjfr.com/blog/seabornviews/)  
 by Philipp Rudiger  
@@ -164,6 +175,7 @@ by Hadley Wickham
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8)  
 by Eric Grimson, John Guttag, and Ana Bell, MIT  
 "What you'll learn: A Notion of computation, The Python programming language, Some simple algorithms, Testing and debugging, An informal introduction to algorithmic complexity, Data structures"  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)  
 by Eric Grimson, John Guttag, and Ana Bell, MIT  
@@ -172,6 +184,7 @@ by Eric Grimson, John Guttag, and Ana Bell, MIT
 [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)  
 by Filip Schouwenaars, Microsoft  
 "In this practical course, you will start from the very beginning, with basic arithmetic and variables, and learn how to handle data structures, such as Python lists, Numpy arrays, and Pandas DataFrames. Along the way, you'll learn about Python functions and control flow. Plus, you'll look at the world of data visualizations with Python and create your own stunning visualizations based on real data."  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)  
 by Authman Apatira, Microsoft  
@@ -183,6 +196,7 @@ Other tags: [Machine Learning Courses](../machine_learning#MachineLearningCourse
 [Introduction to R for Data Science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0)  
 by Filip Schouwenaars, Microsoft  
 "This introduction to R programming course will help you master the basics of R. In seven sections, you will cover its basic syntax, making you ready to undertake your own first data analysis using R. Starting from variables and basic operations, you will eventually learn how to handle data structures such as vectors, matrices, data frames and lists. In the final section, you will dive deeper into the graphical capabilities of R, and create your own stunning data visualizations. No prior knowledge in programming or data science is required."  
+Other tags: [Beginner R](../beginner#BeginnerR)   
   
 [Programming with R for Data Science](https://www.edx.org/course/programming-r-data-science-microsoft-dat209x-0)  
 by Anders Stockmarr  
@@ -197,6 +211,7 @@ Other tags: [Statistics Courses](../statistics#StatisticsCourses), [Machine Lear
 [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)  
 by David Robinson and Neo Christopher Chung (Princeton University)  
 "This course combines video, HTML and interactive components to teach the statistical programming language R."  
+Other tags: [Beginner R](../beginner#BeginnerR), [Beginner Visualization](../beginner#BeginnerVisualization)   
   
 ## <a name="SparkCourses"></a>Spark Courses  
 
@@ -255,26 +270,27 @@ by Tobias Macey and Chris Patti
 
 [scikit-learn](http://scikit-learn.org/stable/)  
 "Simple and efficient tools for data mining and data analysis."  
-Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages), [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
 [pandas](http://scikit-learn.org/stable/)  
 "*pandas* is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."  
+Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Statsmodels](http://statsmodels.sourceforge.net/)  
 "Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
+Other tags: [Statistics Packages](../statistics#StatisticsPackages), [Beginner Python](../beginner#BeginnerPython)   
   
 [NumPy](http://www.numpy.org/)  
 "NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
+Other tags: [Statistics Packages](../statistics#StatisticsPackages), [Beginner Python](../beginner#BeginnerPython)   
   
 [SciPy](https://www.scipy.org/scipylib/index.html)  
 "It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
+Other tags: [Statistics Packages](../statistics#StatisticsPackages), [Beginner Python](../beginner#BeginnerPython)   
   
 [matplotlib](http://matplotlib.org/)  
 "matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell..., web application servers, and six graphical user interface toolkits."  
-Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages)   
+Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages), [Beginner Python](../beginner#BeginnerPython)   
   
 [SymPy](http://www.sympy.org/en/index.html)  
 "SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python."  
@@ -302,6 +318,10 @@ Other tags: [Statistics Packages](../statistics#StatisticsPackages)
   
 [PyMC3](http://pymc-devs.github.io/pymc3/)  
 "PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems."  
+Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
+  
+[PyStan](https://pystan.readthedocs.io/en/latest/)  
+"PyStan provides an interface to Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo."  
 Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
   
 [NLTK](http://www.nltk.org/)  
@@ -348,7 +368,7 @@ Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPacka
   
 [caret](http://topepo.github.io/caret/index.html)  
 "The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation."  
-Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages), [Beginner R](../beginner#BeginnerR)   
   
 [vtreat](https://cran.r-project.org/web/packages/vtreat/index.html)  
 "A data.frame processor/conditioner that prepares real-world data for predictive modeling in a statistically sound manner. Prepares variables so that data has fewer exceptional cases, making it easier to safely use models in production. Common problems 'vtreat' defends against: Inf, NA, too many categorical levels, rare categorical levels, new categorical levels (levels seen during application, but not during training)."  
@@ -356,15 +376,15 @@ Other tags: [Statistics Packages](../statistics#StatisticsPackages)
   
 [Lattice](https://cran.r-project.org/web/packages/lattice/index.html)  
 "A powerful and elegant high-level data visualization system inspired by Trellis graphics, with an emphasis on multivariate data. Lattice is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an introduction."  
-Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages)   
+Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages), [Beginner R](../beginner#BeginnerR)   
   
 [ggplot2](http://ggplot2.org/)  
 "ggplot2 is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics."  
-Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages)   
+Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages), [Beginner R](../beginner#BeginnerR)   
   
 [MASS](https://cran.r-project.org/web/packages/MASS/index.html)  
 "Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002)."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
+Other tags: [Statistics Packages](../statistics#StatisticsPackages), [Beginner R](../beginner#BeginnerR)   
   
 [plyr](https://cran.r-project.org/web/packages/plyr/index.html)  
 "A set of tools that solves a common set of problems: you need to break a big problem down into manageable pieces, operate on each piece and then put all the pieces back together. For example, you might want to fit a model to each spatial location or time point in your study, summarise data by panels or collapse high-dimensional arrays to simpler summary statistics. The development of 'plyr' has been generously supported by 'Becton Dickinson'."  

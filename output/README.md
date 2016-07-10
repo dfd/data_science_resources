@@ -1,5 +1,11 @@
 #Free Online Data Science Resources  
 ##Table of Contents  
+###[Beginner Material](./beginner)  
+[Beginner Python](beginner#BeginnerPython)  
+[Beginner R](beginner#BeginnerR)  
+[Beginner Statistics](beginner#BeginnerStatistics)  
+[Beginner Machine Learning](beginner#BeginnerMachineLearning)  
+[Beginner Visualization](beginner#BeginnerVisualization)  
 ###[Machine Learning](./machine_learning)  
 [Machine Learning Textbooks](machine_learning#MachineLearningTextbooks)  
 [Machine Learning Tutorials](machine_learning#MachineLearningTutorials)  

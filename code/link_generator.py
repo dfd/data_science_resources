@@ -68,6 +68,7 @@ for link in links:
             url_err = True
     except HTTPException:
         url_err = True
+        print("HTTPException for " + link['url'])
     link['url_err'] = url_err
     for tag in link['tags']:
         structure[headings_to_folders[tag]]['headings'][tag].append(link)

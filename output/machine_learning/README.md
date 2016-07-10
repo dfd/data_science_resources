@@ -27,6 +27,7 @@ by Carl Edward Rasmussen and Christopher K. I. Williams
 [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)  
 by Max Welling  
 A nice introduction to various algorithms, with intuitive explanations of the formulas.  
+Other tags: [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
 [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)  
 by David Barber  
@@ -40,7 +41,7 @@ by Richard S. Sutton and Andrew G. Barto
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)  
 by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani  
 "This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist."  
-Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks), [R Textbooks](../programming#RTextbooks)   
+Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks), [R Textbooks](../programming#RTextbooks), [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
 [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)  
 by Trevor Hastie, Robert Tibshirani, Jerome Friedman  
@@ -64,13 +65,13 @@ Other tags: [Python Tutorials](../programming#PythonTutorials)
   
 [Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk)  
 by Julia Ferraioli, Amy Unruh, Eli Bixby  
-"Machine learning can be an intimidating subject. In this session, we’ll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
+"Machine learning can be an intimidating subject. In this session, we'll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
 [Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
 by Skipper Seabold  
 Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
-Other tags: [Python Tutorials](../programming#PythonTutorials)   
+Other tags: [Python Tutorials](../programming#PythonTutorials), [Beginner Machine Learning](../beginner#BeginnerMachineLearning), [Beginner Python](../beginner#BeginnerPython)   
   
 [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)  
 by Zac Stewart  
@@ -82,8 +83,9 @@ Other tags: [Python Tutorials](../programming#PythonTutorials)
 [Machine Learning](https://www.coursera.org/learn/machine-learning)  
 by Andrew Ng, Stanford University  
 "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas."  
+Other tags: [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
-[Probabilistic Graphical Models](https://class.coursera.org/pgm/lecture/preview)  
+[Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models)  
 by Daphne Koller, Stanford University  
 "In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques; you will also learn algorithms for using a PGM to reach conclusions about the world from limited and noisy evidence, and for making good decisions under uncertainty. The class covers both the theoretical underpinnings of the PGM framework and practical skills needed to apply these techniques to new problems."  Sign up for a previous offering of the course.  
   
@@ -164,7 +166,7 @@ by Ben Lorica (O'Reilly)
 
 [scikit-learn](http://scikit-learn.org/stable/)  
 "Simple and efficient tools for data mining and data analysis."  
-Other tags: [Python Packages](../programming#PythonPackages)   
+Other tags: [Python Packages](../programming#PythonPackages), [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
 [TensorFlow](https://www.tensorflow.org/)  
 "TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization. The system is designed to facilitate research in machine learning, and to make it quick and easy to transition from research prototype to production system."  
@@ -212,12 +214,13 @@ Other tags: [R Packages](../programming#RPackages)
   
 [caret](http://topepo.github.io/caret/index.html)  
 "The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation."  
-Other tags: [R Packages](../programming#RPackages)   
+Other tags: [R Packages](../programming#RPackages), [Beginner R](../beginner#BeginnerR)   
   
 ## <a name="MachineLearningMisc"></a>Machine Learning Misc  
 
 [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)  
 Flow chart for Machine Learning Algorithms in scikit-learn.  
+Other tags: [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
 [Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
 by Sebatian Raschka  

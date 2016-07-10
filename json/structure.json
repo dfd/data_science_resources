@@ -1,5 +1,15 @@
 {
     "structure": {
+        "beginner": {
+            "headings": [
+                "Beginner Python",
+                "Beginner R",
+                "Beginner Statistics",
+                "Beginner Machine Learning",
+                "Beginner Visualization"
+            ],
+            "title": "Beginner Material"
+        },
         "machine_learning": {
             "headings": [
                 "Machine Learning Textbooks",

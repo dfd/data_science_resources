@@ -22,7 +22,7 @@ by Nathan Yau
 
 [matplotlib](http://matplotlib.org/)  
 "matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell..., web application servers, and six graphical user interface toolkits."  
-Other tags: [Python Packages](../programming#PythonPackages)   
+Other tags: [Python Packages](../programming#PythonPackages), [Beginner Python](../beginner#BeginnerPython)   
   
 [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)  
 "Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics."  
@@ -38,11 +38,11 @@ Other tags: [Python Packages](../programming#PythonPackages)
   
 [Lattice](https://cran.r-project.org/web/packages/lattice/index.html)  
 "A powerful and elegant high-level data visualization system inspired by Trellis graphics, with an emphasis on multivariate data. Lattice is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an introduction."  
-Other tags: [R Packages](../programming#RPackages)   
+Other tags: [R Packages](../programming#RPackages), [Beginner R](../beginner#BeginnerR)   
   
 [ggplot2](http://ggplot2.org/)  
 "ggplot2 is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics."  
-Other tags: [R Packages](../programming#RPackages)   
+Other tags: [R Packages](../programming#RPackages), [Beginner R](../beginner#BeginnerR)   
   
 ## <a name="VisualizationMisc"></a>Visualization Misc  
 
@@ -53,4 +53,5 @@ Material for Hadley Wickham's course on visualization at Rice University.
 [Choosing a Data Chart](http://img.labnol.org/di/data-chart-type.png)  
 by Unknown  
 Flow chart for choosing a chart type.  
+Other tags: [Beginner Visualization](../beginner#BeginnerVisualization)   
   
