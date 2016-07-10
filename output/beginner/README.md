@@ -60,6 +60,16 @@ by David Robinson and Neo Christopher Chung (Princeton University)
 "This course combines video, HTML and interactive components to teach the statistical programming language R."  
 Other tags: [R Courses](../programming#RCourses)   
   
+[Beginner's guide to R: Introduction](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)  
+by Sharon Machlis  
+"Our aim here isn't R mastery, but giving you a path to start using R for basic data work: Extracting key statistics out of a data set, exploring a data set with basic graphics and reshaping data to make it easier to analyze."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Advanced Beginner's Guide to R](http://www.computerworld.com/resources/106345/advanced-beginners-guide-to-r.html)  
+by Sharon Machlis  
+"Learn how to wrangle data, including using R's transform, apply and mapply functions, along with sorting, grouping by date range and reshaping. We also take you through some dplyr basics."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
 ## <a name="BeginnerStatistics"></a>Beginner Statistics  
 
 [Think Stats 2e](http://greenteapress.com/thinkstats2/index.html)  

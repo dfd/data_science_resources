@@ -1047,6 +1047,16 @@
             "url": "http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html"
         },
         {
+            "author": "Zac Stewart",
+            "description": "\"To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate.\"",
+            "tags": [
+                "Python Tutorials",
+                "Machine Learning Tutorials"
+            ],
+            "title": "Document Classification with scikit-learn",
+            "url": "http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html"
+        },
+        {
             "author": "Kyle and Linh Da",
             "description": "\"Data Skeptic is a podcast that alternates between short mini episodes and longer interviews. For the mini-episodes, Kyle and Linh Da explore basic data science concepts. Longer interviews feature practitioners and experts on interesting topics related to data, all through the eye of scientific skepticism.\"",
             "tags": [
@@ -1122,6 +1132,397 @@
             "url": "http://mc-stan.org/documentation/case-studies/radon.html"
         },
         {
+            "author": "Yuan Tang",
+            "description": "\"Scikit Flow is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining. It helps smooth the transition from the Scikit-learn world of one-liner machine learning into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable. It’s Scikit-learn compatible so you can also benefit from Scikit-learn features like GridSearch and Pipeline.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Introduction to Scikit Flow",
+            "url": "http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/"
+        },
+        {
+            "author": "yhat",
+            "description": "\"Ever heard people at your office talking about AUC, ROC, or TPR but been too shy to ask what the heck they're talking about? Well lucky for you we're going to be diving into the wonderful world of binary classification evaluation today. In particular, we'll be discussing ROC curves.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "ROC Curves in Python and R",
+            "url": "http://blog.yhat.com/posts/roc-curves.html"
+        },
+        {
+            "author": "Kim Larsen",
+            "description": "\"Despite its lack of popularity in the data science community, GAM is a powerful and yet simple technique. Hence, the purpose of this post is to convince more data scientists to use GAM. Of course, GAM is no silver bullet, but it is a technique you should add to your arsenal. Here are three key reasons: Easy to interpret; Flexible predictor functions can uncover hidden patterns in the data; Regularization of predictor functions helps avoid overfitting.\"",
+            "tags": [
+                "Statistics Tutorials",
+                "R Tutorials"
+            ],
+            "title": "GAM: The Predictive Modeling Silver Bullet",
+            "url": "http://multithreaded.stitchfix.com/blog/2015/07/30/gam/"
+        },
+        {
+            "author": "Ando Saabas",
+            "description": "Example of using package treeinterpreter for insight into a scikit-learn RandomForest",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Random forest interpretation with scikit-learn",
+            "url": "http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/"
+        },
+        {
+            "author": "Kaggle user Triskelion",
+            "description": "\"Model ensembling is a very powerful technique to increase accuracy on a variety of ML tasks. In this article I will share my ensembling approaches for Kaggle Competitions.\"",
+            "tags": [
+                "Machine Learning Misc"
+            ],
+            "title": "Kaggle Ensembling Guide",
+            "url": "http://mlwave.com/kaggle-ensembling-guide/"
+        },
+        {
+            "author": "Sebastian Raschka",
+            "description": "A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Pattern Classification",
+            "url": "https://github.com/rasbt/pattern_classification"
+        },
+        {
+            "author": "Sebastian Raschka",
+            "description": "\"When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Out-of-core Learning and Model Persistence using scikit-learn",
+            "url": "https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb"
+        },
+        {
+            "author": "Mark Needham",
+            "description": "Tutorial on how to convert text data for training with a scikit-learn RandomForest Classifier",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Python: scikit-learn – Training a classifier with non numeric features",
+            "url": "https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/"
+        },
+        {
+            "author": "Sebastian Raschka",
+            "description": "\"Here, I want to present a simple and conservative approach of implementing a weighted majority rule ensemble classifier in scikit-learn that yielded remarkably good results when I tried it in a kaggle competition.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Implementing a Weighted Majority Rule Ensemble Classifier",
+            "url": "http://sebastianraschka.com/Articles/2014_ensemble_classifier.html"
+        },
+        {
+            "author": "Nicolas Kruchten",
+            "description": "\"A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Data Science and (Unsupervised) Machine Learning with scikit-learn",
+            "url": "http://opensource.datacratic.com/mtlpy50/"
+        },
+        {
+            "author": "Zygmunt Zając",
+            "description": "\"Calibration is applicable in case a classifier outputs probabilities. Apparently some classifiers have their typical quirks - for example, they say boosted trees and SVM tend to predict probabilities conservatively, meaning closer to mid-range than to extremes. If your metric cares about exact probabilities, like logarithmic loss does, you can calibrate the classifier, that is post-process the predictions to get better estimates.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Classifier calibration with Platt's scaling and isotonic regression",
+            "url": "http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/"
+        },
+        {
+            "author": "Edwin Chen",
+            "description": "\"A couple weeks ago, Facebook launched a link prediction contest on Kaggle, with the goal of recommending missing edges in a social graph. I love investigating social networks, so I dug around a little, and since I did well enough to score one of the coveted prizes, I’ll share my approach here.\"",
+            "tags": [
+                "Machine Learning Tutorials"
+            ],
+            "title": "Edge Prediction in a Social Graph: My Solution to Facebook's User Recommendation Contest on Kaggle",
+            "url": "http://blog.echen.me/2012/07/31/edge-prediction-in-a-social-graph-my-solution-to-facebooks-user-recommendation-contest-on-kaggle/"
+        },
+        {
+            "author": "Austin Rochford",
+            "description": "\"In this post, we’ll explore a Bayesian approach to nonparametric regression, which allows us to model complex functions with relatively weak assumptions.\" Extends scikit-learn.",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Nonparametric Bayesian Regression with Gaussian Processes",
+            "url": "http://austinrochford.com/posts/2014-03-23-bayesian-nonparamtric-regression-gp.html"
+        },
+        {
+            "author": "Sebastian Raschka",
+            "description": "\"Model evaluation is certainly not just the end point of our machine learning pipeline. Before we handle any data, we want to plan ahead and use techniques that are suited for our purposes. In this article, we will go over a selection of these techniques, and we will see how they fit into the bigger picture, a typical machine learning workflow.\"",
+            "tags": [
+                "Machine Learning Misc"
+            ],
+            "title": "Model evaluation, model selection, and algorithm selection in machine learning - Part I",
+            "url": "http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html"
+        },
+        {
+            "author": "Max Kuhn",
+            "description": "\" I’ll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "R Tutorials"
+            ],
+            "title": "Bayesian Optimization of Machine Learning Models",
+            "url": "http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html"
+        },
+        {
+            "author": "John Mount",
+            "description": "\"This article is a demonstration the use of the R vtreat variable preparation package followed by caret controlled training.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "R Tutorials"
+            ],
+            "title": "A demonstration of vtreat data preparation",
+            "url": "http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/"
+        },
+        {
+            "author": "Nina Zumel",
+            "description": "\"In this note, we discuss principal components regression and some of the issues with it: The need for scaling; The need for pruning; The lack of “y-awareness” of the standard dimensionality reduction step.\"",
+            "tags": [
+                "Statistics Tutorials",
+                "R Tutorials"
+            ],
+            "title": "Principal Components Regression, Pt.1: The Standard Method",
+            "url": "http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/"
+        },
+        {
+            "author": "Nina Zumel",
+            "description": "In this note, we present some dimensionality reduction techniques that alleviate some of those problems, in particular what we call Y-Aware Principal Components Analysis, or Y-Aware PCA.",
+            "tags": [
+                "Statistics Tutorials",
+                "R Tutorials"
+            ],
+            "title": "Principal Components Regression, Pt. 2: Y-Aware Methods",
+            "url": "http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/"
+        },
+        {
+            "author": "Nina Zumel",
+            "description": "\"In this note, we will look at ways to select the appropriate number of principal components in a more automated fashion.\"",
+            "tags": [
+                "Statistics Tutorials",
+                "R Tutorials"
+            ],
+            "title": "Principal Components Regression, Pt. 3: Picking the Number of Components",
+            "url": "http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/"
+        },
+        {
+            "author": "John Mount",
+            "description": "Setting up the specific problem for modeling.",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "How do you know if your model is going to work? Part 1: The problem",
+            "url": "http://www.win-vector.com/blog/2015/09/willyourmodelworkpart1/"
+        },
+        {
+            "author": "John Mount",
+            "description": "Developing in-training set measures.",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "How do you know if your model is going to work? Part 2: In-training set measures",
+            "url": "http://www.win-vector.com/blog/2015/09/willyourmodelworkpart2/"
+        },
+        {
+            "author": "John Mount",
+            "description": "Developing out of sample procedures.",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "How do you know if your model is going to work? Part 3: Out of sample procedures",
+            "url": "http://www.win-vector.com/blog/2015/09/willyourmodelworkpart3/"
+        },
+        {
+            "author": "John Mount",
+            "description": "Demonstration of cross-validation techniques.",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "How do you know if your model is going to work? Part 4: Cross-validation techniques",
+            "url": "http://www.win-vector.com/blog/2015/09/willyourmodelworkpart4/"
+        },
+        {
+            "author": "John Mount",
+            "description": "Sample size calculation and visualization for power and significance specifications.",
+            "tags": [
+                "Statistics Misc",
+                "R Tutorials"
+            ],
+            "title": "A clear picture of power and significance in A/B tests",
+            "url": "http://www.win-vector.com/blog/2014/05/a-clear-picture-of-power-and-significance-in-ab-tests/"
+        },
+        {
+            "author": "John Mount",
+            "description": "\"In this article we are going to work a simple (but important) problem where (for once) the Bayesian calculations are in fact easier than the frequentist ones.\"",
+            "tags": [
+                "Statistics Misc",
+                "Python Tutorials"
+            ],
+            "title": "Frequentist inference only seems easy",
+            "url": "http://www.win-vector.com/blog/2014/07/frequenstist-inference-only-seems-easy/"
+        },
+        {
+            "author": "Nina Zumel",
+            "description": "Tutorial for graphing with ggplot2 in R",
+            "tags": [
+                "Visualization Tutorials",
+                "R Tutorials"
+            ],
+            "title": "The Extra Step: Graphs for Communication versus Exploration",
+            "url": "http://www.win-vector.com/blog/2014/01/the-extra-step-graphs-for-communication-versus-exploration/"
+        },
+        {
+            "author": "Joseph Rickert",
+            "description": "\"Performing feature selection with GAs requires conceptualizing the process of feature selection as an optimization problem and then mapping it to the genetic framework of random variation and natural selection.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "R Tutorials"
+            ],
+            "title": "Feature Selection with caret's Genetic Algorithm Option",
+            "url": "http://blog.revolutionanalytics.com/2015/12/caret-genetic.html"
+        },
+        {
+            "author": "Joseph Rickert",
+            "description": "\"Here, I fit a randomForest model to eight features from the UCI MPG data set and use the randomForestInfJack() function to calculate the infinitesimal Jackknife estimator.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "R Tutorials"
+            ],
+            "title": "Confidence Intervals for Random Forests",
+            "url": "http://blog.revolutionanalytics.com/2016/03/confidence-intervals-for-random-forest.html"
+        },
+        {
+            "author": "Sharon Machlis",
+            "description": "\"Our aim here isn't R mastery, but giving you a path to start using R for basic data work: Extracting key statistics out of a data set, exploring a data set with basic graphics and reshaping data to make it easier to analyze.\"",
+            "tags": [
+                "Beginner R",
+                "R Tutorials"
+            ],
+            "title": "Beginner's guide to R: Introduction",
+            "url": "http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html"
+        },
+        {
+            "author": "Sharon Machlis",
+            "description": "\"Learn how to wrangle data, including using R's transform, apply and mapply functions, along with sorting, grouping by date range and reshaping. We also take you through some dplyr basics.\"",
+            "tags": [
+                "Beginner R",
+                "R Tutorials"
+            ],
+            "title": "Advanced Beginner's Guide to R",
+            "url": "http://www.computerworld.com/resources/106345/advanced-beginners-guide-to-r.html"
+        },
+        {
+            "author": "Max Woolf",
+            "description": "Tutorial for making nicely styled charts with R and ggplot2.",
+            "tags": [
+                "R Tutorials",
+                "Visualization Tutorials"
+            ],
+            "title": "An Introduction on How to Make Beautiful Charts With R and ggplot2",
+            "url": "http://minimaxir.com/2015/02/ggplot-tutorial/"
+        },
+        {
+            "author": "Max Woolf",
+            "description": "\"Here are some tips and tutorials on how to make such visualizations.\"",
+            "tags": [
+                "R Tutorials",
+                "Visualization Tutorials"
+            ],
+            "title": "How to Visualize New York City Using Taxi Location Data and ggplot2",
+            "url": "http://minimaxir.com/2015/11/nyc-ggplot2-howto/"
+        },
+        {
+            "author": "Krzysztof Osiewalski",
+            "description": "\"In this article we give some hints on how to use your machine in most efficient way while programming in R and when this can be achieved.\"",
+            "tags": [
+                "R Tutorials"
+            ],
+            "title": "Unleash the power of your multi-core CPU with R",
+            "url": "http://www.marketingdistillery.com/2014/11/29/unleash-the-power-of-your-multi-core-cpu-with-r/"
+        },
+        {
+            "author": "Kim Larsen",
+            "description": "Tutorial on using Bayesian structural time series models.",
+            "tags": [
+                "R Tutorials",
+                "Statistics Tutorials"
+            ],
+            "title": "Sorry ARIMA, but I’m Going Bayesian",
+            "url": "http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/"
+        },
+        {
+            "author": "Max Kuhn",
+            "description": "\"Max Kuhn, author of Applied Predictive Modeling and caret package, will talk about the practice of predictive modeling. The practice of predictive modeling defines the process of developing a model in a way that we can understand and quantify the model's prediction accuracy on future data.\"",
+            "tags": [
+                "Machine Learning Lectures"
+            ],
+            "title": "R: Applied Predictive Modeling",
+            "url": "https://www.youtube.com/watch?v=99lnTku75Pc"
+        },
+        {
+            "author": "Jake Vanderplas",
+            "description": "\"The purpose of this post is to synthesize the philosophical and pragmatic aspects of the frequentist and Bayesian approaches, so that scientists like myself might be better prepared to understand the types of data analysis people do. I'll start by addressing the philosophical distinctions between the views, and from there move to discussion of how these ideas are applied in practice, with some Python code snippets demonstrating the difference between the approaches.\"",
+            "tags": [
+                "Statistics Misc",
+                "Python Tutorials"
+            ],
+            "title": "Frequentism and Bayesianism: A Practical Introduction",
+            "url": "http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/"
+        },
+        {
+            "author": "Jake Vanderplas",
+            "description": "\"While it is easy to show that the two approaches are often equivalent for simple problems, it is also true that they can diverge greatly for more complicated problems. I've found that in practice, this divergence makes itself most clear in two different situations: The handling of nuisance parameters; The subtle (and often overlooked) difference between frequentist confidence intervals and Bayesian credible intervals.\"",
+            "tags": [
+                "Statistics Misc",
+                "Python Tutorials"
+            ],
+            "title": "Frequentism and Bayesianism II: When Results Differ",
+            "url": "http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/"
+        },
+        {
+            "author": "Jake Vanderplas",
+            "description": "\"These philosophies fundamenally affect the way that each approach seeks bounds on the value of a model parameter.\"",
+            "tags": [
+                "Statistics Misc",
+                "Python Tutorials"
+            ],
+            "title": "Frequentism and Bayesianism III: Confidence, Credibility, and why Frequentism and Science do not Mix",
+            "url": "http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/"
+        },
+        {
+            "author": "Jake Vanderplas",
+            "description": "\"Here I want to back away from the philosophical debate and go back to more practical issues: in particular, demonstrating how you can apply these Bayesian ideas in Python. The workhorse of modern Bayesianism is the Markov Chain Monte Carlo (MCMC), a class of algorithms used to efficiently sample posterior distributions.\"",
+            "tags": [
+                "Statistics Misc",
+                "Python Tutorials"
+            ],
+            "title": "Frequentism and Bayesianism IV: How to be a Bayesian in Python",
+            "url": "http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/"
+        },
+        {
+            "author": "Jake Vanderplas",
+            "description": "\"My quick, TL;DR summary is this: for model selection, frequentist methods tend to be conceptually difficult but computationally straightforward, while Bayesian methods tend to be conceptually straightforward but computationally difficult.\"",
+            "tags": [
+                "Statistics Misc",
+                "Python Tutorials"
+            ],
+            "title": "Frequentism and Bayesianism V: Model Selection",
+            "url": "https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/"
+        },
+        {
             "author": "Jake Vanderplas",
             "description": "\"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics.\"",
             "tags": [
@@ -1130,6 +1531,16 @@
             ],
             "title": "Statistics for Hackers - PyCon 2016",
             "url": "https://www.youtube.com/watch?v=L5GVOFAYi8k"
+        },
+        {
+            "author": "Jake Vanderplas",
+            "description": "\"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics.\"",
+            "tags": [
+                "Machine Learning Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "PyCon 2015 Introduction to Scikit-Learn tutorial",
+            "url": "http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb"
         }
     ]
 }

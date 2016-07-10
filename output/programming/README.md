@@ -154,16 +154,185 @@ by Zac Stewart
 "The following is a moderately detailed explanation and a few examples of how I use pipelining when I work on competitions."  
 Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
+[Document Classification with scikit-learn](http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html)  
+by Zac Stewart  
+"To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
 [A Primer on Bayesian Multilevel Modeling using PyStan](http://mc-stan.org/documentation/case-studies/radon.html)  
 by Chris Fonnesbeck  
 A worked exmaple of Hierarchical Modeling using pystan  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Introduction to Scikit Flow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/)  
+by Yuan Tang  
+"Scikit Flow is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining. It helps smooth the transition from the Scikit-learn world of one-liner machine learning into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable. It’s Scikit-learn compatible so you can also benefit from Scikit-learn features like GridSearch and Pipeline."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[ROC Curves in Python and R](http://blog.yhat.com/posts/roc-curves.html)  
+by yhat  
+"Ever heard people at your office talking about AUC, ROC, or TPR but been too shy to ask what the heck they're talking about? Well lucky for you we're going to be diving into the wonderful world of binary classification evaluation today. In particular, we'll be discussing ROC curves."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Random forest interpretation with scikit-learn](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)  
+by Ando Saabas  
+Example of using package treeinterpreter for insight into a scikit-learn RandomForest  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Pattern Classification](https://github.com/rasbt/pattern_classification)  
+by Sebastian Raschka  
+A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Out-of-core Learning and Model Persistence using scikit-learn](https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb)  
+by Sebastian Raschka  
+"When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!"  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Python: scikit-learn – Training a classifier with non numeric features](https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/)  
+by Mark Needham  
+Tutorial on how to convert text data for training with a scikit-learn RandomForest Classifier  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Implementing a Weighted Majority Rule Ensemble Classifier](http://sebastianraschka.com/Articles/2014_ensemble_classifier.html)  
+by Sebastian Raschka  
+"Here, I want to present a simple and conservative approach of implementing a weighted majority rule ensemble classifier in scikit-learn that yielded remarkably good results when I tried it in a kaggle competition."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Data Science and (Unsupervised) Machine Learning with scikit-learn](http://opensource.datacratic.com/mtlpy50/)  
+by Nicolas Kruchten  
+"A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Classifier calibration with Platt's scaling and isotonic regression](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)  
+by Zygmunt Zając  
+"Calibration is applicable in case a classifier outputs probabilities. Apparently some classifiers have their typical quirks - for example, they say boosted trees and SVM tend to predict probabilities conservatively, meaning closer to mid-range than to extremes. If your metric cares about exact probabilities, like logarithmic loss does, you can calibrate the classifier, that is post-process the predictions to get better estimates."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Nonparametric Bayesian Regression with Gaussian Processes](http://austinrochford.com/posts/2014-03-23-bayesian-nonparamtric-regression-gp.html)  
+by Austin Rochford  
+"In this post, we’ll explore a Bayesian approach to nonparametric regression, which allows us to model complex functions with relatively weak assumptions." Extends scikit-learn.  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Frequentist inference only seems easy](http://www.win-vector.com/blog/2014/07/frequenstist-inference-only-seems-easy/)  
+by John Mount  
+"In this article we are going to work a simple (but important) problem where (for once) the Bayesian calculations are in fact easier than the frequentist ones."  
+Other tags: [Statistics Misc](../statistics#StatisticsMisc)   
+  
+[Frequentism and Bayesianism: A Practical Introduction](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
+by Jake Vanderplas  
+"The purpose of this post is to synthesize the philosophical and pragmatic aspects of the frequentist and Bayesian approaches, so that scientists like myself might be better prepared to understand the types of data analysis people do. I'll start by addressing the philosophical distinctions between the views, and from there move to discussion of how these ideas are applied in practice, with some Python code snippets demonstrating the difference between the approaches."  
+Other tags: [Statistics Misc](../statistics#StatisticsMisc)   
+  
+[Frequentism and Bayesianism II: When Results Differ](http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/)  
+by Jake Vanderplas  
+"While it is easy to show that the two approaches are often equivalent for simple problems, it is also true that they can diverge greatly for more complicated problems. I've found that in practice, this divergence makes itself most clear in two different situations: The handling of nuisance parameters; The subtle (and often overlooked) difference between frequentist confidence intervals and Bayesian credible intervals."  
+Other tags: [Statistics Misc](../statistics#StatisticsMisc)   
+  
+[Frequentism and Bayesianism III: Confidence, Credibility, and why Frequentism and Science do not Mix](http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/)  
+by Jake Vanderplas  
+"These philosophies fundamenally affect the way that each approach seeks bounds on the value of a model parameter."  
+Other tags: [Statistics Misc](../statistics#StatisticsMisc)   
+  
+[Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/)  
+by Jake Vanderplas  
+"Here I want to back away from the philosophical debate and go back to more practical issues: in particular, demonstrating how you can apply these Bayesian ideas in Python. The workhorse of modern Bayesianism is the Markov Chain Monte Carlo (MCMC), a class of algorithms used to efficiently sample posterior distributions."  
+Other tags: [Statistics Misc](../statistics#StatisticsMisc)   
+  
+[Frequentism and Bayesianism V: Model Selection](https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/)  
+by Jake Vanderplas  
+"My quick, TL;DR summary is this: for model selection, frequentist methods tend to be conceptually difficult but computationally straightforward, while Bayesian methods tend to be conceptually straightforward but computationally difficult."  
+Other tags: [Statistics Misc](../statistics#StatisticsMisc)   
+  
+[PyCon 2015 Introduction to Scikit-Learn tutorial](http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb)  
+by Jake Vanderplas  
+"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
 ## <a name="RTutorials"></a>R Tutorials  
 
 [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf)  
 by Hadley Wickham  
 "A huge amount of effort is spent cleaning data to get it ready for analysis, but there has been little research on how to make data cleaning as easy and effective as possible. This paper tackles a small, but important, component of data cleaning: data tidying. Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. This framework makes it easy to tidy messy datasets because only a small set of tools are needed to deal with a wide range of un-tidy datasets. This structure also makes it easier to develop tidy tools for data analysis, tools that both input and output tidy datasets. The advantages of a consistent data structure and matching tools are demonstrated with a case study free from mundane data manipulation chores."  
+  
+[GAM: The Predictive Modeling Silver Bullet](http://multithreaded.stitchfix.com/blog/2015/07/30/gam/)  
+by Kim Larsen  
+"Despite its lack of popularity in the data science community, GAM is a powerful and yet simple technique. Hence, the purpose of this post is to convince more data scientists to use GAM. Of course, GAM is no silver bullet, but it is a technique you should add to your arsenal. Here are three key reasons: Easy to interpret; Flexible predictor functions can uncover hidden patterns in the data; Regularization of predictor functions helps avoid overfitting."  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Bayesian Optimization of Machine Learning Models](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html)  
+by Max Kuhn  
+" I’ll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[A demonstration of vtreat data preparation](http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/)  
+by John Mount  
+"This article is a demonstration the use of the R vtreat variable preparation package followed by caret controlled training."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)  
+by Nina Zumel  
+"In this note, we discuss principal components regression and some of the issues with it: The need for scaling; The need for pruning; The lack of “y-awareness” of the standard dimensionality reduction step."  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Principal Components Regression, Pt. 2: Y-Aware Methods](http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/)  
+by Nina Zumel  
+In this note, we present some dimensionality reduction techniques that alleviate some of those problems, in particular what we call Y-Aware Principal Components Analysis, or Y-Aware PCA.  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Principal Components Regression, Pt. 3: Picking the Number of Components](http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/)  
+by Nina Zumel  
+"In this note, we will look at ways to select the appropriate number of principal components in a more automated fashion."  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[A clear picture of power and significance in A/B tests](http://www.win-vector.com/blog/2014/05/a-clear-picture-of-power-and-significance-in-ab-tests/)  
+by John Mount  
+Sample size calculation and visualization for power and significance specifications.  
+Other tags: [Statistics Misc](../statistics#StatisticsMisc)   
+  
+[The Extra Step: Graphs for Communication versus Exploration](http://www.win-vector.com/blog/2014/01/the-extra-step-graphs-for-communication-versus-exploration/)  
+by Nina Zumel  
+Tutorial for graphing with ggplot2 in R  
+Other tags: [Visualization Tutorials](../visualizaiton#VisualizationTutorials)   
+  
+[Feature Selection with caret's Genetic Algorithm Option](http://blog.revolutionanalytics.com/2015/12/caret-genetic.html)  
+by Joseph Rickert  
+"Performing feature selection with GAs requires conceptualizing the process of feature selection as an optimization problem and then mapping it to the genetic framework of random variation and natural selection."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Confidence Intervals for Random Forests](http://blog.revolutionanalytics.com/2016/03/confidence-intervals-for-random-forest.html)  
+by Joseph Rickert  
+"Here, I fit a randomForest model to eight features from the UCI MPG data set and use the randomForestInfJack() function to calculate the infinitesimal Jackknife estimator."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
+[Beginner's guide to R: Introduction](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)  
+by Sharon Machlis  
+"Our aim here isn't R mastery, but giving you a path to start using R for basic data work: Extracting key statistics out of a data set, exploring a data set with basic graphics and reshaping data to make it easier to analyze."  
+Other tags: [Beginner R](../beginner#BeginnerR)   
+  
+[Advanced Beginner's Guide to R](http://www.computerworld.com/resources/106345/advanced-beginners-guide-to-r.html)  
+by Sharon Machlis  
+"Learn how to wrangle data, including using R's transform, apply and mapply functions, along with sorting, grouping by date range and reshaping. We also take you through some dplyr basics."  
+Other tags: [Beginner R](../beginner#BeginnerR)   
+  
+[An Introduction on How to Make Beautiful Charts With R and ggplot2](http://minimaxir.com/2015/02/ggplot-tutorial/)  
+by Max Woolf  
+Tutorial for making nicely styled charts with R and ggplot2.  
+Other tags: [Visualization Tutorials](../visualizaiton#VisualizationTutorials)   
+  
+[How to Visualize New York City Using Taxi Location Data and ggplot2](http://minimaxir.com/2015/11/nyc-ggplot2-howto/)  
+by Max Woolf  
+"Here are some tips and tutorials on how to make such visualizations."  
+Other tags: [Visualization Tutorials](../visualizaiton#VisualizationTutorials)   
+  
+[Unleash the power of your multi-core CPU with R](http://www.marketingdistillery.com/2014/11/29/unleash-the-power-of-your-multi-core-cpu-with-r/)  
+by Krzysztof Osiewalski  
+"In this article we give some hints on how to use your machine in most efficient way while programming in R and when this can be achieved."  
+  
+[Sorry ARIMA, but I’m Going Bayesian](http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)  
+by Kim Larsen  
+Tutorial on using Bayesian structural time series models.  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
 ## <a name="PythonCourses"></a>Python Courses  
 

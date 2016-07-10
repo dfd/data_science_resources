@@ -12,6 +12,21 @@ by Philipp Rudiger
 "In this notebook we'll look at interfacing between the composability and ability to generate complex visualizations that HoloViews provides and the great looking plots incorporated in the seaborn library. Along the way we'll explore how to wrap different types of data in a number of Seaborn View types, including: Distribution Views, Bivariate Views, TimeSeries Views"  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
+[The Extra Step: Graphs for Communication versus Exploration](http://www.win-vector.com/blog/2014/01/the-extra-step-graphs-for-communication-versus-exploration/)  
+by Nina Zumel  
+Tutorial for graphing with ggplot2 in R  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[An Introduction on How to Make Beautiful Charts With R and ggplot2](http://minimaxir.com/2015/02/ggplot-tutorial/)  
+by Max Woolf  
+Tutorial for making nicely styled charts with R and ggplot2.  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[How to Visualize New York City Using Taxi Location Data and ggplot2](http://minimaxir.com/2015/11/nyc-ggplot2-howto/)  
+by Max Woolf  
+"Here are some tips and tutorials on how to make such visualizations."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
 ## <a name="VisualizationBlogs"></a>Visualization Blogs  
 
 [Flowing Data](http://flowingdata.com/)  

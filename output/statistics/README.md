@@ -101,6 +101,31 @@ by Chris Fonnesbeck
 A worked exmaple of Hierarchical Modeling using pystan  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
+[GAM: The Predictive Modeling Silver Bullet](http://multithreaded.stitchfix.com/blog/2015/07/30/gam/)  
+by Kim Larsen  
+"Despite its lack of popularity in the data science community, GAM is a powerful and yet simple technique. Hence, the purpose of this post is to convince more data scientists to use GAM. Of course, GAM is no silver bullet, but it is a technique you should add to your arsenal. Here are three key reasons: Easy to interpret; Flexible predictor functions can uncover hidden patterns in the data; Regularization of predictor functions helps avoid overfitting."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)  
+by Nina Zumel  
+"In this note, we discuss principal components regression and some of the issues with it: The need for scaling; The need for pruning; The lack of “y-awareness” of the standard dimensionality reduction step."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Principal Components Regression, Pt. 2: Y-Aware Methods](http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/)  
+by Nina Zumel  
+In this note, we present some dimensionality reduction techniques that alleviate some of those problems, in particular what we call Y-Aware Principal Components Analysis, or Y-Aware PCA.  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Principal Components Regression, Pt. 3: Picking the Number of Components](http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/)  
+by Nina Zumel  
+"In this note, we will look at ways to select the appropriate number of principal components in a more automated fashion."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Sorry ARIMA, but I’m Going Bayesian](http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)  
+by Kim Larsen  
+Tutorial on using Bayesian structural time series models.  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
 ## <a name="StatisticsCourses"></a>Statistics Courses  
 
 [Statistical Learning](http://online.stanford.edu/course/statistical-learning-Winter-16)  
@@ -178,6 +203,57 @@ by John D. Cook
 by Ben Klemens  
 "This project lists open-form narratives and the closed-form distributions that approximate them. Its intent is to help you build estimable statistical models on a sound micro-level foundation."  
 Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)   
+  
+[How do you know if your model is going to work? Part 1: The problem](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart1/)  
+by John Mount  
+Setting up the specific problem for modeling.  
+  
+[How do you know if your model is going to work? Part 2: In-training set measures](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart2/)  
+by John Mount  
+Developing in-training set measures.  
+  
+[How do you know if your model is going to work? Part 3: Out of sample procedures](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart3/)  
+by John Mount  
+Developing out of sample procedures.  
+  
+[How do you know if your model is going to work? Part 4: Cross-validation techniques](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart4/)  
+by John Mount  
+Demonstration of cross-validation techniques.  
+  
+[A clear picture of power and significance in A/B tests](http://www.win-vector.com/blog/2014/05/a-clear-picture-of-power-and-significance-in-ab-tests/)  
+by John Mount  
+Sample size calculation and visualization for power and significance specifications.  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Frequentist inference only seems easy](http://www.win-vector.com/blog/2014/07/frequenstist-inference-only-seems-easy/)  
+by John Mount  
+"In this article we are going to work a simple (but important) problem where (for once) the Bayesian calculations are in fact easier than the frequentist ones."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Frequentism and Bayesianism: A Practical Introduction](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
+by Jake Vanderplas  
+"The purpose of this post is to synthesize the philosophical and pragmatic aspects of the frequentist and Bayesian approaches, so that scientists like myself might be better prepared to understand the types of data analysis people do. I'll start by addressing the philosophical distinctions between the views, and from there move to discussion of how these ideas are applied in practice, with some Python code snippets demonstrating the difference between the approaches."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Frequentism and Bayesianism II: When Results Differ](http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/)  
+by Jake Vanderplas  
+"While it is easy to show that the two approaches are often equivalent for simple problems, it is also true that they can diverge greatly for more complicated problems. I've found that in practice, this divergence makes itself most clear in two different situations: The handling of nuisance parameters; The subtle (and often overlooked) difference between frequentist confidence intervals and Bayesian credible intervals."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Frequentism and Bayesianism III: Confidence, Credibility, and why Frequentism and Science do not Mix](http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/)  
+by Jake Vanderplas  
+"These philosophies fundamenally affect the way that each approach seeks bounds on the value of a model parameter."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/)  
+by Jake Vanderplas  
+"Here I want to back away from the philosophical debate and go back to more practical issues: in particular, demonstrating how you can apply these Bayesian ideas in Python. The workhorse of modern Bayesianism is the Markov Chain Monte Carlo (MCMC), a class of algorithms used to efficiently sample posterior distributions."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Frequentism and Bayesianism V: Model Selection](https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/)  
+by Jake Vanderplas  
+"My quick, TL;DR summary is this: for model selection, frequentist methods tend to be conceptually difficult but computationally straightforward, while Bayesian methods tend to be conceptually straightforward but computationally difficult."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
 ## <a name="StatisticsPackages"></a>Statistics Packages  
 

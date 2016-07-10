@@ -78,6 +78,90 @@ by Zac Stewart
 "The following is a moderately detailed explanation and a few examples of how I use pipelining when I work on competitions."  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
+[Document Classification with scikit-learn](http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html)  
+by Zac Stewart  
+"To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Introduction to Scikit Flow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/)  
+by Yuan Tang  
+"Scikit Flow is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining. It helps smooth the transition from the Scikit-learn world of one-liner machine learning into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable. It’s Scikit-learn compatible so you can also benefit from Scikit-learn features like GridSearch and Pipeline."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[ROC Curves in Python and R](http://blog.yhat.com/posts/roc-curves.html)  
+by yhat  
+"Ever heard people at your office talking about AUC, ROC, or TPR but been too shy to ask what the heck they're talking about? Well lucky for you we're going to be diving into the wonderful world of binary classification evaluation today. In particular, we'll be discussing ROC curves."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Random forest interpretation with scikit-learn](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)  
+by Ando Saabas  
+Example of using package treeinterpreter for insight into a scikit-learn RandomForest  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Pattern Classification](https://github.com/rasbt/pattern_classification)  
+by Sebastian Raschka  
+A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Out-of-core Learning and Model Persistence using scikit-learn](https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb)  
+by Sebastian Raschka  
+"When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!"  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Python: scikit-learn – Training a classifier with non numeric features](https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/)  
+by Mark Needham  
+Tutorial on how to convert text data for training with a scikit-learn RandomForest Classifier  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Implementing a Weighted Majority Rule Ensemble Classifier](http://sebastianraschka.com/Articles/2014_ensemble_classifier.html)  
+by Sebastian Raschka  
+"Here, I want to present a simple and conservative approach of implementing a weighted majority rule ensemble classifier in scikit-learn that yielded remarkably good results when I tried it in a kaggle competition."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Data Science and (Unsupervised) Machine Learning with scikit-learn](http://opensource.datacratic.com/mtlpy50/)  
+by Nicolas Kruchten  
+"A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Classifier calibration with Platt's scaling and isotonic regression](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)  
+by Zygmunt Zając  
+"Calibration is applicable in case a classifier outputs probabilities. Apparently some classifiers have their typical quirks - for example, they say boosted trees and SVM tend to predict probabilities conservatively, meaning closer to mid-range than to extremes. If your metric cares about exact probabilities, like logarithmic loss does, you can calibrate the classifier, that is post-process the predictions to get better estimates."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Edge Prediction in a Social Graph: My Solution to Facebook's User Recommendation Contest on Kaggle](http://blog.echen.me/2012/07/31/edge-prediction-in-a-social-graph-my-solution-to-facebooks-user-recommendation-contest-on-kaggle/)  
+by Edwin Chen  
+"A couple weeks ago, Facebook launched a link prediction contest on Kaggle, with the goal of recommending missing edges in a social graph. I love investigating social networks, so I dug around a little, and since I did well enough to score one of the coveted prizes, I’ll share my approach here."  
+  
+[Nonparametric Bayesian Regression with Gaussian Processes](http://austinrochford.com/posts/2014-03-23-bayesian-nonparamtric-regression-gp.html)  
+by Austin Rochford  
+"In this post, we’ll explore a Bayesian approach to nonparametric regression, which allows us to model complex functions with relatively weak assumptions." Extends scikit-learn.  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Bayesian Optimization of Machine Learning Models](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html)  
+by Max Kuhn  
+" I’ll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[A demonstration of vtreat data preparation](http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/)  
+by John Mount  
+"This article is a demonstration the use of the R vtreat variable preparation package followed by caret controlled training."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Feature Selection with caret's Genetic Algorithm Option](http://blog.revolutionanalytics.com/2015/12/caret-genetic.html)  
+by Joseph Rickert  
+"Performing feature selection with GAs requires conceptualizing the process of feature selection as an optimization problem and then mapping it to the genetic framework of random variation and natural selection."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Confidence Intervals for Random Forests](http://blog.revolutionanalytics.com/2016/03/confidence-intervals-for-random-forest.html)  
+by Joseph Rickert  
+"Here, I fit a randomForest model to eight features from the UCI MPG data set and use the randomForestInfJack() function to calculate the infinitesimal Jackknife estimator."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[PyCon 2015 Introduction to Scikit-Learn tutorial](http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb)  
+by Jake Vanderplas  
+"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
 ## <a name="MachineLearningCourses"></a>Machine Learning Courses  
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning)  
@@ -128,6 +212,10 @@ Machine Learning course from Caltech. "The fundamental concepts and techniques a
 by Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)  
 Lectures from Harvard Extension School's Data Science class  
 Other tags: [Python Lectures](../programming#PythonLectures)   
+  
+[R: Applied Predictive Modeling](https://www.youtube.com/watch?v=99lnTku75Pc)  
+by Max Kuhn  
+"Max Kuhn, author of Applied Predictive Modeling and caret package, will talk about the practice of predictive modeling. The practice of predictive modeling defines the process of developing a model in a way that we can understand and quantify the model's prediction accuracy on future data."  
   
 ## <a name="MachineLearningBlogs"></a>Machine Learning Blogs  
 
@@ -225,4 +313,12 @@ Other tags: [Beginner Machine Learning](../beginner#BeginnerMachineLearning)
 [Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
 by Sebatian Raschka  
   
+  
+[Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)  
+by Kaggle user Triskelion  
+"Model ensembling is a very powerful technique to increase accuracy on a variety of ML tasks. In this article I will share my ensembling approaches for Kaggle Competitions."  
+  
+[Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
+by Sebastian Raschka  
+"Model evaluation is certainly not just the end point of our machine learning pipeline. Before we handle any data, we want to plan ahead and use techniques that are suited for our purposes. In this article, we will go over a selection of these techniques, and we will see how they fit into the bigger picture, a typical machine learning workflow."  
   

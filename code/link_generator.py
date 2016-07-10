@@ -69,6 +69,9 @@ for link in links:
     except HTTPException:
         url_err = True
         print("HTTPException for " + link['url'])
+    except URLError:
+        url_err = True
+        print("URLError for " + link['url'])
     link['url_err'] = url_err
     for tag in link['tags']:
         structure[headings_to_folders[tag]]['headings'][tag].append(link)
@@ -124,6 +127,7 @@ with open(output_dir + "/README.md","a+") as toc:
                         f.write("  \n")
                     f.write("  \n")
 
+print("Total links: " + str(len(links)))
 print("Unused tags: ", str(link_headings.difference(structure_headings))) 
 print("Unused headings: ", str(structure_headings.difference(link_headings))) 
 
