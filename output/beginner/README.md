@@ -18,28 +18,8 @@ by Allen Downey
 "Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters." Uses Python 2.  
 Other tags: [Python Textbooks](../programming#PythonTextbooks)   
   
-[pandas](http://scikit-learn.org/stable/)  
-"*pandas* is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."  
-Other tags: [Python Packages](../programming#PythonPackages)   
-  
-[Statsmodels](http://statsmodels.sourceforge.net/)  
-"Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator."  
-Other tags: [Python Packages](../programming#PythonPackages), [Statistics Packages](../statistics#StatisticsPackages)   
-  
-[NumPy](http://www.numpy.org/)  
-"NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities."  
-Other tags: [Python Packages](../programming#PythonPackages), [Statistics Packages](../statistics#StatisticsPackages)   
-  
-[SciPy](https://www.scipy.org/scipylib/index.html)  
-"It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization."  
-Other tags: [Python Packages](../programming#PythonPackages), [Statistics Packages](../statistics#StatisticsPackages)   
-  
-[matplotlib](http://matplotlib.org/)  
-"matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell..., web application servers, and six graphical user interface toolkits."  
-Other tags: [Python Packages](../programming#PythonPackages), [Visualization Packages](../visualizaiton#VisualizationPackages)   
-  
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8)  
-by Eric Grimson, John Guttag, and Ana Bell, MIT  
+by Eric Grimson, John Guttag, and Ana Bell (MIT)  
 "What you'll learn: A Notion of computation, The Python programming language, Some simple algorithms, Testing and debugging, An informal introduction to algorithmic complexity, Data structures"  
 Other tags: [Python Courses](../programming#PythonCourses)   
   
@@ -68,54 +48,8 @@ by Kunal Jain
 Covers basics through predictive modeling in Python 2.  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
-[Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)  
-by Kunal Jain  
-"In this guide, I will use NumPy, Matplotlib, Seaborn and Pandas to perform data exploration." Uses Python 2.  
-Other tags: [Python Tutorials](../programming#PythonTutorials)   
-  
-[Tidy Data In Python](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)  
-by Jean Francois Puget  
-Tutorial on preparing data sets using Pandas  
-Other tags: [Python Tutorials](../programming#PythonTutorials)   
-  
-[12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)  
-by Aarshay Jain  
-"This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster."  
-Other tags: [Python Tutorials](../programming#PythonTutorials)   
-  
-[Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
-by Skipper Seabold  
-Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
-Other tags: [Python Tutorials](../programming#PythonTutorials), [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials), [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
-  
-[Things in Pandas I Wish I'd Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)  
-by Sebastian Raschka  
-"This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful"  
-Other tags: [Python Tutorials](../programming#PythonTutorials)   
-  
-[Pandas Pivot Table Explained](http://pbpython.com/pandas-pivot-table-explained.html)  
-by Chris Moffitt  
-"This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis."  
-Other tags: [Python Tutorials](../programming#PythonTutorials)   
-  
 ## <a name="BeginnerR"></a>Beginner R  
 
-[caret](http://topepo.github.io/caret/index.html)  
-"The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation."  
-Other tags: [R Packages](../programming#RPackages), [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
-  
-[Lattice](https://cran.r-project.org/web/packages/lattice/index.html)  
-"A powerful and elegant high-level data visualization system inspired by Trellis graphics, with an emphasis on multivariate data. Lattice is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an introduction."  
-Other tags: [R Packages](../programming#RPackages), [Visualization Packages](../visualizaiton#VisualizationPackages)   
-  
-[ggplot2](http://ggplot2.org/)  
-"ggplot2 is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics."  
-Other tags: [R Packages](../programming#RPackages), [Visualization Packages](../visualizaiton#VisualizationPackages)   
-  
-[MASS](https://cran.r-project.org/web/packages/MASS/index.html)  
-"Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002)."  
-Other tags: [R Packages](../programming#RPackages), [Statistics Packages](../statistics#StatisticsPackages)   
-  
 [Introduction to R for Data Science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0)  
 by Filip Schouwenaars, Microsoft  
 "This introduction to R programming course will help you master the basics of R. In seven sections, you will cover its basic syntax, making you ready to undertake your own first data analysis using R. Starting from variables and basic operations, you will eventually learn how to handle data structures such as vectors, matrices, data frames and lists. In the final section, you will dive deeper into the graphical capabilities of R, and create your own stunning data visualizations. No prior knowledge in programming or data science is required."  
@@ -124,7 +58,7 @@ Other tags: [R Courses](../programming#RCourses)
 [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)  
 by David Robinson and Neo Christopher Chung (Princeton University)  
 "This course combines video, HTML and interactive components to teach the statistical programming language R."  
-Other tags: [R Courses](../programming#RCourses), [Beginner Visualization](../beginner#BeginnerVisualization)   
+Other tags: [R Courses](../programming#RCourses)   
   
 ## <a name="BeginnerStatistics"></a>Beginner Statistics  
 
@@ -170,10 +104,6 @@ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 "This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist."  
 Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks), [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks), [R Textbooks](../programming#RTextbooks)   
   
-[scikit-learn](http://scikit-learn.org/stable/)  
-"Simple and efficient tools for data mining and data analysis."  
-Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages), [Python Packages](../programming#PythonPackages)   
-  
 [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)  
 Flow chart for Machine Learning Algorithms in scikit-learn.  
 Other tags: [Machine Learning Misc](../machine_learning#MachineLearningMisc)   
@@ -183,18 +113,8 @@ by Andrew Ng, Stanford University
 "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas."  
 Other tags: [Machine Learning Courses](../machine_learning#MachineLearningCourses)   
   
-[Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
-by Skipper Seabold  
-Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
-Other tags: [Python Tutorials](../programming#PythonTutorials), [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials), [Beginner Python](../beginner#BeginnerPython)   
-  
 ## <a name="BeginnerVisualization"></a>Beginner Visualization  
 
-[Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)  
-by David Robinson and Neo Christopher Chung (Princeton University)  
-"This course combines video, HTML and interactive components to teach the statistical programming language R."  
-Other tags: [R Courses](../programming#RCourses), [Beginner R](../beginner#BeginnerR)   
-  
 [Choosing a Data Chart](http://img.labnol.org/di/data-chart-type.png)  
 by Unknown  
 Flow chart for choosing a chart type.  

@@ -183,18 +183,14 @@ Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)
 
 [Statsmodels](http://statsmodels.sourceforge.net/)  
 "Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator."  
-Other tags: [Python Packages](../programming#PythonPackages), [Beginner Python](../beginner#BeginnerPython)   
+Other tags: [Python Packages](../programming#PythonPackages)   
   
 [NumPy](http://www.numpy.org/)  
 "NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities."  
-Other tags: [Python Packages](../programming#PythonPackages), [Beginner Python](../beginner#BeginnerPython)   
+Other tags: [Python Packages](../programming#PythonPackages)   
   
 [SciPy](https://www.scipy.org/scipylib/index.html)  
 "It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization."  
-Other tags: [Python Packages](../programming#PythonPackages), [Beginner Python](../beginner#BeginnerPython)   
-  
-[PyMC](https://pymc-devs.github.io/pymc/)  
-"PyMC is a python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo. Its flexibility and extensibility make it applicable to a large suite of problems. Along with core sampling functionality, PyMC includes methods for summarizing output, plotting, goodness-of-fit and convergence diagnostics."  
 Other tags: [Python Packages](../programming#PythonPackages)   
   
 [PyMC3](http://pymc-devs.github.io/pymc3/)  
@@ -211,7 +207,7 @@ Other tags: [R Packages](../programming#RPackages)
   
 [MASS](https://cran.r-project.org/web/packages/MASS/index.html)  
 "Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002)."  
-Other tags: [R Packages](../programming#RPackages), [Beginner R](../beginner#BeginnerR)   
+Other tags: [R Packages](../programming#RPackages)   
   
 ## <a name="MathPackages"></a>Math Packages  
 

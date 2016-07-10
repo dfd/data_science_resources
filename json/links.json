@@ -219,8 +219,7 @@
             "description": "\"Simple and efficient tools for data mining and data analysis.\"",
             "tags": [
                 "Machine Learning Packages",
-                "Python Packages",
-                "Beginner Machine Learning"
+                "Python Packages"
             ],
             "title": "scikit-learn",
             "url": "http://scikit-learn.org/stable/"
@@ -237,8 +236,7 @@
         {
             "description": "\"*pandas* is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.\"",
             "tags": [
-                "Python Packages",
-                "Beginner Python"
+                "Python Packages"
             ],
             "title": "pandas",
             "url": "http://scikit-learn.org/stable/"
@@ -247,8 +245,7 @@
             "description": "\"Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator.\"",
             "tags": [
                 "Python Packages",
-                "Statistics Packages",
-                "Beginner Python"
+                "Statistics Packages"
             ],
             "title": "Statsmodels",
             "url": "http://statsmodels.sourceforge.net/"
@@ -257,8 +254,7 @@
             "description": "\"NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities.\"",
             "tags": [
                 "Python Packages",
-                "Statistics Packages",
-                "Beginner Python"
+                "Statistics Packages"
             ],
             "title": "NumPy",
             "url": "http://www.numpy.org/"
@@ -267,8 +263,7 @@
             "description": "\"It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization.\"",
             "tags": [
                 "Python Packages",
-                "Statistics Packages",
-                "Beginner Python"
+                "Statistics Packages"
             ],
             "title": "SciPy",
             "url": "https://www.scipy.org/scipylib/index.html"
@@ -277,8 +272,7 @@
             "description": "\"matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell..., web application servers, and six graphical user interface toolkits.\"",
             "tags": [
                 "Python Packages",
-                "Visualization Packages",
-                "Beginner Python"
+                "Visualization Packages"
             ],
             "title": "matplotlib",
             "url": "http://matplotlib.org/"
@@ -335,9 +329,7 @@
                 "Statistics Packages"
             ],
             "title": "PyMC",
-            "url": "https://pymc-devs.github.io/pymc/"
-        },
-        {
+            "url": "https://pymc-devs.github.io/pymc/",
             "description": "\"PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.\"",
             "tags": [
                 "Python Packages",
@@ -449,8 +441,7 @@
             "description": "\"The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation.\"",
             "tags": [
                 "R Packages",
-                "Machine Learning Packages",
-                "Beginner R"
+                "Machine Learning Packages"
             ],
             "title": "caret",
             "url": "http://topepo.github.io/caret/index.html"
@@ -468,8 +459,7 @@
             "description": "\"A powerful and elegant high-level data visualization system inspired by Trellis graphics, with an emphasis on multivariate data. Lattice is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an introduction.\"",
             "tags": [
                 "R Packages",
-                "Visualization Packages",
-                "Beginner R"
+                "Visualization Packages"
             ],
             "title": "Lattice",
             "url": "https://cran.r-project.org/web/packages/lattice/index.html"
@@ -478,8 +468,7 @@
             "description": "\"ggplot2 is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics.\"",
             "tags": [
                 "R Packages",
-                "Visualization Packages",
-                "Beginner R"
+                "Visualization Packages"
             ],
             "title": "ggplot2",
             "url": "http://ggplot2.org/"
@@ -488,8 +477,7 @@
             "description": "\"Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002).\"",
             "tags": [
                 "R Packages",
-                "Statistics Packages",
-                "Beginner R"
+                "Statistics Packages"
             ],
             "title": "MASS",
             "url": "https://cran.r-project.org/web/packages/MASS/index.html"
@@ -565,7 +553,7 @@
             "url": "https://www.coursera.org/learn/probabilistic-graphical-models"
         },
         {
-            "author": "Eric Grimson, John Guttag, and Ana Bell, MIT",
+            "author": "Eric Grimson, John Guttag, and Ana Bell (MIT)",
             "description": "\"What you'll learn: A Notion of computation, The Python programming language, Some simple algorithms, Testing and debugging, An informal introduction to algorithmic complexity, Data structures\"",
             "tags": [
                 "Python Courses",
@@ -686,8 +674,7 @@
             "description": "\"This course combines video, HTML and interactive components to teach the statistical programming language R.\"",
             "tags": [
                 "R Courses",
-                "Beginner R",
-                "Beginner Visualization"
+                "Beginner R"
             ],
             "title": "Data Analysis and Visualization Using R",
             "url": "http://varianceexplained.org/RData/"
@@ -911,8 +898,7 @@
             "author": "Kunal Jain",
             "description": "\"In this guide, I will use NumPy, Matplotlib, Seaborn and Pandas to perform data exploration.\" Uses Python 2.",
             "tags": [
-                "Python Tutorials",
-                "Beginner Python"
+                "Python Tutorials"
             ],
             "title": "Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas",
             "url": "http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/"
@@ -980,8 +966,7 @@
             "author": "Jean Francois Puget",
             "description": "Tutorial on preparing data sets using Pandas",
             "tags": [
-                "Python Tutorials",
-                "Beginner Python"
+                "Python Tutorials"
             ],
             "title": "Tidy Data In Python",
             "url": "https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en"
@@ -999,8 +984,7 @@
             "author": "Aarshay Jain",
             "description": "\"This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster.\"",
             "tags": [
-                "Python Tutorials",
-                "Beginner Python"
+                "Python Tutorials"
             ],
             "title": "12 Useful Pandas Techniques in Python for Data Manipulation",
             "url": "http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/"
@@ -1010,9 +994,7 @@
             "description": "Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.",
             "tags": [
                 "Python Tutorials",
-                "Machine Learning Tutorials",
-                "Beginner Machine Learning",
-                "Beginner Python"
+                "Machine Learning Tutorials"
             ],
             "title": "Using pandas and scikit-learn for classification tasks",
             "url": "https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb"
@@ -1021,8 +1003,7 @@
             "author": "Sebastian Raschka",
             "description": "\"This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful\"",
             "tags": [
-                "Python Tutorials",
-                "Beginner Python"
+                "Python Tutorials"
             ],
             "title": "Things in Pandas I Wish I'd Known Earlier",
             "url": "http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb"
@@ -1031,8 +1012,7 @@
             "author": "Chris Moffitt",
             "description": "\"This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis.\"",
             "tags": [
-                "Python Tutorials",
-                "Beginner Python"
+                "Python Tutorials"
             ],
             "title": "Pandas Pivot Table Explained",
             "url": "http://pbpython.com/pandas-pivot-table-explained.html"

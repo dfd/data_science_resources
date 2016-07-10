@@ -103,7 +103,6 @@ Other tags: [Beginner Python](../beginner#BeginnerPython)
 [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)  
 by Kunal Jain  
 "In this guide, I will use NumPy, Matplotlib, Seaborn and Pandas to perform data exploration." Uses Python 2.  
-Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Allen Downey - Computational Statistics - PyCon 2016](https://www.youtube.com/watch?v=VR52vSbHBAk)  
 by Allen Downey  
@@ -123,27 +122,23 @@ Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTuto
 [Tidy Data In Python](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)  
 by Jean Francois Puget  
 Tutorial on preparing data sets using Pandas  
-Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)  
 by Aarshay Jain  
 "This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster."  
-Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
 by Skipper Seabold  
 Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
-Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials), [Beginner Machine Learning](../beginner#BeginnerMachineLearning), [Beginner Python](../beginner#BeginnerPython)   
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
 [Things in Pandas I Wish I'd Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)  
 by Sebastian Raschka  
 "This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful"  
-Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Pandas Pivot Table Explained](http://pbpython.com/pandas-pivot-table-explained.html)  
 by Chris Moffitt  
 "This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis."  
-Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Exploring Seaborn and Pandas based plot types in HoloViews](http://philippjfr.com/blog/seabornviews/)  
 by Philipp Rudiger  
@@ -173,7 +168,7 @@ by Hadley Wickham
 ## <a name="PythonCourses"></a>Python Courses  
 
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8)  
-by Eric Grimson, John Guttag, and Ana Bell, MIT  
+by Eric Grimson, John Guttag, and Ana Bell (MIT)  
 "What you'll learn: A Notion of computation, The Python programming language, Some simple algorithms, Testing and debugging, An informal introduction to algorithmic complexity, Data structures"  
 Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
@@ -211,7 +206,7 @@ Other tags: [Statistics Courses](../statistics#StatisticsCourses), [Machine Lear
 [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)  
 by David Robinson and Neo Christopher Chung (Princeton University)  
 "This course combines video, HTML and interactive components to teach the statistical programming language R."  
-Other tags: [Beginner R](../beginner#BeginnerR), [Beginner Visualization](../beginner#BeginnerVisualization)   
+Other tags: [Beginner R](../beginner#BeginnerR)   
   
 ## <a name="SparkCourses"></a>Spark Courses  
 
@@ -270,27 +265,26 @@ by Tobias Macey and Chris Patti
 
 [scikit-learn](http://scikit-learn.org/stable/)  
 "Simple and efficient tools for data mining and data analysis."  
-Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages), [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
   
 [pandas](http://scikit-learn.org/stable/)  
 "*pandas* is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."  
-Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
 [Statsmodels](http://statsmodels.sourceforge.net/)  
 "Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages), [Beginner Python](../beginner#BeginnerPython)   
+Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
   
 [NumPy](http://www.numpy.org/)  
 "NumPy is the fundamental package for scientific computing with Python. It contains among other things:  a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages), [Beginner Python](../beginner#BeginnerPython)   
+Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
   
 [SciPy](https://www.scipy.org/scipylib/index.html)  
 "It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages), [Beginner Python](../beginner#BeginnerPython)   
+Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
   
 [matplotlib](http://matplotlib.org/)  
 "matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python and ipython shell..., web application servers, and six graphical user interface toolkits."  
-Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages), [Beginner Python](../beginner#BeginnerPython)   
+Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages)   
   
 [SymPy](http://www.sympy.org/en/index.html)  
 "SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python."  
@@ -311,10 +305,6 @@ Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages)
 [TensorFlow](https://www.tensorflow.org/)  
 "TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization. The system is designed to facilitate research in machine learning, and to make it quick and easy to transition from research prototype to production system."  
 Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
-  
-[PyMC](https://pymc-devs.github.io/pymc/)  
-"PyMC is a python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo. Its flexibility and extensibility make it applicable to a large suite of problems. Along with core sampling functionality, PyMC includes methods for summarizing output, plotting, goodness-of-fit and convergence diagnostics."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
   
 [PyMC3](http://pymc-devs.github.io/pymc3/)  
 "PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems."  
@@ -368,7 +358,7 @@ Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPacka
   
 [caret](http://topepo.github.io/caret/index.html)  
 "The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation."  
-Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages), [Beginner R](../beginner#BeginnerR)   
+Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
   
 [vtreat](https://cran.r-project.org/web/packages/vtreat/index.html)  
 "A data.frame processor/conditioner that prepares real-world data for predictive modeling in a statistically sound manner. Prepares variables so that data has fewer exceptional cases, making it easier to safely use models in production. Common problems 'vtreat' defends against: Inf, NA, too many categorical levels, rare categorical levels, new categorical levels (levels seen during application, but not during training)."  
@@ -376,15 +366,15 @@ Other tags: [Statistics Packages](../statistics#StatisticsPackages)
   
 [Lattice](https://cran.r-project.org/web/packages/lattice/index.html)  
 "A powerful and elegant high-level data visualization system inspired by Trellis graphics, with an emphasis on multivariate data. Lattice is sufficient for typical graphics needs, and is also flexible enough to handle most nonstandard requirements. See ?Lattice for an introduction."  
-Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages), [Beginner R](../beginner#BeginnerR)   
+Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages)   
   
 [ggplot2](http://ggplot2.org/)  
 "ggplot2 is a plotting system for R, based on the grammar of graphics, which tries to take the good parts of base and lattice graphics and none of the bad parts. It takes care of many of the fiddly details that make plotting a hassle (like drawing legends) as well as providing a powerful model of graphics that makes it easy to produce complex multi-layered graphics."  
-Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages), [Beginner R](../beginner#BeginnerR)   
+Other tags: [Visualization Packages](../visualizaiton#VisualizationPackages)   
   
 [MASS](https://cran.r-project.org/web/packages/MASS/index.html)  
 "Functions and datasets to support Venables and Ripley, 'Modern Applied Statistics with S' (4th edition, 2002)."  
-Other tags: [Statistics Packages](../statistics#StatisticsPackages), [Beginner R](../beginner#BeginnerR)   
+Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
   
 [plyr](https://cran.r-project.org/web/packages/plyr/index.html)  
 "A set of tools that solves a common set of problems: you need to break a big problem down into manageable pieces, operate on each piece and then put all the pieces back together. For example, you might want to fit a model to each spatial location or time point in your study, summarise data by panels or collapse high-dimensional arrays to simpler summary statistics. The development of 'plyr' has been generously supported by 'Becton Dickinson'."  

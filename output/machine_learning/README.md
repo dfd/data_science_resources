@@ -71,7 +71,7 @@ Other tags: [Python Tutorials](../programming#PythonTutorials)
 [Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
 by Skipper Seabold  
 Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
-Other tags: [Python Tutorials](../programming#PythonTutorials), [Beginner Machine Learning](../beginner#BeginnerMachineLearning), [Beginner Python](../beginner#BeginnerPython)   
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
 [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)  
 by Zac Stewart  
@@ -166,7 +166,7 @@ by Ben Lorica (O'Reilly)
 
 [scikit-learn](http://scikit-learn.org/stable/)  
 "Simple and efficient tools for data mining and data analysis."  
-Other tags: [Python Packages](../programming#PythonPackages), [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
+Other tags: [Python Packages](../programming#PythonPackages)   
   
 [TensorFlow](https://www.tensorflow.org/)  
 "TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization. The system is designed to facilitate research in machine learning, and to make it quick and easy to transition from research prototype to production system."  
@@ -214,7 +214,7 @@ Other tags: [R Packages](../programming#RPackages)
   
 [caret](http://topepo.github.io/caret/index.html)  
 "The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation."  
-Other tags: [R Packages](../programming#RPackages), [Beginner R](../beginner#BeginnerR)   
+Other tags: [R Packages](../programming#RPackages)   
   
 ## <a name="MachineLearningMisc"></a>Machine Learning Misc  
 
