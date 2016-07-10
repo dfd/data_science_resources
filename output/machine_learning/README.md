@@ -317,6 +317,11 @@ Other tags: [R Packages](../programming#RPackages)
 "The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation."  
 Other tags: [R Packages](../programming#RPackages)   
   
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  
+by Joseph Misiti  
+A curated list of awesome machine learning frameworks, libraries and software (by language).   
+Other tags: [Python Packages](../programming#PythonPackages), [R Packages](../programming#RPackages)   
+  
 ## <a name="MachineLearningMisc"></a>Machine Learning Misc  
 
 [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)  

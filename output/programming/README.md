@@ -531,7 +531,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  
 by Joseph Misiti  
 A curated list of awesome machine learning frameworks, libraries and software (by language).   
-Other tags: [R Packages](../programming#RPackages)   
+Other tags: [R Packages](../programming#RPackages), [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
   
 ## <a name="RPackages"></a>R Packages  
 
@@ -575,5 +575,5 @@ A curated list of awesome R packages and tools.
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  
 by Joseph Misiti  
 A curated list of awesome machine learning frameworks, libraries and software (by language).   
-Other tags: [Python Packages](../programming#PythonPackages)   
+Other tags: [Python Packages](../programming#PythonPackages), [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
   

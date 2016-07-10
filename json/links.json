@@ -896,7 +896,8 @@
             "description": "A curated list of awesome machine learning frameworks, libraries and software (by language). ",
             "tags": [
                 "Python Packages",
-                "R Packages"
+                "R Packages",
+                "Machine Learning Packages"
             ],
             "title": "Awesome Machine Learning",
             "url": "https://github.com/josephmisiti/awesome-machine-learning"
