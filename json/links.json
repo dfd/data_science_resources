@@ -799,7 +799,7 @@
             "url": "http://partiallyderivative.com/"
         },
         {
-            "author": "Roger Peng (Johns Hopkins University) and Hilary Mason",
+            "author": "Roger Peng (Johns Hopkins University) and Hilary Parker",
             "description": "Podcast on Data Science, Statistics, Python, and R in academia and industry.",
             "tags": [
                 "Statistics Podcasts"
@@ -1368,7 +1368,7 @@
             "author": "John Mount",
             "description": "\"In this article we are going to work a simple (but important) problem where (for once) the Bayesian calculations are in fact easier than the frequentist ones.\"",
             "tags": [
-                "Statistics Misc",
+                "Statistics Tutorials",
                 "Python Tutorials"
             ],
             "title": "Frequentist inference only seems easy",
@@ -1476,7 +1476,7 @@
             "author": "Jake Vanderplas",
             "description": "\"The purpose of this post is to synthesize the philosophical and pragmatic aspects of the frequentist and Bayesian approaches, so that scientists like myself might be better prepared to understand the types of data analysis people do. I'll start by addressing the philosophical distinctions between the views, and from there move to discussion of how these ideas are applied in practice, with some Python code snippets demonstrating the difference between the approaches.\"",
             "tags": [
-                "Statistics Misc",
+                "Statistics Tutorials",
                 "Python Tutorials"
             ],
             "title": "Frequentism and Bayesianism: A Practical Introduction",
@@ -1486,7 +1486,7 @@
             "author": "Jake Vanderplas",
             "description": "\"While it is easy to show that the two approaches are often equivalent for simple problems, it is also true that they can diverge greatly for more complicated problems. I've found that in practice, this divergence makes itself most clear in two different situations: The handling of nuisance parameters; The subtle (and often overlooked) difference between frequentist confidence intervals and Bayesian credible intervals.\"",
             "tags": [
-                "Statistics Misc",
+                "Statistics Tutorials",
                 "Python Tutorials"
             ],
             "title": "Frequentism and Bayesianism II: When Results Differ",
@@ -1496,7 +1496,7 @@
             "author": "Jake Vanderplas",
             "description": "\"These philosophies fundamenally affect the way that each approach seeks bounds on the value of a model parameter.\"",
             "tags": [
-                "Statistics Misc",
+                "Statistics Tutorials",
                 "Python Tutorials"
             ],
             "title": "Frequentism and Bayesianism III: Confidence, Credibility, and why Frequentism and Science do not Mix",
@@ -1506,7 +1506,7 @@
             "author": "Jake Vanderplas",
             "description": "\"Here I want to back away from the philosophical debate and go back to more practical issues: in particular, demonstrating how you can apply these Bayesian ideas in Python. The workhorse of modern Bayesianism is the Markov Chain Monte Carlo (MCMC), a class of algorithms used to efficiently sample posterior distributions.\"",
             "tags": [
-                "Statistics Misc",
+                "Statistics Tutorials",
                 "Python Tutorials"
             ],
             "title": "Frequentism and Bayesianism IV: How to be a Bayesian in Python",
@@ -1516,7 +1516,7 @@
             "author": "Jake Vanderplas",
             "description": "\"My quick, TL;DR summary is this: for model selection, frequentist methods tend to be conceptually difficult but computationally straightforward, while Bayesian methods tend to be conceptually straightforward but computationally difficult.\"",
             "tags": [
-                "Statistics Misc",
+                "Statistics Tutorials",
                 "Python Tutorials"
             ],
             "title": "Frequentism and Bayesianism V: Model Selection",
