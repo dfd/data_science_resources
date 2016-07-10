@@ -80,6 +80,11 @@ by Cliburn Chan (Duke University)
 Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.  
 Other tags: [Beginner Python](../beginner#BeginnerPython)   
   
+[Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)  
+by Ujjwal Karn  
+"This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning."  
+Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
+  
 [Will it Python? Machine Learning for Hackers](https://github.com/carljv/Will_it_Python/tree/master/MLFH)  
 by Carl Vogel  
 Python implementations of examples from Machine Learning for Hackers. Uses Python 2.  
@@ -519,6 +524,15 @@ Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPacka
 An optimized, flexible, portable, regression and classification gradient boosting package that supports distributed training.  
 Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
   
+[Awesome Python](https://github.com/vinta/awesome-python)  
+by Vinta  
+A curated list of awesome Python frameworks, libraries, software and resources.  
+  
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  
+by Joseph Misiti  
+A curated list of awesome machine learning frameworks, libraries and software (by language).   
+Other tags: [R Packages](../programming#RPackages)   
+  
 ## <a name="RPackages"></a>R Packages  
 
 [XGBoost (R)](http://xgboost.readthedocs.io/en/latest/R-package/index.html)  
@@ -553,4 +567,13 @@ Other tags: [Statistics Packages](../statistics#StatisticsPackages)
   
 [reshape2](https://cran.r-project.org/web/packages/reshape2/index.html)  
 "Flexibly restructure and aggregate data using just two functions: melt and dcast (or acast)."  
+  
+[Awesome R](https://github.com/qinwf/awesome-R)  
+by qinwf  
+A curated list of awesome R packages and tools.  
+  
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  
+by Joseph Misiti  
+A curated list of awesome machine learning frameworks, libraries and software (by language).   
+Other tags: [Python Packages](../programming#PythonPackages)   
   

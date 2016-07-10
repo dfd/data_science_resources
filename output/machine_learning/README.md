@@ -58,6 +58,19 @@ by Ian Goodfellow, Yoshua Bengio and Aaron Courville
   
 ## <a name="MachineLearningTutorials"></a>Machine Learning Tutorials  
 
+[Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  
+by Ujjwal Karn  
+"This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. "  
+  
+[Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)  
+by Ujjwal Karn  
+"This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)  
+by   
+A curated list of awesome TensorFlow experiments, libraries, and projects.   
+  
 [Will it Python? Machine Learning for Hackers](https://github.com/carljv/Will_it_Python/tree/master/MLFH)  
 by Carl Vogel  
 Python implementations of examples from Machine Learning for Hackers. Uses Python 2.  

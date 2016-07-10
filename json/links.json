@@ -855,6 +855,62 @@
             "url": "http://people.duke.edu/~ccc14/sta-663-2016/index.html"
         },
         {
+            "author": "Ujjwal Karn",
+            "description": "\"This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. \"",
+            "tags": [
+                "Machine Learning Tutorials"
+            ],
+            "title": "Machine Learning & Deep Learning Tutorials",
+            "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials"
+        },
+        {
+            "author": "Ujjwal Karn",
+            "description": "\"This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.\"",
+            "tags": [
+                "Python Tutorials",
+                "Machine Learning Tutorials"
+            ],
+            "title": "Python Data Science Tutorials",
+            "url": "https://github.com/ujjwalkarn/DataSciencePython"
+        },
+        {
+            "author": "qinwf",
+            "description": "A curated list of awesome R packages and tools.",
+            "tags": [
+                "R Packages"
+            ],
+            "title": "Awesome R",
+            "url": "https://github.com/qinwf/awesome-R"
+        },
+        {
+            "author": "Vinta",
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources.",
+            "tags": [
+                "Python Packages"
+            ],
+            "title": "Awesome Python",
+            "url": "https://github.com/vinta/awesome-python"
+        },
+        {
+            "author": "Joseph Misiti",
+            "description": "A curated list of awesome machine learning frameworks, libraries and software (by language). ",
+            "tags": [
+                "Python Packages",
+                "R Packages"
+            ],
+            "title": "Awesome Machine Learning",
+            "url": "https://github.com/josephmisiti/awesome-machine-learning"
+        },
+        {
+            "author": "",
+            "description": "A curated list of awesome TensorFlow experiments, libraries, and projects. ",
+            "tags": [
+                "Machine Learning Tutorials"
+            ],
+            "title": "Awesome TensorFlow",
+            "url": "https://github.com/jtoy/awesome-tensorflow"
+        },
+        {
             "author": "Carl Vogel",
             "description": "Python implementations of examples from Machine Learning for Hackers. Uses Python 2.",
             "tags": [
