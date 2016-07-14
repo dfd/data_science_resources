@@ -716,6 +716,16 @@
             "url": "http://work.caltech.edu/lectures.html"
         },
         {
+            "author": "Stanford University",
+            "description": "\"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.\" Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.",
+            "tags": [
+                "Machine Learning Lectures",
+                "Python Tutorials"
+            ],
+            "title": "CS231n: Convolutional Neural Networks for Visual Recognition",
+            "url": "http://cs231n.stanford.edu/"
+        },
+        {
             "author": "Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)",
             "description": "Lectures from Harvard Extension School's Data Science class",
             "tags": [
@@ -901,6 +911,15 @@
             ],
             "title": "Awesome Machine Learning",
             "url": "https://github.com/josephmisiti/awesome-machine-learning"
+        },
+        {
+            "author": "The R Project for Statistical Computing",
+            "description": "\"The R Journal is the open access, refereed journal of the R project for statistical computing. It features short to medium length articles covering topics that might be of interest to users or developers of R, including: short introductions to R extension packages; hints for programming in R; hints for newcomers explaining aspects of R that might not be so obvious from reading the manuals and FAQs; demonstrating how a new or existing technique can be applied in an area of current interest using R, providing a fresh view of such analyses in R that is of benefit beyond the specific application.\"",
+            "tags": [
+                "R Packages"
+            ],
+            "title": "The R Journal",
+            "url": "https://journal.r-project.org/"
         },
         {
             "author": "",
@@ -1131,6 +1150,15 @@
             ],
             "title": "Diagram of Bayesian Conjugate Priors",
             "url": "http://www.johndcook.com/blog/conjugate_prior_diagram/"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "A distillation of hypothesis testing into a single framework.  A nice alternative to memorizing lots of classical tests.  Follow up posts <a href='http://allendowney.blogspot.com/2011/06/more-hypotheses-less-trivia.html'>here with lots of exmaples</a> and <a href='http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html'>here</a>",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "There is only one test!",
+            "url": "http://allendowney.blogspot.com/2011/05/there-is-only-one-test.html"
         },
         {
             "author": "Ben Klemens",

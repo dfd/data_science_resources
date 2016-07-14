@@ -229,6 +229,10 @@ Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)
 by John D. Cook  
 "The following diagram summarizes conjugate prior relationships for a number of common sampling distributions."  
   
+[There is only one test!](http://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)  
+by Allen Downey  
+A distillation of hypothesis testing into a single framework.  A nice alternative to memorizing lots of classical tests.  Follow up posts <a href='http://allendowney.blogspot.com/2011/06/more-hypotheses-less-trivia.html'>here with lots of exmaples</a> and <a href='http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html'>here</a>  
+  
 [A Table of Narratives and Generated Distributions](http://b-k.github.io/narratives-distributions/index.html)  
 by Ben Klemens  
 "This project lists open-form narratives and the closed-form distributions that approximate them. Its intent is to help you build estimable statistical models on a sound micro-level foundation."  

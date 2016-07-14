@@ -75,6 +75,11 @@ by Cam Davidson-Pilon
 "Bayesian Methods for Hackers is designed as an introduction to Bayesian inference from a computational/understanding-first, and mathematics-second, point of view. Of course as an introductory book, we can only leave it at that: an introductory book. For the mathematically trained, they may cure the curiosity this text generates with other texts designed with mathematical analysis in mind. For the enthusiast with less mathematical-background, or one who is not interested in the mathematics but simply the practice of Bayesian methods, this text should be sufficient and entertaining."  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
+by Stanford University  
+"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification." Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.  
+Other tags: [Machine Learning Lectures](../machine_learning#MachineLearningLectures)   
+  
 [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2016/index.html)  
 by Cliburn Chan (Duke University)  
 Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.  
@@ -576,4 +581,8 @@ A curated list of awesome R packages and tools.
 by Joseph Misiti  
 A curated list of awesome machine learning frameworks, libraries and software (by language).   
 Other tags: [Python Packages](../programming#PythonPackages), [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
+  
+[The R Journal](https://journal.r-project.org/)  
+by The R Project for Statistical Computing  
+"The R Journal is the open access, refereed journal of the R project for statistical computing. It features short to medium length articles covering topics that might be of interest to users or developers of R, including: short introductions to R extension packages; hints for programming in R; hints for newcomers explaining aspects of R that might not be so obvious from reading the manuals and FAQs; demonstrating how a new or existing technique can be applied in an area of current interest using R, providing a fresh view of such analyses in R that is of benefit beyond the specific application."  
   

@@ -221,6 +221,11 @@ by mathematicalmonk
 by Yaser Abu-Mostafa (Caltech)  
 Machine Learning course from Caltech. "The fundamental concepts and techniques are explained in detail. The focus of the lectures is real understanding, not just 'knowing.'"  
   
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
+by Stanford University  
+"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification." Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
 [Data Science](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml)  
 by Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)  
 Lectures from Harvard Extension School's Data Science class  
