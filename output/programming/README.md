@@ -230,29 +230,9 @@ by John Mount
 "In this article we are going to work a simple (but important) problem where (for once) the Bayesian calculations are in fact easier than the frequentist ones."  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
-[Frequentism and Bayesianism: A Practical Introduction](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
+[Frequentism and Bayesianism: ](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
 by Jake Vanderplas  
-"The purpose of this post is to synthesize the philosophical and pragmatic aspects of the frequentist and Bayesian approaches, so that scientists like myself might be better prepared to understand the types of data analysis people do. I'll start by addressing the philosophical distinctions between the views, and from there move to discussion of how these ideas are applied in practice, with some Python code snippets demonstrating the difference between the approaches."  
-Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
-  
-[Frequentism and Bayesianism II: When Results Differ](http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/)  
-by Jake Vanderplas  
-"While it is easy to show that the two approaches are often equivalent for simple problems, it is also true that they can diverge greatly for more complicated problems. I've found that in practice, this divergence makes itself most clear in two different situations: The handling of nuisance parameters; The subtle (and often overlooked) difference between frequentist confidence intervals and Bayesian credible intervals."  
-Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
-  
-[Frequentism and Bayesianism III: Confidence, Credibility, and why Frequentism and Science do not Mix](http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/)  
-by Jake Vanderplas  
-"These philosophies fundamenally affect the way that each approach seeks bounds on the value of a model parameter."  
-Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
-  
-[Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/)  
-by Jake Vanderplas  
-"Here I want to back away from the philosophical debate and go back to more practical issues: in particular, demonstrating how you can apply these Bayesian ideas in Python. The workhorse of modern Bayesianism is the Markov Chain Monte Carlo (MCMC), a class of algorithms used to efficiently sample posterior distributions."  
-Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
-  
-[Frequentism and Bayesianism V: Model Selection](https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/)  
-by Jake Vanderplas  
-"My quick, TL;DR summary is this: for model selection, frequentist methods tend to be conceptually difficult but computationally straightforward, while Bayesian methods tend to be conceptually straightforward but computationally difficult."  
+Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part I: <a href=''></a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a><br>  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
 [PyCon 2015 Introduction to Scikit-Learn tutorial](http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb)  
