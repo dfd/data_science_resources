@@ -182,6 +182,11 @@ by Andrew Ng, Stanford University
 "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas."  
 Other tags: [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
+[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)  
+by Yaser S. Abu-Mostafa (Caltech)  
+"Introductory Machine Learning course covering theory, algorithms and applications. Our focus is on real understanding, not just 'knowing.'"  
+Other tags: [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
+  
 [Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models)  
 by Daphne Koller, Stanford University  
 "In this class, you will learn the basics of the PGM representation and how to construct them, using both human knowledge and machine learning techniques; you will also learn algorithms for using a PGM to reach conclusions about the world from limited and noisy evidence, and for making good decisions under uncertainty. The class covers both the theoretical underpinnings of the PGM framework and practical skills needed to apply these techniques to new problems."  Sign up for a previous offering of the course.  
@@ -333,9 +338,9 @@ Other tags: [Python Packages](../programming#PythonPackages), [R Packages](../pr
 Flow chart for Machine Learning Algorithms in scikit-learn.  
 Other tags: [Beginner Machine Learning](../beginner#BeginnerMachineLearning)   
   
-[Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
+[Model evaluation, model selection, and algorithm selection in machine learning](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
 by Sebatian Raschka  
-  
+Part I: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html'>General ideas behind model evaluation in supervised machine learning</a><br>Part 2: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html'>Some advanced techniques for model evaluation</a>  
   
 [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)  
 by Kaggle user Triskelion  

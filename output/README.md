@@ -28,6 +28,7 @@
 [Python Podcasts](programming#PythonPodcasts)  
 [Python Packages](programming#PythonPackages)  
 [R Packages](programming#RPackages)  
+[Programming Misc](programming#ProgrammingMisc)  
 ###[Statistics, Probability, and Mathematics](./statistics)  
 [Statistics Textbooks](statistics#StatisticsTextbooks)  
 [Math Textbooks](statistics#MathTextbooks)  

@@ -7,6 +7,11 @@
 [Visualization Misc](#VisualizationMisc)  
 ## <a name="VisualizationTutorials"></a>Visualization Tutorials  
 
+[Quick-R](http://www.statmethods.net/)  
+by Robert I. Kabacoff  
+"R is an elegant and comprehensive statistical and graphical programming language. Unfortunately, it can also have a steep learning curve. I created this website for both current R users, and experienced users of other statistical packages (e.g., SAS, SPSS, Stata) who would like to transition to R. My goal is to help you quickly access this language in your work."  See <a href='http://www.statmethods.net/graphs/index.html'>Basic Graphs</a> and <a href='http://www.statmethods.net/advgraphs/index.html'>Advanced Graphs</a> for visualization examples.  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
 [Exploring Seaborn and Pandas based plot types in HoloViews](http://philippjfr.com/blog/seabornviews/)  
 by Philipp Rudiger  
 "In this notebook we'll look at interfacing between the composability and ability to generate complex visualizations that HoloViews provides and the great looking plots incorporated in the seaborn library. Along the way we'll explore how to wrap different types of data in a number of Seaborn View types, including: Distribution Views, Bivariate Views, TimeSeries Views"  

@@ -82,7 +82,7 @@ by Allen Downey
 "Think Bayes is an introduction to Bayesian statistics using computational methods. Most books on Bayesian statistics use mathematical notation and present ideas in terms of mathematical concepts like calculus. This book uses Python code instead of math, and discrete approximations instead of continuous mathematics. As a result, what would be an integral in a math book becomes a summation, and most operations on probability distributions are simple loops."  
 Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks)   
   
-[The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)  
+[Computational and Inferential Thinking](http://www.inferentialthinking.com/)  
 by Ani Adhikari and John DeNero  
 "Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios." Uses Python 3.  
 Other tags: [Python Textbooks](../programming#PythonTextbooks), [Statistics Textbooks](../statistics#StatisticsTextbooks)   
@@ -121,6 +121,11 @@ Other tags: [Machine Learning Misc](../machine_learning#MachineLearningMisc)
 [Machine Learning](https://www.coursera.org/learn/machine-learning)  
 by Andrew Ng, Stanford University  
 "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas."  
+Other tags: [Machine Learning Courses](../machine_learning#MachineLearningCourses)   
+  
+[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)  
+by Yaser S. Abu-Mostafa (Caltech)  
+"Introductory Machine Learning course covering theory, algorithms and applications. Our focus is on real understanding, not just 'knowing.'"  
 Other tags: [Machine Learning Courses](../machine_learning#MachineLearningCourses)   
   
 ## <a name="BeginnerVisualization"></a>Beginner Visualization  

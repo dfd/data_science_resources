@@ -193,8 +193,8 @@
                 "Statistics Textbooks",
                 "Beginner Statistics"
             ],
-            "title": "The Foundations of Data Science",
-            "url": "https://www.gitbook.com/book/ds8/textbook/details"
+            "title": "Computational and Inferential Thinking",
+            "url": "http://www.inferentialthinking.com/"
         },
         {
             "author": "Cam Davidson-Pilon",
@@ -323,13 +323,6 @@
             "url": "https://www.tensorflow.org/"
         },
         {
-            "description": "\"PyMC is a python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo. Its flexibility and extensibility make it applicable to a large suite of problems. Along with core sampling functionality, PyMC includes methods for summarizing output, plotting, goodness-of-fit and convergence diagnostics.\"",
-            "tags": [
-                "Python Packages",
-                "Statistics Packages"
-            ],
-            "title": "PyMC",
-            "url": "https://pymc-devs.github.io/pymc/",
             "description": "\"PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.\"",
             "tags": [
                 "Python Packages",
@@ -427,6 +420,15 @@
             ],
             "title": "XGBoost (Python)",
             "url": "http://xgboost.readthedocs.io/en/latest/python/python_intro.html"
+        },
+        {
+            "description": "\"lifelines is a implementation of survival analysis in Python,\" built on top of pandas",
+            "tags": [
+                "Python Packages",
+                "Statistics Packages"
+            ],
+            "title": "Lifelines",
+            "url": "https://lifelines.readthedocs.io/en/latest/"
         },
         {
             "description": "An optimized, flexible, portable, regression and classification gradient boosting package that supports distributed training.",
@@ -533,6 +535,16 @@
             ],
             "title": "Machine Learning",
             "url": "https://www.coursera.org/learn/machine-learning"
+        },
+        {
+            "author": "Yaser S. Abu-Mostafa (Caltech)",
+            "description": "\"Introductory Machine Learning course covering theory, algorithms and applications. Our focus is on real understanding, not just 'knowing.'\"",
+            "tags": [
+                "Machine Learning Courses",
+                "Beginner Machine Learning"
+            ],
+            "title": "Learning From Data (Introductory Machine Learning)",
+            "url": "https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x"
         },
         {
             "author": "Jim Fowler, The Ohio State University",
@@ -1048,7 +1060,17 @@
             "url": "https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en"
         },
         {
-            "author": "Hadley Wickham",
+            "author": "Robert I. Kabacoff",
+            "description": "\"R is an elegant and comprehensive statistical and graphical programming language. Unfortunately, it can also have a steep learning curve. I created this website for both current R users, and experienced users of other statistical packages (e.g., SAS, SPSS, Stata) who would like to transition to R. My goal is to help you quickly access this language in your work.\"  See <a href='http://www.statmethods.net/graphs/index.html'>Basic Graphs</a> and <a href='http://www.statmethods.net/advgraphs/index.html'>Advanced Graphs</a> for visualization examples.",
+            "tags": [
+                "R Tutorials",
+                "Visualization Tutorials"
+            ],
+            "title": "Quick-R",
+            "url": "http://www.statmethods.net/"
+        },
+        {
+            "author": "",
             "description": "\"A huge amount of effort is spent cleaning data to get it ready for analysis, but there has been little research on how to make data cleaning as easy and effective as possible. This paper tackles a small, but important, component of data cleaning: data tidying. Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. This framework makes it easy to tidy messy datasets because only a small set of tools are needed to deal with a wide range of un-tidy datasets. This structure also makes it easier to develop tidy tools for data analysis, tools that both input and output tidy datasets. The advantages of a consistent data structure and matching tools are demonstrated with a case study free from mundane data manipulation chores.\"",
             "tags": [
                 "R Tutorials"
@@ -1190,11 +1212,11 @@
         },
         {
             "author": "Sebatian Raschka",
-            "description": "",
+            "description": "Part I: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html'>General ideas behind model evaluation in supervised machine learning</a><br>Part 2: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html'>Some advanced techniques for model evaluation</a>",
             "tags": [
                 "Machine Learning Misc"
             ],
-            "title": "Model evaluation, model selection, and algorithm selection in machine learning - Part I",
+            "title": "Model evaluation, model selection, and algorithm selection in machine learning",
             "url": "http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html"
         },
         {
@@ -1218,7 +1240,7 @@
         },
         {
             "author": "Yuan Tang",
-            "description": "\"Scikit Flow is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining. It helps smooth the transition from the Scikit-learn world of one-liner machine learning into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable. It’s Scikit-learn compatible so you can also benefit from Scikit-learn features like GridSearch and Pipeline.\"",
+            "description": "\"Scikit Flow is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining. It helps smooth the transition from the Scikit-learn world of one-liner machine learning into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable. It\u2019s Scikit-learn compatible so you can also benefit from Scikit-learn features like GridSearch and Pipeline.\"",
             "tags": [
                 "Machine Learning Tutorials",
                 "Python Tutorials"
@@ -1292,7 +1314,7 @@
                 "Machine Learning Tutorials",
                 "Python Tutorials"
             ],
-            "title": "Python: scikit-learn – Training a classifier with non numeric features",
+            "title": "Python: scikit-learn \u2013 Training a classifier with non numeric features",
             "url": "https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/"
         },
         {
@@ -1316,7 +1338,7 @@
             "url": "http://opensource.datacratic.com/mtlpy50/"
         },
         {
-            "author": "Zygmunt Zając",
+            "author": "Zygmunt Zaj\u0105c",
             "description": "\"Calibration is applicable in case a classifier outputs probabilities. Apparently some classifiers have their typical quirks - for example, they say boosted trees and SVM tend to predict probabilities conservatively, meaning closer to mid-range than to extremes. If your metric cares about exact probabilities, like logarithmic loss does, you can calibrate the classifier, that is post-process the predictions to get better estimates.\"",
             "tags": [
                 "Machine Learning Tutorials",
@@ -1327,7 +1349,7 @@
         },
         {
             "author": "Edwin Chen",
-            "description": "\"A couple weeks ago, Facebook launched a link prediction contest on Kaggle, with the goal of recommending missing edges in a social graph. I love investigating social networks, so I dug around a little, and since I did well enough to score one of the coveted prizes, I’ll share my approach here.\"",
+            "description": "\"A couple weeks ago, Facebook launched a link prediction contest on Kaggle, with the goal of recommending missing edges in a social graph. I love investigating social networks, so I dug around a little, and since I did well enough to score one of the coveted prizes, I\u2019ll share my approach here.\"",
             "tags": [
                 "Machine Learning Tutorials"
             ],
@@ -1336,7 +1358,7 @@
         },
         {
             "author": "Austin Rochford",
-            "description": "\"In this post, we’ll explore a Bayesian approach to nonparametric regression, which allows us to model complex functions with relatively weak assumptions.\" Extends scikit-learn.",
+            "description": "\"In this post, we\u2019ll explore a Bayesian approach to nonparametric regression, which allows us to model complex functions with relatively weak assumptions.\" Extends scikit-learn.",
             "tags": [
                 "Machine Learning Tutorials",
                 "Python Tutorials"
@@ -1355,7 +1377,7 @@
         },
         {
             "author": "Max Kuhn",
-            "description": "\" I’ll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative.\"",
+            "description": "\" I\u2019ll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative.\"",
             "tags": [
                 "Machine Learning Tutorials",
                 "R Tutorials"
@@ -1375,69 +1397,22 @@
         },
         {
             "author": "Nina Zumel",
-            "description": "\"In this note, we discuss principal components regression and some of the issues with it: The need for scaling; The need for pruning; The lack of “y-awareness” of the standard dimensionality reduction step.\"",
+            "description": "Part I: <a href='http://www.win-vector.com/blog/2016/05/pcr_part1_xonly'>The Standard Method</a><br>Part II: <a href='http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/'>Y-Aware Methods</a><br>Part III: <a href='http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/'>Picking the Number of Components</a>",
             "tags": [
                 "Statistics Tutorials",
                 "R Tutorials"
             ],
-            "title": "Principal Components Regression, Pt.1: The Standard Method",
+            "title": "Principal Components Regression",
             "url": "http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/"
         },
         {
-            "author": "Nina Zumel",
-            "description": "In this note, we present some dimensionality reduction techniques that alleviate some of those problems, in particular what we call Y-Aware Principal Components Analysis, or Y-Aware PCA.",
-            "tags": [
-                "Statistics Tutorials",
-                "R Tutorials"
-            ],
-            "title": "Principal Components Regression, Pt. 2: Y-Aware Methods",
-            "url": "http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/"
-        },
-        {
-            "author": "Nina Zumel",
-            "description": "\"In this note, we will look at ways to select the appropriate number of principal components in a more automated fashion.\"",
-            "tags": [
-                "Statistics Tutorials",
-                "R Tutorials"
-            ],
-            "title": "Principal Components Regression, Pt. 3: Picking the Number of Components",
-            "url": "http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/"
-        },
-        {
             "author": "John Mount",
-            "description": "Setting up the specific problem for modeling.",
+            "description": "Part 1: <a href='http://www.win-vector.com/blog/2015/09/willyourmodelworkpart1/'>Setting up the specific problem for modeling.</a><br>Part 2: <a href='http://www.win-vector.com/blog/2015/09/willyourmodelworkpart2/'>In-training set measures</a><br>Part 3: <a href='http://www.win-vector.com/blog/2015/09/willyourmodelworkpart3/'>Out of sample procedures</a><br>Part 4: <a href='http://www.win-vector.com/blog/2015/09/willyourmodelworkpart4/'>Cross-validation techniques</a>",
             "tags": [
                 "Statistics Misc"
             ],
-            "title": "How do you know if your model is going to work? Part 1: The problem",
+            "title": "How do you know if your model is going to work?",
             "url": "http://www.win-vector.com/blog/2015/09/willyourmodelworkpart1/"
-        },
-        {
-            "author": "John Mount",
-            "description": "Developing in-training set measures.",
-            "tags": [
-                "Statistics Misc"
-            ],
-            "title": "How do you know if your model is going to work? Part 2: In-training set measures",
-            "url": "http://www.win-vector.com/blog/2015/09/willyourmodelworkpart2/"
-        },
-        {
-            "author": "John Mount",
-            "description": "Developing out of sample procedures.",
-            "tags": [
-                "Statistics Misc"
-            ],
-            "title": "How do you know if your model is going to work? Part 3: Out of sample procedures",
-            "url": "http://www.win-vector.com/blog/2015/09/willyourmodelworkpart3/"
-        },
-        {
-            "author": "John Mount",
-            "description": "Demonstration of cross-validation techniques.",
-            "tags": [
-                "Statistics Misc"
-            ],
-            "title": "How do you know if your model is going to work? Part 4: Cross-validation techniques",
-            "url": "http://www.win-vector.com/blog/2015/09/willyourmodelworkpart4/"
         },
         {
             "author": "John Mount",
@@ -1545,7 +1520,7 @@
                 "R Tutorials",
                 "Statistics Tutorials"
             ],
-            "title": "Sorry ARIMA, but I’m Going Bayesian",
+            "title": "Sorry ARIMA, but I\u2019m Going Bayesian",
             "url": "http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/"
         },
         {
@@ -1626,6 +1601,42 @@
             ],
             "title": "PyCon 2015 Introduction to Scikit-Learn tutorial",
             "url": "http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb"
+        },
+        {
+            "author": "OverAPI.com",
+            "description": "Quick reference for regular expressions",
+            "tags": [
+                "Programming Misc"
+            ],
+            "title": "RegEx Cheat Sheet",
+            "url": "http://overapi.com/regex"
+        },
+        {
+            "author": "Jay Feng",
+            "description": "Demonstration of how to apply a function to pandas in parallel.",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Python Pandas Functions in Parallel",
+            "url": "http://www.racketracer.com/2016/07/06/pandas-in-parallel/"
+        },
+        {
+            "author": "Evan Miller",
+            "description": "\"Intuitive statistical calculators, ideal for planning and analyzing A/B tests.\"",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "Evan's Awesome A/B Tools",
+            "url": "http://www.evanmiller.org/ab-testing/"
+        },
+        {
+            "author": "Andrew Gelman",
+            "description": "Demonstration of how informative priors can escape the multiple comparison problem.",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "Bayesian inference completely solves the multiple comparisons problem",
+            "url": "http://andrewgelman.com/2016/08/22/bayesian-inference-completely-solves-the-multiple-comparisons-problem/"
         }
     ]
 }

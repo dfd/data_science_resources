@@ -13,6 +13,7 @@
 [Python Podcasts](#PythonPodcasts)  
 [Python Packages](#PythonPackages)  
 [R Packages](#RPackages)  
+[Programming Misc](#ProgrammingMisc)  
 ## <a name="PythonTextbooks"></a>Python Textbooks  
 
 [Think Python 2e](http://greenteapress.com/wp/think-python-2e/)  
@@ -33,7 +34,7 @@ by Allen Downey
 by Muhammad Yasoob Ullah Khalid  
 "The topics which are discussed in this book open up your mind towards some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python."  
   
-[The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)  
+[Computational and Inferential Thinking](http://www.inferentialthinking.com/)  
 by Ani Adhikari and John DeNero  
 "Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios." Uses Python 3.  
 Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks), [Beginner Statistics](../beginner#BeginnerStatistics)   
@@ -259,10 +260,19 @@ by Jake Vanderplas
 "Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics."  
 Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
+[Python Pandas Functions in Parallel](http://www.racketracer.com/2016/07/06/pandas-in-parallel/)  
+by Jay Feng  
+Demonstration of how to apply a function to pandas in parallel.  
+  
 ## <a name="RTutorials"></a>R Tutorials  
 
+[Quick-R](http://www.statmethods.net/)  
+by Robert I. Kabacoff  
+"R is an elegant and comprehensive statistical and graphical programming language. Unfortunately, it can also have a steep learning curve. I created this website for both current R users, and experienced users of other statistical packages (e.g., SAS, SPSS, Stata) who would like to transition to R. My goal is to help you quickly access this language in your work."  See <a href='http://www.statmethods.net/graphs/index.html'>Basic Graphs</a> and <a href='http://www.statmethods.net/advgraphs/index.html'>Advanced Graphs</a> for visualization examples.  
+Other tags: [Visualization Tutorials](../visualizaiton#VisualizationTutorials)   
+  
 [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf)  
-by Hadley Wickham  
+by   
 "A huge amount of effort is spent cleaning data to get it ready for analysis, but there has been little research on how to make data cleaning as easy and effective as possible. This paper tackles a small, but important, component of data cleaning: data tidying. Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. This framework makes it easy to tidy messy datasets because only a small set of tools are needed to deal with a wide range of un-tidy datasets. This structure also makes it easier to develop tidy tools for data analysis, tools that both input and output tidy datasets. The advantages of a consistent data structure and matching tools are demonstrated with a case study free from mundane data manipulation chores."  
   
 [GAM: The Predictive Modeling Silver Bullet](http://multithreaded.stitchfix.com/blog/2015/07/30/gam/)  
@@ -280,19 +290,9 @@ by John Mount
 "This article is a demonstration the use of the R vtreat variable preparation package followed by caret controlled training."  
 Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
-[Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)  
+[Principal Components Regression](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)  
 by Nina Zumel  
-"In this note, we discuss principal components regression and some of the issues with it: The need for scaling; The need for pruning; The lack of “y-awareness” of the standard dimensionality reduction step."  
-Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
-  
-[Principal Components Regression, Pt. 2: Y-Aware Methods](http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/)  
-by Nina Zumel  
-In this note, we present some dimensionality reduction techniques that alleviate some of those problems, in particular what we call Y-Aware Principal Components Analysis, or Y-Aware PCA.  
-Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
-  
-[Principal Components Regression, Pt. 3: Picking the Number of Components](http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/)  
-by Nina Zumel  
-"In this note, we will look at ways to select the appropriate number of principal components in a more automated fashion."  
+Part I: <a href='http://www.win-vector.com/blog/2016/05/pcr_part1_xonly'>The Standard Method</a><br>Part II: <a href='http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/'>Y-Aware Methods</a><br>Part III: <a href='http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/'>Picking the Number of Components</a>  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
 [A clear picture of power and significance in A/B tests](http://www.win-vector.com/blog/2014/05/a-clear-picture-of-power-and-significance-in-ab-tests/)  
@@ -529,6 +529,10 @@ Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPacka
 An optimized, flexible, portable, regression and classification gradient boosting package that supports distributed training.  
 Other tags: [Machine Learning Packages](../machine_learning#MachineLearningPackages)   
   
+[Lifelines](https://lifelines.readthedocs.io/en/latest/)  
+"lifelines is a implementation of survival analysis in Python," built on top of pandas  
+Other tags: [Statistics Packages](../statistics#StatisticsPackages)   
+  
 [Awesome Python](https://github.com/vinta/awesome-python)  
 by Vinta  
 A curated list of awesome Python frameworks, libraries, software and resources.  
@@ -585,4 +589,10 @@ Other tags: [Python Packages](../programming#PythonPackages), [Machine Learning 
 [The R Journal](https://journal.r-project.org/)  
 by The R Project for Statistical Computing  
 "The R Journal is the open access, refereed journal of the R project for statistical computing. It features short to medium length articles covering topics that might be of interest to users or developers of R, including: short introductions to R extension packages; hints for programming in R; hints for newcomers explaining aspects of R that might not be so obvious from reading the manuals and FAQs; demonstrating how a new or existing technique can be applied in an area of current interest using R, providing a fresh view of such analyses in R that is of benefit beyond the specific application."  
+  
+## <a name="ProgrammingMisc"></a>Programming Misc  
+
+[RegEx Cheat Sheet](http://overapi.com/regex)  
+by OverAPI.com  
+Quick reference for regular expressions  
   

@@ -64,7 +64,7 @@ by Roger Levy
 "I'm in the process of writing a textbook on the topic of using probabilistic models in scientific work on language ranging from experimental data analysis to corpus work to cognitive modeling. The intended audience is graduate students in linguistics, psychology, cognitive science, and computer science who are interested in using probabilistic models to study language."  
 Other tags: [R Textbooks](../programming#RTextbooks)   
   
-[The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)  
+[Computational and Inferential Thinking](http://www.inferentialthinking.com/)  
 by Ani Adhikari and John DeNero  
 "Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios." Uses Python 3.  
 Other tags: [Python Textbooks](../programming#PythonTextbooks), [Beginner Statistics](../beginner#BeginnerStatistics)   
@@ -106,19 +106,9 @@ by Kim Larsen
 "Despite its lack of popularity in the data science community, GAM is a powerful and yet simple technique. Hence, the purpose of this post is to convince more data scientists to use GAM. Of course, GAM is no silver bullet, but it is a technique you should add to your arsenal. Here are three key reasons: Easy to interpret; Flexible predictor functions can uncover hidden patterns in the data; Regularization of predictor functions helps avoid overfitting."  
 Other tags: [R Tutorials](../programming#RTutorials)   
   
-[Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)  
+[Principal Components Regression](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)  
 by Nina Zumel  
-"In this note, we discuss principal components regression and some of the issues with it: The need for scaling; The need for pruning; The lack of “y-awareness” of the standard dimensionality reduction step."  
-Other tags: [R Tutorials](../programming#RTutorials)   
-  
-[Principal Components Regression, Pt. 2: Y-Aware Methods](http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/)  
-by Nina Zumel  
-In this note, we present some dimensionality reduction techniques that alleviate some of those problems, in particular what we call Y-Aware Principal Components Analysis, or Y-Aware PCA.  
-Other tags: [R Tutorials](../programming#RTutorials)   
-  
-[Principal Components Regression, Pt. 3: Picking the Number of Components](http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/)  
-by Nina Zumel  
-"In this note, we will look at ways to select the appropriate number of principal components in a more automated fashion."  
+Part I: <a href='http://www.win-vector.com/blog/2016/05/pcr_part1_xonly'>The Standard Method</a><br>Part II: <a href='http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/'>Y-Aware Methods</a><br>Part III: <a href='http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/'>Picking the Number of Components</a>  
 Other tags: [R Tutorials](../programming#RTutorials)   
   
 [Frequentist inference only seems easy](http://www.win-vector.com/blog/2014/07/frequenstist-inference-only-seems-easy/)  
@@ -238,26 +228,22 @@ by Ben Klemens
 "This project lists open-form narratives and the closed-form distributions that approximate them. Its intent is to help you build estimable statistical models on a sound micro-level foundation."  
 Other tags: [Beginner Statistics](../beginner#BeginnerStatistics)   
   
-[How do you know if your model is going to work? Part 1: The problem](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart1/)  
+[How do you know if your model is going to work?](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart1/)  
 by John Mount  
-Setting up the specific problem for modeling.  
-  
-[How do you know if your model is going to work? Part 2: In-training set measures](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart2/)  
-by John Mount  
-Developing in-training set measures.  
-  
-[How do you know if your model is going to work? Part 3: Out of sample procedures](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart3/)  
-by John Mount  
-Developing out of sample procedures.  
-  
-[How do you know if your model is going to work? Part 4: Cross-validation techniques](http://www.win-vector.com/blog/2015/09/willyourmodelworkpart4/)  
-by John Mount  
-Demonstration of cross-validation techniques.  
+Part 1: <a href='http://www.win-vector.com/blog/2015/09/willyourmodelworkpart1/'>Setting up the specific problem for modeling.</a><br>Part 2: <a href='http://www.win-vector.com/blog/2015/09/willyourmodelworkpart2/'>In-training set measures</a><br>Part 3: <a href='http://www.win-vector.com/blog/2015/09/willyourmodelworkpart3/'>Out of sample procedures</a><br>Part 4: <a href='http://www.win-vector.com/blog/2015/09/willyourmodelworkpart4/'>Cross-validation techniques</a>  
   
 [A clear picture of power and significance in A/B tests](http://www.win-vector.com/blog/2014/05/a-clear-picture-of-power-and-significance-in-ab-tests/)  
 by John Mount  
 Sample size calculation and visualization for power and significance specifications.  
 Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[Evan's Awesome A/B Tools](http://www.evanmiller.org/ab-testing/)  
+by Evan Miller  
+"Intuitive statistical calculators, ideal for planning and analyzing A/B tests."  
+  
+[Bayesian inference completely solves the multiple comparisons problem](http://andrewgelman.com/2016/08/22/bayesian-inference-completely-solves-the-multiple-comparisons-problem/)  
+by Andrew Gelman  
+Demonstration of how informative priors can escape the multiple comparison problem.  
   
 ## <a name="StatisticsPackages"></a>Statistics Packages  
 
@@ -279,6 +265,10 @@ Other tags: [Python Packages](../programming#PythonPackages)
   
 [PyStan](https://pystan.readthedocs.io/en/latest/)  
 "PyStan provides an interface to Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo."  
+Other tags: [Python Packages](../programming#PythonPackages)   
+  
+[Lifelines](https://lifelines.readthedocs.io/en/latest/)  
+"lifelines is a implementation of survival analysis in Python," built on top of pandas  
 Other tags: [Python Packages](../programming#PythonPackages)   
   
 [vtreat](https://cran.r-project.org/web/packages/vtreat/index.html)  
