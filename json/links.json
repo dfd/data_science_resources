@@ -1203,7 +1203,7 @@
         },
         {
             "author": "Sebatian Raschka",
-            "description": "Part I: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html'>General ideas behind model evaluation in supervised machine learning</a><br>Part 2: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html'>Some advanced techniques for model evaluation</a>",
+            "description": "Part 1: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html'>General ideas behind model evaluation in supervised machine learning</a><br>Part 2: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html'>Some advanced techniques for model evaluation</a>",
             "tags": [
                 "Machine Learning Misc"
             ],

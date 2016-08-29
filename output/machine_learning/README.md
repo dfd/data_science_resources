@@ -340,7 +340,7 @@ Other tags: [Beginner Machine Learning](../beginner#BeginnerMachineLearning)
   
 [Model evaluation, model selection, and algorithm selection in machine learning](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
 by Sebatian Raschka  
-Part I: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html'>General ideas behind model evaluation in supervised machine learning</a><br>Part 2: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html'>Some advanced techniques for model evaluation</a>  
+Part 1: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html'>General ideas behind model evaluation in supervised machine learning</a><br>Part 2: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html'>Some advanced techniques for model evaluation</a>  
   
 [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)  
 by Kaggle user Triskelion  
