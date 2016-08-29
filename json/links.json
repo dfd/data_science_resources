@@ -693,21 +693,12 @@
         },
         {
             "author": "Brian Caffo, Johns Hopkins University",
-            "description": "\"This class presents the fundamental probability and statistical concepts used in elementary data analysis. It will be taught at an introductory level for students with junior or senior college-level mathematical training including a working knowledge of calculus. A small amount of linear algebra and programming are useful for the class, but not required.\"",
+            "description": "\"This class presents the fundamental probability and statistical concepts used in elementary data analysis. It will be taught at an introductory level for students with junior or senior college-level mathematical training including a working knowledge of calculus. A small amount of linear algebra and programming are useful for the class, but not required.\"Part I: <a href='https://www.coursera.org/learn/biostatistics'>Mathematical Biostatistics Boot Camp</a><br>Part II: <a href='https://www.coursera.org/learn/biostatistics-2'>Mathematical Biostatistics Boot Camp 2</a>",
             "tags": [
                 "Statistics Courses"
             ],
-            "title": "Mathematical Biostatistics Boot Camp 1",
+            "title": "Mathematical Biostatistics Boot Camp",
             "url": "https://www.coursera.org/learn/biostatistics"
-        },
-        {
-            "author": "Brian Caffo, Johns Hopkins University",
-            "description": "\"Learn fundamental concepts in data analysis and statistical inference, focusing on one and two independent samples.\"",
-            "tags": [
-                "Statistics Courses"
-            ],
-            "title": "Mathematical Biostatistics Boot Camp 2",
-            "url": "https://www.coursera.org/learn/biostatistics-2"
         },
         {
             "author": "mathematicalmonk",
@@ -1367,17 +1358,8 @@
             "url": "http://austinrochford.com/posts/2014-03-23-bayesian-nonparamtric-regression-gp.html"
         },
         {
-            "author": "Sebastian Raschka",
-            "description": "\"Model evaluation is certainly not just the end point of our machine learning pipeline. Before we handle any data, we want to plan ahead and use techniques that are suited for our purposes. In this article, we will go over a selection of these techniques, and we will see how they fit into the bigger picture, a typical machine learning workflow.\"",
-            "tags": [
-                "Machine Learning Misc"
-            ],
-            "title": "Model evaluation, model selection, and algorithm selection in machine learning - Part I",
-            "url": "http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html"
-        },
-        {
             "author": "Max Kuhn",
-            "description": "\" I\u2019ll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative.\"",
+            "description": "\"I'll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative.\"",
             "tags": [
                 "Machine Learning Tutorials",
                 "R Tutorials"
@@ -1534,12 +1516,12 @@
         },
         {
             "author": "Jake Vanderplas",
-            "description": "Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part I: <a href=''></a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a><br>",
+            "description": "Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>",
             "tags": [
                 "Statistics Tutorials",
                 "Python Tutorials"
             ],
-            "title": "Frequentism and Bayesianism: ",
+            "title": "Frequentism and Bayesianism",
             "url": "http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/"
         },
         {

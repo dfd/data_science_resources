@@ -152,7 +152,7 @@ Other tags: [Python Tutorials](../programming#PythonTutorials)
   
 [Bayesian Optimization of Machine Learning Models](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html)  
 by Max Kuhn  
-" I’ll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative."  
+"I'll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative."  
 Other tags: [R Tutorials](../programming#RTutorials)   
   
 [A demonstration of vtreat data preparation](http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/)  
@@ -345,8 +345,4 @@ Part I: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selectio
 [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)  
 by Kaggle user Triskelion  
 "Model ensembling is a very powerful technique to increase accuracy on a variety of ML tasks. In this article I will share my ensembling approaches for Kaggle Competitions."  
-  
-[Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)  
-by Sebastian Raschka  
-"Model evaluation is certainly not just the end point of our machine learning pipeline. Before we handle any data, we want to plan ahead and use techniques that are suited for our purposes. In this article, we will go over a selection of these techniques, and we will see how they fit into the bigger picture, a typical machine learning workflow."  
   

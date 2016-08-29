@@ -230,9 +230,9 @@ by John Mount
 "In this article we are going to work a simple (but important) problem where (for once) the Bayesian calculations are in fact easier than the frequentist ones."  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
-[Frequentism and Bayesianism: ](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
+[Frequentism and Bayesianism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
 by Jake Vanderplas  
-Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part I: <a href=''></a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a><br>  
+Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
 [PyCon 2015 Introduction to Scikit-Learn tutorial](http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb)  
@@ -262,7 +262,7 @@ Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)
   
 [Bayesian Optimization of Machine Learning Models](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html)  
 by Max Kuhn  
-" I’ll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative."  
+"I'll demonstrate how Bayesian optimization and Gaussian process models can be used as an alternative."  
 Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTutorials)   
   
 [A demonstration of vtreat data preparation](http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/)  

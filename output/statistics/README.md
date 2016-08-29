@@ -121,9 +121,9 @@ by Kim Larsen
 Tutorial on using Bayesian structural time series models.  
 Other tags: [R Tutorials](../programming#RTutorials)   
   
-[Frequentism and Bayesianism: ](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
+[Frequentism and Bayesianism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
 by Jake Vanderplas  
-Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part I: <a href=''></a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a><br>  
+Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
 ## <a name="StatisticsCourses"></a>Statistics Courses  
@@ -133,13 +133,9 @@ by Trevor Hastie and Rob Tibshirani, Stanford University
 "This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical)."  
 Other tags: [Machine Learning Courses](../machine_learning#MachineLearningCourses), [R Courses](../programming#RCourses)   
   
-[Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics)  
+[Mathematical Biostatistics Boot Camp](https://www.coursera.org/learn/biostatistics)  
 by Brian Caffo, Johns Hopkins University  
-"This class presents the fundamental probability and statistical concepts used in elementary data analysis. It will be taught at an introductory level for students with junior or senior college-level mathematical training including a working knowledge of calculus. A small amount of linear algebra and programming are useful for the class, but not required."  
-  
-[Mathematical Biostatistics Boot Camp 2](https://www.coursera.org/learn/biostatistics-2)  
-by Brian Caffo, Johns Hopkins University  
-"Learn fundamental concepts in data analysis and statistical inference, focusing on one and two independent samples."  
+"This class presents the fundamental probability and statistical concepts used in elementary data analysis. It will be taught at an introductory level for students with junior or senior college-level mathematical training including a working knowledge of calculus. A small amount of linear algebra and programming are useful for the class, but not required."Part I: <a href='https://www.coursera.org/learn/biostatistics'>Mathematical Biostatistics Boot Camp</a><br>Part II: <a href='https://www.coursera.org/learn/biostatistics-2'>Mathematical Biostatistics Boot Camp 2</a>  
   
 ## <a name="MathCourses"></a>Math Courses  
 
