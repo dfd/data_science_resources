@@ -34,7 +34,7 @@ by Allen Downey
 by Gary W. Oehlert  
 "This text covers the basic topics in experimental design and analysis and is intended for graduate students and advanced undergraduates. Students should have had an introductory statistical methods course at about the level of Moore and McCabe's Introduction to the Practice of Statistics (Moore and McCabe 1999) and be familiar with t-tests, p-values, confidence intervals, and the basics of regression and ANOVA."  
   
-[Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)  
+[Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/) (URL Failure)  
 by David J.C. MacKay  
 "This book is aimed at senior undergraduates and graduate students in Engineering, Science, Mathematics, and Computing. It expects familiarity with calculus, probability theory, and linear algebra as taught in a first- or secondyear undergraduate course on mathematics for scientists and engineers. Conventional courses on information theory cover not only the beautiful theoretical ideas of Shannon, but also practical solutions to communication problems. This book goes further, bringing in Bayesian data modelling, Monte Carlo methods, variational methods, clustering algorithms, and neural networks."  
 Other tags: [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks)   
@@ -124,6 +124,26 @@ Other tags: [R Tutorials](../programming#RTutorials)
 [Frequentism and Bayesianism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
 by Jake Vanderplas  
 Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
+by Manojit Nandi  
+"In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model." Uses pymc in Python 2.  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3](https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/)  
+by Dan Saber  
+Example of A/B testing with hierarchical models using pymc3.  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Hierarchical Partial Pooling for Repeated Binary Trials](https://cran.r-project.org/web/packages/rstanarm/vignettes/pooling.html)  
+by Bob Carpenter, Jonah Gabry and Ben Goodrich  
+"This vignette illustrates the effects on posterior inference of pooling data (a.k.a sharing strength) across units for repeated binary trial data. It provides R code to fit and check predictive models for three situations: (a) complete pooling, which assumes each unit is the same, (b) no pooling, which assumes the units are unrelated, and (c) partial pooling, where the similarity among the units is estimated. The note explains with working examples how to (i) fit the models using rstanarm and plot the results, (ii) estimate event probabilities, (iii) evaluate posterior predictive densities to evaluate model predictions on held-out data, (iv) rank units by chance of success, (v) perform multiple comparisons in several settings, (vi) replicate new data for posterior pp-values, and (vii) perform graphical posterior predictive checks."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
+[A/B Testing Statistics](http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/)  
+by Slater Stich  
+Demonstration of Hierarchical Models in A/B tests using pymc.  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
 ## <a name="StatisticsCourses"></a>Statistics Courses  
@@ -220,6 +240,10 @@ by Evan Miller
 [Bayesian inference completely solves the multiple comparisons problem](http://andrewgelman.com/2016/08/22/bayesian-inference-completely-solves-the-multiple-comparisons-problem/)  
 by Andrew Gelman  
 Demonstration of how informative priors can escape the multiple comparison problem.  
+  
+[Causal Data Science](https://medium.com/@akelleh/causal-data-science-721ed63a4027#.lzne8nsk2)  
+by Adam Kelleher  
+Series of posts addressing casuality  
   
 ## <a name="StatisticsPackages"></a>Statistics Packages  
 

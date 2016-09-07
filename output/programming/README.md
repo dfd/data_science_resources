@@ -244,6 +244,21 @@ Other tags: [Machine Learning Tutorials](../machine_learning#MachineLearningTuto
 by Jay Feng  
 Demonstration of how to apply a function to pandas in parallel.  
   
+[A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
+by Manojit Nandi  
+"In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model." Uses pymc in Python 2.  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3](https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/)  
+by Dan Saber  
+Example of A/B testing with hierarchical models using pymc3.  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[A/B Testing Statistics](http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/)  
+by Slater Stich  
+Demonstration of Hierarchical Models in A/B tests using pymc.  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
 ## <a name="RTutorials"></a>R Tutorials  
 
 [Quick-R](http://www.statmethods.net/)  
@@ -322,6 +337,11 @@ by Krzysztof Osiewalski
 [Sorry ARIMA, but I’m Going Bayesian](http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)  
 by Kim Larsen  
 Tutorial on using Bayesian structural time series models.  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Hierarchical Partial Pooling for Repeated Binary Trials](https://cran.r-project.org/web/packages/rstanarm/vignettes/pooling.html)  
+by Bob Carpenter, Jonah Gabry and Ben Goodrich  
+"This vignette illustrates the effects on posterior inference of pooling data (a.k.a sharing strength) across units for repeated binary trial data. It provides R code to fit and check predictive models for three situations: (a) complete pooling, which assumes each unit is the same, (b) no pooling, which assumes the units are unrelated, and (c) partial pooling, where the similarity among the units is estimated. The note explains with working examples how to (i) fit the models using rstanarm and plot the results, (ii) estimate event probabilities, (iii) evaluate posterior predictive densities to evaluate model predictions on held-out data, (iv) rank units by chance of success, (v) perform multiple comparisons in several settings, (vi) replicate new data for posterior pp-values, and (vii) perform graphical posterior predictive checks."  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
 ## <a name="PythonCourses"></a>Python Courses  
