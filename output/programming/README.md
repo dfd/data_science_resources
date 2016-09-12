@@ -259,6 +259,15 @@ by Slater Stich
 Demonstration of Hierarchical Models in A/B tests using pymc.  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
   
+[Bayesian Data Analysis Python Demos](https://github.com/avehtari/BDA_py_demos)  
+by Tuomas Sivula  
+"This repository contains some Python demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3)."  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Fundamentals of Python Programming](http://python.cs.southern.edu/pythonbook/pythonbook.pdf)  
+by Richard L. Halterman  
+Thorough book covering many aspects of software development in Python.  Uses Python 3.  
+  
 ## <a name="RTutorials"></a>R Tutorials  
 
 [Quick-R](http://www.statmethods.net/)  
@@ -343,6 +352,15 @@ Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)
 by Bob Carpenter, Jonah Gabry and Ben Goodrich  
 "This vignette illustrates the effects on posterior inference of pooling data (a.k.a sharing strength) across units for repeated binary trial data. It provides R code to fit and check predictive models for three situations: (a) complete pooling, which assumes each unit is the same, (b) no pooling, which assumes the units are unrelated, and (c) partial pooling, where the similarity among the units is estimated. The note explains with working examples how to (i) fit the models using rstanarm and plot the results, (ii) estimate event probabilities, (iii) evaluate posterior predictive densities to evaluate model predictions on held-out data, (iv) rank units by chance of success, (v) perform multiple comparisons in several settings, (vi) replicate new data for posterior pp-values, and (vii) perform graphical posterior predictive checks."  
 Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Bayesian Data Analysis Python Demos](https://github.com/avehtari/BDA_R_demos)  
+by Markus Paasiniemi  
+"This repository contains some R demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3)."  
+Other tags: [Statistics Tutorials](../statistics#StatisticsTutorials)   
+  
+[Resources to help you learn and use R](http://www.ats.ucla.edu/stat/r/)  
+by UCLA  
+Resources to help you learn and use R  
   
 ## <a name="PythonCourses"></a>Python Courses  
 

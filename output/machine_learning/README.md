@@ -11,7 +11,7 @@
 [Machine Learning Misc](#MachineLearningMisc)  
 ## <a name="MachineLearningTextbooks"></a>Machine Learning Textbooks  
 
-[Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/) (URL Failure)  
+[Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)  
 by David J.C. MacKay  
 "This book is aimed at senior undergraduates and graduate students in Engineering, Science, Mathematics, and Computing. It expects familiarity with calculus, probability theory, and linear algebra as taught in a first- or secondyear undergraduate course on mathematics for scientists and engineers. Conventional courses on information theory cover not only the beautiful theoretical ideas of Shannon, but also practical solutions to communication problems. This book goes further, bringing in Bayesian data modelling, Monte Carlo methods, variational methods, clustering algorithms, and neural networks."  
 Other tags: [Statistics Textbooks](../statistics#StatisticsTextbooks)   

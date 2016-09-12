@@ -34,7 +34,7 @@ by Allen Downey
 by Gary W. Oehlert  
 "This text covers the basic topics in experimental design and analysis and is intended for graduate students and advanced undergraduates. Students should have had an introductory statistical methods course at about the level of Moore and McCabe's Introduction to the Practice of Statistics (Moore and McCabe 1999) and be familiar with t-tests, p-values, confidence intervals, and the basics of regression and ANOVA."  
   
-[Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/) (URL Failure)  
+[Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)  
 by David J.C. MacKay  
 "This book is aimed at senior undergraduates and graduate students in Engineering, Science, Mathematics, and Computing. It expects familiarity with calculus, probability theory, and linear algebra as taught in a first- or secondyear undergraduate course on mathematics for scientists and engineers. Conventional courses on information theory cover not only the beautiful theoretical ideas of Shannon, but also practical solutions to communication problems. This book goes further, bringing in Bayesian data modelling, Monte Carlo methods, variational methods, clustering algorithms, and neural networks."  
 Other tags: [Machine Learning Textbooks](../machine_learning#MachineLearningTextbooks)   
@@ -146,6 +146,16 @@ by Slater Stich
 Demonstration of Hierarchical Models in A/B tests using pymc.  
 Other tags: [Python Tutorials](../programming#PythonTutorials)   
   
+[Bayesian Data Analysis Python Demos](https://github.com/avehtari/BDA_py_demos)  
+by Tuomas Sivula  
+"This repository contains some Python demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3)."  
+Other tags: [Python Tutorials](../programming#PythonTutorials)   
+  
+[Bayesian Data Analysis Python Demos](https://github.com/avehtari/BDA_R_demos)  
+by Markus Paasiniemi  
+"This repository contains some R demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3)."  
+Other tags: [R Tutorials](../programming#RTutorials)   
+  
 ## <a name="StatisticsCourses"></a>Statistics Courses  
 
 [Statistical Learning](http://online.stanford.edu/course/statistical-learning-Winter-16)  
@@ -244,6 +254,10 @@ Demonstration of how informative priors can escape the multiple comparison probl
 [Causal Data Science](https://medium.com/@akelleh/causal-data-science-721ed63a4027#.lzne8nsk2)  
 by Adam Kelleher  
 Series of posts addressing casuality  
+  
+[What are the key assumptions of linear regression?](http://andrewgelman.com/2013/08/04/19470/)  
+by Andrew Gelman  
+A list of regression assumptions, in decreasing order of importance.  
   
 ## <a name="StatisticsPackages"></a>Statistics Packages  
 

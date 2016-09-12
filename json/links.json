@@ -1628,6 +1628,56 @@
             ],
             "title": "A/B Testing Statistics",
             "url": "http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/"
+        },
+        {
+            "author": "Tuomas Sivula",
+            "description": "\"This repository contains some Python demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3).\"",
+            "tags": [
+                "Statistics Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Bayesian Data Analysis Python Demos",
+            "url": "https://github.com/avehtari/BDA_py_demos"
+        },
+        {
+            "author": "Markus Paasiniemi",
+            "description": "\"This repository contains some R demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3).\"",
+            "tags": [
+                "Statistics Tutorials",
+                "R Tutorials"
+            ],
+            "title": "Bayesian Data Analysis Python Demos",
+            "url": "https://github.com/avehtari/BDA_R_demos"
+        },
+        {
+            "author": "Richard L. Halterman",
+            "description": "Thorough book covering many aspects of software development in Python.  Uses Python 3.",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Fundamentals of Python Programming",
+            "url": "http://python.cs.southern.edu/pythonbook/pythonbook.pdf"
+        },
+        {
+            "author": "Andrew Gelman",
+            "description": "A list of regression assumptions, in decreasing order of importance.",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "What are the key assumptions of linear regression?",
+            "url": "http://andrewgelman.com/2013/08/04/19470/"
+        },
+        {
+            "author": "UCLA",
+            "description": "Resources to help you learn and use R",
+            "tags": [
+                "R Tutorials"
+            ],
+            "title": "Resources to help you learn and use R",
+            "url": "http://www.ats.ucla.edu/stat/r/"
         }
+
+
+
     ]
 }
