@@ -135,6 +135,15 @@
             "url": "http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/"
         },
         {
+            "author": "Hans Fangohr",
+            "description": "\"This text summarises a number of core ideas relevant to Computational Engineering and Scientific Computing using Python. The emphasis is on introducing some basic Python (programming) concepts that are relevant for numerical algorithms. The later chapters touch upon numerical libraries such as `numpy` and `scipy` each of which deserves much more space than provided here. We aim to enable the reader to learn independently how to use other functionality of these libraries using the available documentation (online and through the packages itself).\"",
+            "tags": [
+                "Python Textbooks"
+            ],
+            "title": "Python for Computational Science and Engineering (book)",
+            "url": "http://www.southampton.ac.uk/~fangohr/teaching/python/book.html"
+        },
+        {
             "author": "Muhammad Yasoob Ullah Khalid",
             "description": "\"The topics which are discussed in this book open up your mind towards some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.\"",
             "tags": [
@@ -186,6 +195,16 @@
             "url": "http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html"
         },
         {
+            "author": "Hadley Wickham and Garrett Grolemund",
+            "description": "\"This book will teach you how to do data science with R: You\u2019ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. In this book, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you\u2019ll learn how to clean data and draw plots\u2014and many other things besides. These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R. You\u2019ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You\u2019ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualising, and exploring data.\"",
+            "tags": [
+                "R Textbooks",
+                "Visualization Textbooks"
+            ],
+            "title": "R for Data Science",
+            "url": "http://r4ds.had.co.nz/index.html"
+        },
+        {
             "author": "Ani Adhikari and John DeNero",
             "description": "\"Data are descriptions of the world around us, collected through observation and stored on computers. Computers enable us to infer properties of the world from these descriptions. Data science is the discipline of drawing conclusions from data using computation. There are three core aspects of effective data analysis: exploration, prediction, and inference. This text develops a consistent approach to all three, introducing statistical ideas and fundamental ideas in computer science concurrently. We focus on a minimal set of core techniques that they apply to a vast range of real-world applications. A foundation in data science requires not only understanding statistical and computational techniques, but also recognizing how they apply to real scenarios.\" Uses Python 3.",
             "tags": [
@@ -195,6 +214,15 @@
             ],
             "title": "Computational and Inferential Thinking",
             "url": "http://www.inferentialthinking.com/"
+        },
+        {
+            "author": "Avrim Blum, John Hopcroft and Ravindran Kannan",
+            "description": "\"This book starts with the treatment of high dimensional geometry... We focus on singular value decomposition, a central tool in this area... Central to our understanding of large structures, like the web and social networks, is building models to capture essential properties of these structures... We describe the foundations of machine learning, both algorithms for optimizing over given training examples, as well as the theory for understanding when such optimization can be expected to lead to good performance on new, unseen data... In Chapter 7 we study how to draw good samples efficiently and how to estimate statistical and linear algebra quantities, with such samples... After describing some of the basic methods for clustering, such as the k-means algorithm, we focus on modern developments in understanding these, as well as newer algorithms.  This book also covers graphical models and belief propagation, ranking and voting, sparse vectors, and compressed sensing. The appendix includes a wealth of background material.",
+            "tags": [
+                "Machine Learning Textbooks"
+            ],
+            "title": "Foundations of Data Science",
+            "url": "https://www.cs.cornell.edu/jeh/book2016June9.pdf"
         },
         {
             "author": "Cam Davidson-Pilon",
@@ -422,6 +450,15 @@
             "url": "http://xgboost.readthedocs.io/en/latest/python/python_intro.html"
         },
         {
+            "description": "\"tsfresh is a python package that is used to automatically calculate a huge number of time series characteristics, the so called features. Further the package contains methods to evaluate the explaining power and importance of such characteristics for regression or classification tasks.\"",
+            "tags": [
+                "Python Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "tsfresh",
+            "url": "http://tsfresh.readthedocs.io/en/latest/"
+        },
+        {
             "description": "\"lifelines is a implementation of survival analysis in Python,\" built on top of pandas",
             "tags": [
                 "Python Packages",
@@ -537,6 +574,15 @@
             "url": "https://www.coursera.org/learn/machine-learning"
         },
         {
+            "author": "Geoffrey Hinton",
+            "description": "\"Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.<br>This course contains the same content presented on Coursera beginning in 2013. It is not a continuation or update of the original course. It has been adapted for the new platform.<br>Please be advised that the course is suited for an intermediate level learner - comfortable with calculus and with experience programming (Python).\"",
+            "tags": [
+                "Machine Learning Courses"
+            ],
+            "title": "Neural Networks for Machine Learning",
+            "url": "https://www.coursera.org/learn/neural-networks"
+        },
+        {
             "author": "Yaser S. Abu-Mostafa (Caltech)",
             "description": "\"Introductory Machine Learning course covering theory, algorithms and applications. Our focus is on real understanding, not just 'knowing.'\"",
             "tags": [
@@ -554,6 +600,15 @@
             ],
             "title": "Calculus One",
             "url": "https://www.coursera.org/learn/calculus1"
+        },
+        {
+            "author": "Gilbert Strang",
+            "description": "MIT's Linear Algebra course.  Full materials available <a href='https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/'>here<a>.",
+            "tags": [
+                "Math Courses"
+            ],
+            "title": "MIT 18.06 Linear Algebra, Spring 2005",
+            "url": "https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8"
         },
         {
             "author": "Daphne Koller, Stanford University",
@@ -591,7 +646,7 @@
                 "Beginner Python"
             ],
             "title": "Introduction to Python for Data Science",
-            "url": "https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-1"
+            "url": "https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-4"
         },
         {
             "author": "Authman Apatira, Microsoft",
@@ -601,7 +656,7 @@
                 "Machine Learning Courses"
             ],
             "title": "Programming with Python for Data Science",
-            "url": "https://www.edx.org/course/programming-python-data-science-microsoft-dat210x"
+            "url": "https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-2"
         },
         {
             "author": "Filip Schouwenaars, Microsoft",
@@ -611,7 +666,7 @@
                 "Beginner R"
             ],
             "title": "Introduction to R for Data Science",
-            "url": "https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0"
+            "url": "https://www.edx.org/course/introduction-r-data-science--2microsoft-dat204x-3"
         },
         {
             "author": "Anders Stockmarr",
@@ -621,7 +676,7 @@
                 "Machine Learning Courses"
             ],
             "title": "Programming with R for Data Science",
-            "url": "https://www.edx.org/course/programming-r-data-science-microsoft-dat209x-0"
+            "url": "https://www.edx.org/course/programming-r-data-science-microsoft-dat209x-2"
         },
         {
             "author": "Anthony D. Joseph, UC Berkeley and Jon Bates, Databricks",
@@ -755,6 +810,15 @@
             ],
             "title": "Information Theory Playlist",
             "url": "https://www.youtube.com/watch?v=UrefKMSEuAI&list=PLE125425EC837021F"
+        },
+        {
+            "author": "Thomas M. Cover",
+            "description": "\"This book has arisen from over ten years of lectures in a two-quarter sequence of a senior and first-year graduate-level course in information theory, and is intended as an introduction to information theory for students of communication theory, computer science, and statistics.\"",
+            "tags": [
+                "Information Theory Textbooks"
+            ],
+            "title": "Elements of Information Theory",
+            "url": "http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf"
         },
         {
             "author": "Andrew Gelman",
@@ -954,6 +1018,16 @@
             "url": "http://www.scipy-lectures.org/"
         },
         {
+            "author": "Brad Miller and David Ranum",
+            "description": "Interactive version of the book How to Think Like a Computer Scientist by Jeffrey Elkner, Allen B. Downey, and Chris Meyers",
+            "tags": [
+                "Python Tutorials",
+                "Beginner Python"
+            ],
+            "title": "How to Think Like a Computer Scientist: Interactive Edition",
+            "url": "http://interactivepython.org/runestone/static/thinkcspy/index.html"
+        },
+        {
             "author": "Python Software Foundation",
             "description": "Tutorials and Documentation for Beginner, Moderate, and Advanced Users.  Available for Python 2 and 3.",
             "tags": [
@@ -1051,6 +1125,24 @@
             "url": "https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en"
         },
         {
+            "author": "Jean-Nicholas Hould",
+            "description": "Translating exmaples from Hadley Wickham's Tidy Data to Pandas",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "",
+            "url": "http://www.jeannicholashould.com/tidy-data-in-python.html"
+        },
+        {
+            "author": "Zygmunt Z",
+            "description": "Overview of ways to pipe in functions in Python.",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Piping in R and in Pandas",
+            "url": "http://fastml.com/piping-in-r-and-in-pandas/"
+        },
+        {
             "author": "Robert I. Kabacoff",
             "description": "\"R is an elegant and comprehensive statistical and graphical programming language. Unfortunately, it can also have a steep learning curve. I created this website for both current R users, and experienced users of other statistical packages (e.g., SAS, SPSS, Stata) who would like to transition to R. My goal is to help you quickly access this language in your work.\"  See <a href='http://www.statmethods.net/graphs/index.html'>Basic Graphs</a> and <a href='http://www.statmethods.net/advgraphs/index.html'>Advanced Graphs</a> for visualization examples.",
             "tags": [
@@ -1061,7 +1153,7 @@
             "url": "http://www.statmethods.net/"
         },
         {
-            "author": "",
+            "author": "Hadley Wickham",
             "description": "\"A huge amount of effort is spent cleaning data to get it ready for analysis, but there has been little research on how to make data cleaning as easy and effective as possible. This paper tackles a small, but important, component of data cleaning: data tidying. Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. This framework makes it easy to tidy messy datasets because only a small set of tools are needed to deal with a wide range of un-tidy datasets. This structure also makes it easier to develop tidy tools for data analysis, tools that both input and output tidy datasets. The advantages of a consistent data structure and matching tools are demonstrated with a case study free from mundane data manipulation chores.\"",
             "tags": [
                 "R Tutorials"
@@ -1146,7 +1238,17 @@
             "url": "http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html"
         },
         {
-            "author": "Kyle and Linh Da",
+            "author": "Ben Gorman",
+            "description": "\"Stacking (also called meta ensembling) is a model ensembling technique used to combine information from multiple predictive models to generate a new model. Often times the stacked model (also called 2nd-level model) will outperform each of the individual models due its smoothing nature and ability to highlight each base model where it performs best and discredit each base model where it performs poorly. For this reason, stacking is most effective when the base models are significantly different. Here I provide a simple example and guide on how stacking is most often implemented in practice.\" Link to github repo with R code is provided.",
+            "tags": [
+                "R Tutorials",
+                "Machine Learning Tutorials"
+            ],
+            "title": "Guide to Model Stacking (i.e. Meta Ensembling)",
+            "url": "https://gormanalysis.com/guide-to-model-stacking-i-e-meta-ensembling/"
+        },
+        {
+            "author": "Kyle Polich",
             "description": "\"Data Skeptic is a podcast that alternates between short mini episodes and longer interviews. For the mini-episodes, Kyle and Linh Da explore basic data science concepts. Longer interviews feature practitioners and experts on interesting topics related to data, all through the eye of scientific skepticism.\"",
             "tags": [
                 "Statistics Podcasts",
@@ -1165,6 +1267,15 @@
             "url": "http://www.johndcook.com/blog/conjugate_prior_diagram/"
         },
         {
+            "author": "Peter Norvig",
+            "description": "\"When an experimental study states 'The group with treatment X had significantly less disease (p = 1%)', many people interpret this statement as being equivalent to 'there is a 99% chance that if I do treatment X it will prevent disease.' This essay explains why these statements are not equivalent.\"",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "Warning Signs in Experimental Design and Interpretation",
+            "url": "http://norvig.com/experiment-design.html"
+        },
+        {
             "author": "Allen Downey",
             "description": "A distillation of hypothesis testing into a single framework.  A nice alternative to memorizing lots of classical tests.  Follow up posts <a href='http://allendowney.blogspot.com/2011/06/more-hypotheses-less-trivia.html'>here with lots of exmaples</a> and <a href='http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html'>here</a>",
             "tags": [
@@ -1172,6 +1283,15 @@
             ],
             "title": "There is only one test!",
             "url": "http://allendowney.blogspot.com/2011/05/there-is-only-one-test.html"
+        },
+        {
+            "author": "Allen Downey",
+            "description": "\"I present a probability puzzle, the Rain in Seattle Problem, and use it to explain differences between the Bayesian and frequentist interpretations of probability, and between Bayesian and frequentist statistical methods.  Since I am trying to clear up confusion, I try to describe the alternatives without commenting on their pros and cons.\"<br> It also features Allen Downey's Bayesian update worksheet, with the following steps:<br>1. Define hypotheses, making sure they are mututally exclusive and collectively exhaustive.<br>2. Choose priors, being careful not to let the data sneak in.<br>3.Compute the likelihood of the data under each hypothesis, thinking carefully about implicit modeling assumptions.<br>Note: No thinking required beyond this point.<br>4. Multiply priors and likelihoods to get unnormalized posteriors.<br>5.Add up the unnormalized posteriors to get the total probability of the data.<br>6. Divide the unnormalized posteriors by the total probability to get the posterior probabilities.",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "Bayes's Theorem is not optional",
+            "url": "http://allendowney.blogspot.com/2016/09/bayess-theorem-is-not-optional.html"
         },
         {
             "author": "Ben Klemens",
@@ -1203,7 +1323,7 @@
         },
         {
             "author": "Sebatian Raschka",
-            "description": "Part 1: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html'>General ideas behind model evaluation in supervised machine learning</a><br>Part 2: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html'>Some advanced techniques for model evaluation</a>",
+            "description": "Part 1: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html'>General ideas behind model evaluation in supervised machine learning</a><br>Part 2: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html'>Some advanced techniques for model evaluation</a><br>Part 3: <a href='https://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html'>Model evaluation, model selection, and algorithm selection in machine learning</a>",
             "tags": [
                 "Machine Learning Misc"
             ],
@@ -1228,6 +1348,16 @@
             ],
             "title": "A Primer on Bayesian Multilevel Modeling using PyStan",
             "url": "http://mc-stan.org/documentation/case-studies/radon.html"
+        },
+        {
+            "author": "Aaron Kramer",
+            "description": "\"This post is an introduction to Bayesian probability and inference. We will discuss the intuition behind these concepts, and provide some examples written in Python to help you get started. To get the most out of this introduction, the reader should have a basic understanding of statistics and probability, as well as some experience with Python. The examples use the Python package pymc3.\"",
+            "tags": [
+                "Statistics Tutorials",
+                "Python Tutorials"
+            ],
+            "title": "Introduction to Bayesian Inference",
+            "url": "https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials"
         },
         {
             "author": "Yuan Tang",
@@ -1279,6 +1409,42 @@
             "url": "http://mlwave.com/kaggle-ensembling-guide/"
         },
         {
+            "author": "Fjodor Van Veen",
+            "description": "\"With new neural network architectures popping up every now and then, it\u2019s hard to keep track of them all. Knowing all the abbreviations being thrown around (DCIGN, BiLSTM, DCGAN, anyone?) can be a bit overwhelming at first.<br>So I decided to compose a cheat sheet containing many of those architectures. Most of these are neural networks, some are completely different beasts. Though all of these architectures are presented as novel and unique, when I drew the node structures\u2026 their underlying relations started to make more sense.\"",
+            "tags": [
+                "Machine Learning Misc"
+            ],
+            "title": "The Neural Network Zoo",
+            "url": "http://www.asimovinstitute.org/neural-network-zoo/"
+        },
+        {
+            "author": "Andrej Karpathy",
+            "description": "\"In other words, it is easy to fall into the trap of abstracting away the learning process\u200a\u2014\u200abelieving that you can simply stack arbitrary layers together and backprop will \u201cmagically make them work\u201d on your data. So lets look at a few explicit examples where this is not the case in quite unintuitive ways.\"",
+            "tags": [
+                "Machine Learning Misc"
+            ],
+            "title": "Yes you should understand backprop",
+            "url": "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.deo6y636u"
+        },
+        {
+            "author": "Ben Frederickson",
+            "description": "\"Numerical Optimization is one of the central techniques in Machine Learning. For many problems it is hard to figure out the best solution directly, but it is relatively easy to set up a loss function that measures how good a solution is - and then minimize the parameters of that function to find the solution.\"",
+            "tags": [
+                "Machine Learning Misc"
+            ],
+            "title": "An Interactive Tutorial on Numerical Optimization",
+            "url": "http://www.benfrederickson.com/numerical-optimization/"
+        },
+        {
+            "author": "Scott Locklin",
+            "description": "Explanation of conformal prediction for constructing confidence intervals for machine learning algorithms",
+            "tags": [
+                "Machine Learning Misc"
+            ],
+            "title": "Predicting with confidence: the best machine learning idea you never heard of",
+            "url": "https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/"
+        },
+        {
             "author": "Sebastian Raschka",
             "description": "A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks",
             "tags": [
@@ -1327,6 +1493,16 @@
             ],
             "title": "Data Science and (Unsupervised) Machine Learning with scikit-learn",
             "url": "http://opensource.datacratic.com/mtlpy50/"
+        },
+        {
+            "author": "Martin Wattenberg, Fernanda Vi\u00e9gas, Ian Johnson",
+            "description": "\"Although extremely useful for visualizing high-dimensional data, t-SNE plots can sometimes be mysterious or misleading. By exploring how it behaves in simple cases, we can learn to use it more effectively.\"",
+            "tags": [
+                "Machine Learning Misc",
+                "Visualization Misc"
+            ],
+            "title": "How to Use t-SNE Effectively",
+            "url": "http://distill.pub/2016/misread-tsne/"
         },
         {
             "author": "Zygmunt Zaj\u0105c",
@@ -1477,6 +1653,17 @@
             "url": "http://minimaxir.com/2015/02/ggplot-tutorial/"
         },
         {
+            "author": "Megan Risdal",
+            "description": "\"In this blog post, I feature some great user kernels as mini-tutorials for getting started with mapping using datasets published on Kaggle. You\u2019ll learn about several ways to wrangle and visualize geospatial data in Python and R including real code examples. I've also included resources so you can learn more about each of the packages highlighted in each tutorial as well as further user analyses for more inspiration.\"",
+            "tags": [
+                "Python Tutorials",
+                "R Tutorials",
+                "Visualization Tutorials"
+            ],
+            "title": "Seventeen Ways to Map Data in Kaggle Kernels: Tutorials for Python and R Users",
+            "url": "http://blog.kaggle.com/2016/11/30/seventeen-ways-to-map-data-in-kaggle-kernels/"
+        },
+        {
             "author": "Max Woolf",
             "description": "\"Here are some tips and tutorials on how to make such visualizations.\"",
             "tags": [
@@ -1554,6 +1741,52 @@
             "url": "http://overapi.com/regex"
         },
         {
+            "author": "Lei Gong",
+            "description": "\"However, deploying predictive model to a production environment, or serving the model in production, is a bit more complicated. Its architecture largely depends on how the model will be used. At very high level, predictive models often are used to score some instances, e.g. the risk score of fraud transaction or the likelihood of clicking on ads. This scoring operation can be offline or online, depending on its application. Offline scoring means the model doesn\u2019t needs to score an instance in real-time and online scoring means the model is required to score with real-time input and low-latency. In this post, I am going to touch on a few common architectures and their use cases.\"",
+            "tags": [
+                "Programming Misc",
+                "Machine Learning Misc"
+            ],
+            "title": "Predictive Model Deployment with Spark",
+            "url": "http://commitlogs.com/2016/11/19/predictive-model-deployment-with-spark/"
+        },
+        {
+            "author": "Jean Francois Puget",
+            "description": "Description of how to use the Python subprocess package to use command line applications within a Python environment.",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Using Python Subprocess To Drive Machine Learning Packages",
+            "url": "https://www.ibm.com/developerworks/community/blogs/jfp/entry/Using_Python_Subprocess_To_Drive_Machine_Learning_Packages?lang=en"
+        },
+        {
+            "author": "Tom Augspurger",
+            "description": "Series of posts covering Indexing, Method Chaining, Indexes, Fast Pandas, Tidy Data, Visualization, and Time Series",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Modern Pandas",
+            "url": "https://tomaugspurger.github.io/modern-1.html"
+        },
+        {
+            "author": "Julia Evans",
+            "description": "\"The goal of this cookbook is to give you some concrete examples for getting started with pandas. The docs are really comprehensive. However, I've often had people tell me that they have some trouble getting started, so these are examples with real-world data, and all the bugs and weirdness that entails.\"",
+            "tags": [
+                "Python Tutorials"
+            ],
+            "title": "Pandas cookbook",
+            "url": "https://github.com/jvns/pandas-cookbook"
+        },
+        {
+            "author": "Data Camp",
+            "description": "One page reference for pandas",
+            "tags": [
+                "Python Misc"
+            ],
+            "title": "Python For Data Science Cheat Sheet",
+            "url": "https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf"
+        },
+        {
             "author": "Jay Feng",
             "description": "Demonstration of how to apply a function to pandas in parallel.",
             "tags": [
@@ -1561,6 +1794,26 @@
             ],
             "title": "Python Pandas Functions in Parallel",
             "url": "http://www.racketracer.com/2016/07/06/pandas-in-parallel/"
+        },
+        {
+            "author": "Curtis Miller",
+            "description": "\"In these posts, I will discuss basics such as obtaining the data from Yahoo! Finance using pandas, visualizing stock data, moving averages, developing a moving-average crossover strategy, backtesting, and benchmarking. The final post will include practice problems. This first post discusses topics up to introducing moving averages.\" Part 2 is <a href='https://ntguardian.wordpress.com/2016/09/26/introduction-stock-market-data-python-2/'>here</a>.",
+            "tags": [
+                "Python Tutorials",
+                "Finance"
+            ],
+            "title": "An Introduction to Stock Market Data Analysis with Python ",
+            "url": "https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/"
+        },
+        {
+            "author": "Chris Mofitt",
+            "description": "Builds an amortization schedule in Pandas",
+            "tags": [
+                "Python Tutorials",
+                "Finance"
+            ],
+            "title": "Building a Financial Model with Pandas - Version 2",
+            "url": "http://pbpython.com/amortization-model-revised.html"
         },
         {
             "author": "Evan Miller",
@@ -1572,6 +1825,15 @@
             "url": "http://www.evanmiller.org/ab-testing/"
         },
         {
+            "author": "Online Dialogue",
+            "description": "\"Play with the controls and get a better feel for how a lower confidence level will boost the power or how an increase in test size can make a small CR-difference significant.\"",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "AB Testing Guide",
+            "url": "http://abtestguide.com/calc/"
+        },
+        {
             "author": "Andrew Gelman",
             "description": "Demonstration of how informative priors can escape the multiple comparison problem.",
             "tags": [
@@ -1581,6 +1843,15 @@
             "url": "http://andrewgelman.com/2016/08/22/bayesian-inference-completely-solves-the-multiple-comparisons-problem/"
         },
         {
+            "author": "Andrew Gelman1 and John Carlin",
+            "description": "\"Statistical power analysis provides the conventional approach to assess error rates when designing a research study. However, power analysis is flawed in that a narrow emphasis on statistical significance is placed as the primary focus of study design. In noisy, small-sample settings, statistically significant results can often be misleading. To help researchers address this problem in the context of their own studies, we recommend design calculations in which (a) the probability of an estimate being in the wrong direction (Type S [sign] error) and (b) the factor by which the magnitude of an effect might be overestimated (Type M [magnitude] error or exaggeration ratio) are estimated. We illustrate with examples from recent published research and discuss the largest challenge in a design calculation: coming up with reasonable estimates of plausible effect sizes based on external information.\"",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors",
+            "url": "http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf"
+        },
+        {
             "author": "Adam Kelleher",
             "description": "Series of posts addressing casuality",
             "tags": [
@@ -1588,6 +1859,15 @@
             ],
             "title": "Causal Data Science",
             "url": "https://medium.com/@akelleh/causal-data-science-721ed63a4027#.lzne8nsk2"
+        },
+        {
+            "author": "Patrick Riley",
+            "description": "\"I put together a document shared Google-wide which I optimistically and simply titled 'Good Data Analysis.'  The advice is organized into three general areas:<br>Technical: Ideas and techniques for how to manipulate and examine your data.<br>Process: Recommendations on how you approach your data, what questions to ask, and what things to check.<br>Social: How to work with others and communicate about your data and insights.\"",
+            "tags": [
+                "Statistics Misc"
+            ],
+            "title": "Practical advice for analysis of large, complex data sets",
+            "url": "http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html"
         },
         {
             "author": "Manojit Nandi",
@@ -1646,7 +1926,7 @@
                 "Statistics Tutorials",
                 "R Tutorials"
             ],
-            "title": "Bayesian Data Analysis Python Demos",
+            "title": "Bayesian Data Analysis R Demos",
             "url": "https://github.com/avehtari/BDA_R_demos"
         },
         {
@@ -1675,9 +1955,15 @@
             ],
             "title": "Resources to help you learn and use R",
             "url": "http://www.ats.ucla.edu/stat/r/"
+        },
+        {
+            "author": "Adam Harasimowicz",
+            "description": "\"Parallel computing is easy to use in R thanks to packages like doParallel. However, before we decide to parallelize our code, still we should remember that there is a trade-off between simplicity and performance. So if your script runs a few seconds, probably it's not worth to bother yourself. Yet if your analysis are computationally heavy, you can often save hours or even days. In such case, it's reasonable to sacrifice code readability and clear error messages to save time.\"",
+            "tags": [
+                "R Tutorials"
+            ],
+            "title": "R: Parallel Computing In 5 Minutes (with foreach and doParallel)",
+            "url": "http://blog.aicry.com/r-parallel-computing-in-5-minutes/"
         }
-
-
-
     ]
 }

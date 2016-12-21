@@ -59,23 +59,30 @@ except FileNotFoundError:
 
 
 # for each link, check the response, and put it under the appropriate heading
+max_err = 5
 for link in links:
-    url_err = False
-    try:
-        req = Request(link['url'], headers={'User-Agent' : "Magic Browser"})
-        res = urlopen(req)
-        if res.status != 200:
+    url_err = True
+    attempts = 0
+    while url_err and attempts < 5:
+        if attempts > 1:
+            print("attempt:", attempts, link['url'])
+        attempts += attempts
+        try:
+            req = Request(link['url'], headers={'User-Agent' : "Magic Browser"})
+            res = urlopen(req)
+            if res.status != 200:
+                url_err = True
+            else:
+                url_err = False
+        except HTTPException:
             url_err = True
-    except HTTPException:
-        url_err = True
-        print("HTTPException for " + link['url'])
-    except URLError:
-        url_err = True
-        print("URLError for " + link['url'])
-    link['url_err'] = url_err
-    for tag in link['tags']:
-        structure[headings_to_folders[tag]]['headings'][tag].append(link)
-
+            print("HTTPException for " + link['url'])
+        except URLError:
+            url_err = True
+            print("URLError for " + link['url'])
+        link['url_err'] = url_err
+        for tag in link['tags']:
+            structure[headings_to_folders[tag]]['headings'][tag].append(link)
 
 """
 for link in links:

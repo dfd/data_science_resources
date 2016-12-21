@@ -1,6 +1,6 @@
 {
     "structure": {
-        "beginner": {
+        "01_beginner": {
             "headings": [
                 "Beginner Python",
                 "Beginner R",
@@ -10,20 +10,7 @@
             ],
             "title": "Beginner Material"
         },
-        "machine_learning": {
-            "headings": [
-                "Machine Learning Textbooks",
-                "Machine Learning Tutorials",
-                "Machine Learning Courses",
-                "Machine Learning Lectures",
-                "Machine Learning Blogs",
-                "Machine Learning Podcasts",
-                "Machine Learning Packages",
-                "Machine Learning Misc"
-            ],
-            "title": "Machine Learning"
-        },
-        "programming": {
+        "02_programming": {
             "headings": [
                 "Python Textbooks",
                 "R Textbooks",
@@ -37,14 +24,16 @@
                 "Python Podcasts",
                 "Python Packages",
                 "R Packages",
+                "Python Misc",
                 "Programming Misc"
             ],
             "title": "Programming and Computer Science"
         },
-        "statistics": {
+        "03_statistics": {
             "headings": [
                 "Statistics Textbooks",
                 "Math Textbooks",
+                "Information Theory Textbooks",
                 "Statistics Tutorials",
                 "Statistics Courses",
                 "Math Courses",
@@ -59,14 +48,34 @@
             ],
             "title": "Statistics, Probability, and Mathematics"
         },
-        "visualizaiton": {
+        "04_machine_learning": {
             "headings": [
+                "Machine Learning Textbooks",
+                "Machine Learning Tutorials",
+                "Machine Learning Courses",
+                "Machine Learning Lectures",
+                "Machine Learning Blogs",
+                "Machine Learning Podcasts",
+                "Machine Learning Packages",
+                "Machine Learning Misc"
+            ],
+            "title": "Machine Learning"
+        },
+        "05_visualizaiton": {
+            "headings": [
+                "Visualization Textbooks",
                 "Visualization Tutorials",
                 "Visualization Blogs",
                 "Visualization Packages",
                 "Visualization Misc"
             ],
             "title": "Visualization"
+        },
+        "06_analytics": {
+            "headings": [
+                "Finance"
+            ],
+            "title": "Business Applications"
         }
     }
 }
