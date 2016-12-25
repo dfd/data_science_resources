@@ -270,6 +270,22 @@
             "url": "http://scikit-learn.org/stable/"
         },
         {
+            "description": "\"The Blaze Ecosystem provides Python users high-level access to efficient computation on inconveniently large data. Blaze can refer to both a particular library as well as an ecosystem of related projects that have spun off of Blaze development.\"",
+            "tags": [
+                "Python Packages"
+            ],
+            "title": "Blaze",
+            "url": "https://blaze.readthedocs.io/en/latest/index.html"
+        },
+        {
+            "description": "\"Dask is a flexible parallel computing library for analytic computing.<br>Dask is composed of two components:<br>Dynamic task scheduling optimized for computation. This is similar to Airflow, Luigi, Celery, or Make, but optimized for interactive computational workloads.<br>'Big Data' collections like parallel arrays, dataframes, and lists that extend common interfaces like NumPy, Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of the dynamic task schedulers.\"",
+            "tags": [
+                "Python Packages"
+            ],
+            "title": "Dask",
+            "url": "http://dask.pydata.org/en/latest/"
+        },
+        {
             "description": "\"Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator.\"",
             "tags": [
                 "Python Packages",
@@ -351,6 +367,24 @@
             "url": "https://www.tensorflow.org/"
         },
         {
+            "description": "\"OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It makes no assumptions about the structure of your agent, and is compatible with any numerical computation library, such as TensorFlow or Theano. You can use it from Python code, and soon from other languages.\"",
+            "tags": [
+                "Python Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "gym",
+            "url": "https://gym.openai.com/docs"
+        },
+        {
+            "description": "\"a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.\"",
+            "tags": [
+                "Python Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "universe",
+            "url": "https://github.com/openai/universe"
+        },
+        {
             "description": "\"PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.\"",
             "tags": [
                 "Python Packages",
@@ -385,6 +419,15 @@
             ],
             "title": "spaCy",
             "url": "https://spacy.io/"
+        },
+        {
+            "description": "topic modelling for humans",
+            "tags": [
+                "Machine Learning Packages",
+                "Python Packages"
+            ],
+            "title": "gensim",
+            "url": "http://radimrehurek.com/gensim/index.html"
         },
         {
             "description": "\"Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.\"",
@@ -475,6 +518,22 @@
             ],
             "title": "XGBoost (R)",
             "url": "http://xgboost.readthedocs.io/en/latest/R-package/index.html"
+        },
+        {
+            "description": "\"Airflow is a platform to programmatically author, schedule and monitor workflows.<br>When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.<br>Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.\"",
+            "tags": [
+                "Python Packages"
+            ],
+            "title": "airflow",
+            "url": "http://pythonhosted.org/airflow/"
+        },
+        {
+            "description": "\"Luigi is a Python (2.7, 3.3, 3.4, 3.5) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.\"",
+            "tags": [
+                "Python Packages"
+            ],
+            "title": "luigi",
+            "url": "https://luigi.readthedocs.io/en/stable/"
         },
         {
             "description": "\"The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. The package contains tools for:  data splitting; pre-processing; feature selection; model tuning using resampling; variable importance estimation.\"",
@@ -581,6 +640,24 @@
             ],
             "title": "Neural Networks for Machine Learning",
             "url": "https://www.coursera.org/learn/neural-networks"
+        },
+        {
+            "author": "Jeremy Howard",
+            "description": "\"Learn how to build state of the art models without needing graduate-level math\u2014but also without dumbing anything down.\"",
+            "tags": [
+                "Machine Learning Courses"
+            ],
+            "title": "Practical Deep Learning for Coders, Part 1",
+            "url": "http://course.fast.ai/"
+        },
+        {
+            "author": "IBM",
+            "description": "\"In this learning path, you will be able to learn the basic concepts of Neural Networks, Deep Leaning and TensorFlow. Then, you will get hands-on experience in solving problems using Deep Learning. Starting with a simple \u201cHello Word\u201d example, throughout the course you will be able to see how TensorFlow can be used in curve fitting, regression, classification and minimization of error functions. This concept is then explored in the Deep Learning world. You will learn how to apply TensorFlow for backpropagation to tune the weights and biases while the Neural Networks are being trained. Finally, the course covers different types of Deep Architectures, such as Convolutional Networks, Recurrent Networks and Autoencoders.\"",
+            "tags": [
+                "Machine Learning Courses"
+            ],
+            "title": "Deep Learning Learning Path from Big Data University",
+            "url": "https://bigdatauniversity.com/learn/deep-learning/"
         },
         {
             "author": "Yaser S. Abu-Mostafa (Caltech)",
@@ -932,6 +1009,16 @@
             "url": "http://people.duke.edu/~ccc14/sta-663-2016/index.html"
         },
         {
+            "author": "Randy Betancourt",
+            "description": "Presentation of Python data manipulations with pandas and their SAS counterparts",
+            "tags": [
+                "Python Tutorials",
+                "Beginner Python"
+            ],
+            "title": "Python For SAS Users",
+            "url": "http://nbviewer.jupyter.org/github/RandyBetancourt/PythonForSASUsers/tree/master/"
+        },
+        {
             "author": "Ujjwal Karn",
             "description": "\"This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. \"",
             "tags": [
@@ -949,6 +1036,16 @@
             ],
             "title": "Python Data Science Tutorials",
             "url": "https://github.com/ujjwalkarn/DataSciencePython"
+        },
+        {
+            "author": "Adam Geitgey",
+            "description": "Series of posts demonstrating various machine learning tasks using Python.  Examples include recurrent neural networks, convoluatoinal neural networks, face recognition, language translation, and speech recognition.",
+            "tags": [
+                "Python Tutorials",
+                "Machine Learning Tutorials"
+            ],
+            "title": "Machine Learning is Fun",
+            "url": "https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jldbrt65w"
         },
         {
             "author": "qinwf",
@@ -1130,11 +1227,11 @@
             "tags": [
                 "Python Tutorials"
             ],
-            "title": "",
+            "title": "Tidy Data in Python",
             "url": "http://www.jeannicholashould.com/tidy-data-in-python.html"
         },
         {
-            "author": "Zygmunt Z",
+            "author": "Zygmunt Zaj\u0105c",
             "description": "Overview of ways to pipe in functions in Python.",
             "tags": [
                 "Python Tutorials"
@@ -1388,6 +1485,16 @@
             ],
             "title": "GAM: The Predictive Modeling Silver Bullet",
             "url": "http://multithreaded.stitchfix.com/blog/2015/07/30/gam/"
+        },
+        {
+            "author": "Rasmus Baath",
+            "description": "Series of posts on the Bayesian Bootstrap.<br><a href='http://sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/'>The non-parametric bootstrap as a Bayesian model</a><br><a href='http://www.sumsar.net/blog/2015/07/easy-bayesian-bootstrap-in-r/'>Easy Bayesian Bootstrap in R</a><br><a href='http://www.sumsar.net/blog/2016/02/bayesboot-an-r-package/'>bayesboot: An R packages</a><br><a href='https://www.youtube.com/watch?v=VceFc5hsMw8'>Presentation of bayesboot</a>",
+            "tags": [
+                "Statistics Tutorials",
+                "R Tutorials"
+            ],
+            "title": "Bayesian Bootstrap",
+            "url": "http://www.sumsar.net/blog/2016/02/bayesboot-an-r-package/"
         },
         {
             "author": "Ando Saabas",
@@ -1703,7 +1810,7 @@
         },
         {
             "author": "Jake Vanderplas",
-            "description": "Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>",
+            "description": "Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>",
             "tags": [
                 "Statistics Tutorials",
                 "Python Tutorials"
@@ -1742,7 +1849,7 @@
         },
         {
             "author": "Lei Gong",
-            "description": "\"However, deploying predictive model to a production environment, or serving the model in production, is a bit more complicated. Its architecture largely depends on how the model will be used. At very high level, predictive models often are used to score some instances, e.g. the risk score of fraud transaction or the likelihood of clicking on ads. This scoring operation can be offline or online, depending on its application. Offline scoring means the model doesn\u2019t needs to score an instance in real-time and online scoring means the model is required to score with real-time input and low-latency. In this post, I am going to touch on a few common architectures and their use cases.\"",
+            "description": "\"However, deploying predictive model to a production environment, or serving the model in production, is a bit more complicated. Its architecture largely depends on how the model will be used. At very high level, predictive models often are used to score some instances, e.g. the risk score of fraud transaction or the likelihood of clicking on ads. This scoring operation can be offline or online, depending on its application. Offline scoring means the model doesn\u2019t needs to score an instance in real-time and online scoring means the model is required to score with real-time input and low-latency. In this post, I am going to touch on a few common architectures and their use cases.<p>Follow up post <a href='http://commitlogs.com/2016/12/17/predictive-model-deployment-missing-components/'>about continuous deployment aspects here</a>.\"",
             "tags": [
                 "Programming Misc",
                 "Machine Learning Misc"

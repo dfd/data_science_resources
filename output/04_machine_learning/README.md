@@ -71,6 +71,11 @@ by Ujjwal Karn
 "This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning."  
 Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
   
+[Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jldbrt65w)  
+by Adam Geitgey  
+Series of posts demonstrating various machine learning tasks using Python.  Examples include recurrent neural networks, convoluatoinal neural networks, face recognition, language translation, and speech recognition.  
+Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+  
 [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)  
 by   
 A curated list of awesome TensorFlow experiments, libraries, and projects.   
@@ -195,6 +200,14 @@ Other tags: [Beginner Machine Learning](../01_beginner#BeginnerMachineLearning)
 by Geoffrey Hinton  
 "Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.<br>This course contains the same content presented on Coursera beginning in 2013. It is not a continuation or update of the original course. It has been adapted for the new platform.<br>Please be advised that the course is suited for an intermediate level learner - comfortable with calculus and with experience programming (Python)."  
   
+[Practical Deep Learning for Coders, Part 1](http://course.fast.ai/)  
+by Jeremy Howard  
+"Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down."  
+  
+[Deep Learning Learning Path from Big Data University](https://bigdatauniversity.com/learn/deep-learning/)  
+by IBM  
+"In this learning path, you will be able to learn the basic concepts of Neural Networks, Deep Leaning and TensorFlow. Then, you will get hands-on experience in solving problems using Deep Learning. Starting with a simple “Hello Word” example, throughout the course you will be able to see how TensorFlow can be used in curve fitting, regression, classification and minimization of error functions. This concept is then explored in the Deep Learning world. You will learn how to apply TensorFlow for backpropagation to tune the weights and biases while the Neural Networks are being trained. Finally, the course covers different types of Deep Architectures, such as Convolutional Networks, Recurrent Networks and Autoencoders."  
+  
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)  
 by Yaser S. Abu-Mostafa (Caltech)  
 "Introductory Machine Learning course covering theory, algorithms and applications. Our focus is on real understanding, not just 'knowing.'"  
@@ -296,12 +309,24 @@ Other tags: [Python Packages](../02_programming#PythonPackages)
 "TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization. The system is designed to facilitate research in machine learning, and to make it quick and easy to transition from research prototype to production system."  
 Other tags: [Python Packages](../02_programming#PythonPackages)   
   
+[gym](https://gym.openai.com/docs)  
+"OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It makes no assumptions about the structure of your agent, and is compatible with any numerical computation library, such as TensorFlow or Theano. You can use it from Python code, and soon from other languages."  
+Other tags: [Python Packages](../02_programming#PythonPackages)   
+  
+[universe](https://github.com/openai/universe)  
+"a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications."  
+Other tags: [Python Packages](../02_programming#PythonPackages)   
+  
 [NLTK](http://www.nltk.org/)  
 "NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum."  
 Other tags: [Python Packages](../02_programming#PythonPackages)   
   
 [spaCy](https://spacy.io/)  
 "spaCy helps you write programs that do clever things with text. You give it a string of characters, it gives you an object that provides multiple useful views of its meaning and linguistic structure. Specifically, spaCy features a high performance tokenizer, part-of-speech tagger, named entity recognizer and syntactic dependency parser, with built-in support for word vectors. All of the functionality is united behind a clean high-level Python API, that makes it easy to use the different annotations together."  
+Other tags: [Python Packages](../02_programming#PythonPackages)   
+  
+[gensim](http://radimrehurek.com/gensim/index.html)  
+topic modelling for humans  
 Other tags: [Python Packages](../02_programming#PythonPackages)   
   
 [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)  
@@ -386,6 +411,6 @@ Other tags: [Visualization Misc](../05_visualizaiton#VisualizationMisc)
   
 [Predictive Model Deployment with Spark](http://commitlogs.com/2016/11/19/predictive-model-deployment-with-spark/)  
 by Lei Gong  
-"However, deploying predictive model to a production environment, or serving the model in production, is a bit more complicated. Its architecture largely depends on how the model will be used. At very high level, predictive models often are used to score some instances, e.g. the risk score of fraud transaction or the likelihood of clicking on ads. This scoring operation can be offline or online, depending on its application. Offline scoring means the model doesn’t needs to score an instance in real-time and online scoring means the model is required to score with real-time input and low-latency. In this post, I am going to touch on a few common architectures and their use cases."  
+"However, deploying predictive model to a production environment, or serving the model in production, is a bit more complicated. Its architecture largely depends on how the model will be used. At very high level, predictive models often are used to score some instances, e.g. the risk score of fraud transaction or the likelihood of clicking on ads. This scoring operation can be offline or online, depending on its application. Offline scoring means the model doesn’t needs to score an instance in real-time and online scoring means the model is required to score with real-time input and low-latency. In this post, I am going to touch on a few common architectures and their use cases.<p>Follow up post <a href='http://commitlogs.com/2016/12/17/predictive-model-deployment-missing-components/'>about continuous deployment aspects here</a>."  
 Other tags: [Programming Misc](../02_programming#ProgrammingMisc)   
   

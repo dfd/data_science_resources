@@ -118,6 +118,11 @@ by Kim Larsen
 "Despite its lack of popularity in the data science community, GAM is a powerful and yet simple technique. Hence, the purpose of this post is to convince more data scientists to use GAM. Of course, GAM is no silver bullet, but it is a technique you should add to your arsenal. Here are three key reasons: Easy to interpret; Flexible predictor functions can uncover hidden patterns in the data; Regularization of predictor functions helps avoid overfitting."  
 Other tags: [R Tutorials](../02_programming#RTutorials)   
   
+[Bayesian Bootstrap](http://www.sumsar.net/blog/2016/02/bayesboot-an-r-package/)  
+by Rasmus Baath  
+Series of posts on the Bayesian Bootstrap.<br><a href='http://sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/'>The non-parametric bootstrap as a Bayesian model</a><br><a href='http://www.sumsar.net/blog/2015/07/easy-bayesian-bootstrap-in-r/'>Easy Bayesian Bootstrap in R</a><br><a href='http://www.sumsar.net/blog/2016/02/bayesboot-an-r-package/'>bayesboot: An R packages</a><br><a href='https://www.youtube.com/watch?v=VceFc5hsMw8'>Presentation of bayesboot</a>  
+Other tags: [R Tutorials](../02_programming#RTutorials)   
+  
 [Principal Components Regression](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)  
 by Nina Zumel  
 Part I: <a href='http://www.win-vector.com/blog/2016/05/pcr_part1_xonly'>The Standard Method</a><br>Part II: <a href='http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/'>Y-Aware Methods</a><br>Part III: <a href='http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/'>Picking the Number of Components</a>  
@@ -135,7 +140,7 @@ Other tags: [R Tutorials](../02_programming#RTutorials)
   
 [Frequentism and Bayesianism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
 by Jake Vanderplas  
-Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
+Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
 Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
   
 [A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  

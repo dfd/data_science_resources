@@ -33,6 +33,11 @@ by Cliburn Chan (Duke University)
 Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.  
 Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
   
+[Python For SAS Users](http://nbviewer.jupyter.org/github/RandyBetancourt/PythonForSASUsers/tree/master/)  
+by Randy Betancourt  
+Presentation of Python data manipulations with pandas and their SAS counterparts  
+Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+  
 [Scipy lecture notes](http://www.scipy-lectures.org/)  
 by Chris Burns, Christophe Combelles, Emmanuelle Gouillart, and Gaël Varoquaux  
 "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."  

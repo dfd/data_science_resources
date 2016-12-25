@@ -96,9 +96,19 @@ by Cliburn Chan (Duke University)
 Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.  
 Other tags: [Beginner Python](../01_beginner#BeginnerPython)   
   
+[Python For SAS Users](http://nbviewer.jupyter.org/github/RandyBetancourt/PythonForSASUsers/tree/master/)  
+by Randy Betancourt  
+Presentation of Python data manipulations with pandas and their SAS counterparts  
+Other tags: [Beginner Python](../01_beginner#BeginnerPython)   
+  
 [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)  
 by Ujjwal Karn  
 "This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jldbrt65w)  
+by Adam Geitgey  
+Series of posts demonstrating various machine learning tasks using Python.  Examples include recurrent neural networks, convoluatoinal neural networks, face recognition, language translation, and speech recognition.  
 Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
 [Will it Python? Machine Learning for Hackers](https://github.com/carljv/Will_it_Python/tree/master/MLFH)  
@@ -149,12 +159,12 @@ Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningT
 by Jean Francois Puget  
 Tutorial on preparing data sets using Pandas  
   
-[](http://www.jeannicholashould.com/tidy-data-in-python.html)  
+[Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)  
 by Jean-Nicholas Hould  
 Translating exmaples from Hadley Wickham's Tidy Data to Pandas  
   
 [Piping in R and in Pandas](http://fastml.com/piping-in-r-and-in-pandas/)  
-by Zygmunt Z  
+by Zygmunt Zając  
 Overview of ways to pipe in functions in Python.  
   
 [12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)  
@@ -265,7 +275,7 @@ Other tags: [R Tutorials](../02_programming#RTutorials), [Visualization Tutorial
   
 [Frequentism and Bayesianism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
 by Jake Vanderplas  
-Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
+Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
 Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
   
 [PyCon 2015 Introduction to Scikit-Learn tutorial](http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb)  
@@ -342,6 +352,11 @@ Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningT
 [GAM: The Predictive Modeling Silver Bullet](http://multithreaded.stitchfix.com/blog/2015/07/30/gam/)  
 by Kim Larsen  
 "Despite its lack of popularity in the data science community, GAM is a powerful and yet simple technique. Hence, the purpose of this post is to convince more data scientists to use GAM. Of course, GAM is no silver bullet, but it is a technique you should add to your arsenal. Here are three key reasons: Easy to interpret; Flexible predictor functions can uncover hidden patterns in the data; Regularization of predictor functions helps avoid overfitting."  
+Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
+  
+[Bayesian Bootstrap](http://www.sumsar.net/blog/2016/02/bayesboot-an-r-package/)  
+by Rasmus Baath  
+Series of posts on the Bayesian Bootstrap.<br><a href='http://sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/'>The non-parametric bootstrap as a Bayesian model</a><br><a href='http://www.sumsar.net/blog/2015/07/easy-bayesian-bootstrap-in-r/'>Easy Bayesian Bootstrap in R</a><br><a href='http://www.sumsar.net/blog/2016/02/bayesboot-an-r-package/'>bayesboot: An R packages</a><br><a href='https://www.youtube.com/watch?v=VceFc5hsMw8'>Presentation of bayesboot</a>  
 Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
   
 [Bayesian Optimization of Machine Learning Models](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html)  
@@ -536,6 +551,12 @@ Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPa
 [pandas](http://scikit-learn.org/stable/)  
 "*pandas* is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."  
   
+[Blaze](https://blaze.readthedocs.io/en/latest/index.html)  
+"The Blaze Ecosystem provides Python users high-level access to efficient computation on inconveniently large data. Blaze can refer to both a particular library as well as an ecosystem of related projects that have spun off of Blaze development."  
+  
+[Dask](http://dask.pydata.org/en/latest/)  
+"Dask is a flexible parallel computing library for analytic computing.<br>Dask is composed of two components:<br>Dynamic task scheduling optimized for computation. This is similar to Airflow, Luigi, Celery, or Make, but optimized for interactive computational workloads.<br>'Big Data' collections like parallel arrays, dataframes, and lists that extend common interfaces like NumPy, Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of the dynamic task schedulers."  
+  
 [Statsmodels](http://statsmodels.sourceforge.net/)  
 "Statsmodels is a Python module that allows users to explore data, estimate statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator."  
 Other tags: [Statistics Packages](../03_statistics#StatisticsPackages)   
@@ -572,6 +593,14 @@ Other tags: [Visualization Packages](../05_visualizaiton#VisualizationPackages)
 "TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization. The system is designed to facilitate research in machine learning, and to make it quick and easy to transition from research prototype to production system."  
 Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPackages)   
   
+[gym](https://gym.openai.com/docs)  
+"OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It makes no assumptions about the structure of your agent, and is compatible with any numerical computation library, such as TensorFlow or Theano. You can use it from Python code, and soon from other languages."  
+Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPackages)   
+  
+[universe](https://github.com/openai/universe)  
+"a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications."  
+Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPackages)   
+  
 [PyMC3](http://pymc-devs.github.io/pymc3/)  
 "PyMC3 is a python module for Bayesian statistical modeling and model fitting which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its flexibility and extensibility make it applicable to a large suite of problems."  
 Other tags: [Statistics Packages](../03_statistics#StatisticsPackages)   
@@ -586,6 +615,10 @@ Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPa
   
 [spaCy](https://spacy.io/)  
 "spaCy helps you write programs that do clever things with text. You give it a string of characters, it gives you an object that provides multiple useful views of its meaning and linguistic structure. Specifically, spaCy features a high performance tokenizer, part-of-speech tagger, named entity recognizer and syntactic dependency parser, with built-in support for word vectors. All of the functionality is united behind a clean high-level Python API, that makes it easy to use the different annotations together."  
+Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPackages)   
+  
+[gensim](http://radimrehurek.com/gensim/index.html)  
+topic modelling for humans  
 Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPackages)   
   
 [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)  
@@ -623,6 +656,12 @@ Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPa
 [Lifelines](https://lifelines.readthedocs.io/en/latest/)  
 "lifelines is a implementation of survival analysis in Python," built on top of pandas  
 Other tags: [Statistics Packages](../03_statistics#StatisticsPackages)   
+  
+[airflow](http://pythonhosted.org/airflow/)  
+"Airflow is a platform to programmatically author, schedule and monitor workflows.<br>When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.<br>Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."  
+  
+[luigi](https://luigi.readthedocs.io/en/stable/)  
+"Luigi is a Python (2.7, 3.3, 3.4, 3.5) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more."  
   
 [Awesome Python](https://github.com/vinta/awesome-python)  
 by Vinta  
@@ -695,6 +734,6 @@ Quick reference for regular expressions
   
 [Predictive Model Deployment with Spark](http://commitlogs.com/2016/11/19/predictive-model-deployment-with-spark/)  
 by Lei Gong  
-"However, deploying predictive model to a production environment, or serving the model in production, is a bit more complicated. Its architecture largely depends on how the model will be used. At very high level, predictive models often are used to score some instances, e.g. the risk score of fraud transaction or the likelihood of clicking on ads. This scoring operation can be offline or online, depending on its application. Offline scoring means the model doesn’t needs to score an instance in real-time and online scoring means the model is required to score with real-time input and low-latency. In this post, I am going to touch on a few common architectures and their use cases."  
+"However, deploying predictive model to a production environment, or serving the model in production, is a bit more complicated. Its architecture largely depends on how the model will be used. At very high level, predictive models often are used to score some instances, e.g. the risk score of fraud transaction or the likelihood of clicking on ads. This scoring operation can be offline or online, depending on its application. Offline scoring means the model doesn’t needs to score an instance in real-time and online scoring means the model is required to score with real-time input and low-latency. In this post, I am going to touch on a few common architectures and their use cases.<p>Follow up post <a href='http://commitlogs.com/2016/12/17/predictive-model-deployment-missing-components/'>about continuous deployment aspects here</a>."  
 Other tags: [Machine Learning Misc](../04_machine_learning#MachineLearningMisc)   
   
