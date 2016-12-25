@@ -229,7 +229,7 @@
             "description": "\"Bayesian Methods for Hackers is designed as an introduction to Bayesian inference from a computational/understanding-first, and mathematics-second, point of view. Of course as an introductory book, we can only leave it at that: an introductory book. For the mathematically trained, they may cure the curiosity this text generates with other texts designed with mathematical analysis in mind. For the enthusiast with less mathematical-background, or one who is not interested in the mathematics but simply the practice of Bayesian methods, this text should be sufficient and entertaining.\"",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Probabilistic Programming and Bayesian Methods for Hackers",
             "url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers"
@@ -855,7 +855,7 @@
             "description": "\"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.\" Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.",
             "tags": [
                 "Machine Learning Lectures",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "CS231n: Convolutional Neural Networks for Visual Recognition",
             "url": "http://cs231n.stanford.edu/"
@@ -1031,17 +1031,17 @@
             "author": "Ujjwal Karn",
             "description": "\"This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.\"",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Machine Learning Tutorials"
             ],
             "title": "Python Data Science Tutorials",
             "url": "https://github.com/ujjwalkarn/DataSciencePython"
         },
         {
-            "author": "Adam Geitgey",
+            "author": "Adam Geitgey in Python",
             "description": "Series of posts demonstrating various machine learning tasks using Python.  Examples include recurrent neural networks, convoluatoinal neural networks, face recognition, language translation, and speech recognition.",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Machine Learning Tutorials"
             ],
             "title": "Machine Learning is Fun",
@@ -1098,7 +1098,7 @@
             "author": "Carl Vogel",
             "description": "Python implementations of examples from Machine Learning for Hackers. Uses Python 2.",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Machine Learning Tutorials"
             ],
             "title": "Will it Python? Machine Learning for Hackers",
@@ -1148,7 +1148,7 @@
             "author": "Kunal Jain",
             "description": "\"In this guide, I will use NumPy, Matplotlib, Seaborn and Pandas to perform data exploration.\" Uses Python 2.",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas",
             "url": "http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/"
@@ -1187,7 +1187,7 @@
             "description": "Allen Downey's PyCon tutorial for computational statistics in Python.",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Allen Downey - Computational Statistics - PyCon 2016",
             "url": "https://www.youtube.com/watch?v=VR52vSbHBAk"
@@ -1197,7 +1197,7 @@
             "description": "Allen Downey's PyCon tutorial for Bayesian Statistics in Python.",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Allen Downey - Bayesian statistics made simple - PyCon 2016",
             "url": "https://www.youtube.com/watch?v=6GV5bTCLC8g"
@@ -1206,7 +1206,7 @@
             "author": "Julia Ferraioli, Amy Unruh, Eli Bixby",
             "description": "\"Machine learning can be an intimidating subject. In this session, we'll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We\u2019ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization.\"",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Machine Learning Tutorials"
             ],
             "title": "Diving into Machine Learning through TensorFlow - PyCon 2016",
@@ -1216,7 +1216,7 @@
             "author": "Jean Francois Puget",
             "description": "Tutorial on preparing data sets using Pandas",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Tidy Data In Python",
             "url": "https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en"
@@ -1225,7 +1225,7 @@
             "author": "Jean-Nicholas Hould",
             "description": "Translating exmaples from Hadley Wickham's Tidy Data to Pandas",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Tidy Data in Python",
             "url": "http://www.jeannicholashould.com/tidy-data-in-python.html"
@@ -1234,7 +1234,7 @@
             "author": "Zygmunt Zaj\u0105c",
             "description": "Overview of ways to pipe in functions in Python.",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Piping in R and in Pandas",
             "url": "http://fastml.com/piping-in-r-and-in-pandas/"
@@ -1262,7 +1262,7 @@
             "author": "Aarshay Jain",
             "description": "\"This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster.\"",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "12 Useful Pandas Techniques in Python for Data Manipulation",
             "url": "http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/"
@@ -1271,7 +1271,7 @@
             "author": "Skipper Seabold",
             "description": "Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Machine Learning Tutorials"
             ],
             "title": "Using pandas and scikit-learn for classification tasks",
@@ -1281,7 +1281,7 @@
             "author": "Sebastian Raschka",
             "description": "\"This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful\"",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Things in Pandas I Wish I'd Known Earlier",
             "url": "http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb"
@@ -1290,7 +1290,7 @@
             "author": "Chris Moffitt",
             "description": "\"This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis.\"",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Pandas Pivot Table Explained",
             "url": "http://pbpython.com/pandas-pivot-table-explained.html"
@@ -1299,7 +1299,7 @@
             "author": "Philipp Rudiger",
             "description": "\"In this notebook we'll look at interfacing between the composability and ability to generate complex visualizations that HoloViews provides and the great looking plots incorporated in the seaborn library. Along the way we'll explore how to wrap different types of data in a number of Seaborn View types, including: Distribution Views, Bivariate Views, TimeSeries Views\"",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Visualization Tutorials"
             ],
             "title": "Exploring Seaborn and Pandas based plot types in HoloViews",
@@ -1309,7 +1309,7 @@
             "author": "yhat",
             "description": "\"This is a post about pandasql, a library we're open-sourcing for Python which lets you use SQL on pandas dataframes.\"",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "SQL for pandas DataFrames",
             "url": "http://blog.yhat.com/posts/pandasql-sql-for-pandas-dataframes.html"
@@ -1318,7 +1318,7 @@
             "author": "Zac Stewart",
             "description": "\"The following is a moderately detailed explanation and a few examples of how I use pipelining when I work on competitions.\"",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Machine Learning Tutorials"
             ],
             "title": "Using scikit-learn Pipelines and FeatureUnions",
@@ -1328,7 +1328,7 @@
             "author": "Zac Stewart",
             "description": "\"To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate.\"",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Machine Learning Tutorials"
             ],
             "title": "Document Classification with scikit-learn",
@@ -1441,7 +1441,7 @@
             "description": "A worked exmaple of Hierarchical Modeling using pystan",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "A Primer on Bayesian Multilevel Modeling using PyStan",
             "url": "http://mc-stan.org/documentation/case-studies/radon.html"
@@ -1451,7 +1451,7 @@
             "description": "\"This post is an introduction to Bayesian probability and inference. We will discuss the intuition behind these concepts, and provide some examples written in Python to help you get started. To get the most out of this introduction, the reader should have a basic understanding of statistics and probability, as well as some experience with Python. The examples use the Python package pymc3.\"",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Introduction to Bayesian Inference",
             "url": "https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials"
@@ -1461,7 +1461,7 @@
             "description": "\"Scikit Flow is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining. It helps smooth the transition from the Scikit-learn world of one-liner machine learning into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable. It\u2019s Scikit-learn compatible so you can also benefit from Scikit-learn features like GridSearch and Pipeline.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Introduction to Scikit Flow",
             "url": "http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/"
@@ -1471,7 +1471,8 @@
             "description": "\"Ever heard people at your office talking about AUC, ROC, or TPR but been too shy to ask what the heck they're talking about? Well lucky for you we're going to be diving into the wonderful world of binary classification evaluation today. In particular, we'll be discussing ROC curves.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python",
+                "R Tutorials"
             ],
             "title": "ROC Curves in Python and R",
             "url": "http://blog.yhat.com/posts/roc-curves.html"
@@ -1501,7 +1502,7 @@
             "description": "Example of using package treeinterpreter for insight into a scikit-learn RandomForest",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Random forest interpretation with scikit-learn",
             "url": "http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/"
@@ -1556,7 +1557,7 @@
             "description": "A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Pattern Classification",
             "url": "https://github.com/rasbt/pattern_classification"
@@ -1566,7 +1567,7 @@
             "description": "\"When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Out-of-core Learning and Model Persistence using scikit-learn",
             "url": "https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb"
@@ -1576,7 +1577,7 @@
             "description": "Tutorial on how to convert text data for training with a scikit-learn RandomForest Classifier",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Python: scikit-learn \u2013 Training a classifier with non numeric features",
             "url": "https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/"
@@ -1586,7 +1587,7 @@
             "description": "\"Here, I want to present a simple and conservative approach of implementing a weighted majority rule ensemble classifier in scikit-learn that yielded remarkably good results when I tried it in a kaggle competition.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Implementing a Weighted Majority Rule Ensemble Classifier",
             "url": "http://sebastianraschka.com/Articles/2014_ensemble_classifier.html"
@@ -1596,7 +1597,7 @@
             "description": "\"A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Data Science and (Unsupervised) Machine Learning with scikit-learn",
             "url": "http://opensource.datacratic.com/mtlpy50/"
@@ -1616,7 +1617,7 @@
             "description": "\"Calibration is applicable in case a classifier outputs probabilities. Apparently some classifiers have their typical quirks - for example, they say boosted trees and SVM tend to predict probabilities conservatively, meaning closer to mid-range than to extremes. If your metric cares about exact probabilities, like logarithmic loss does, you can calibrate the classifier, that is post-process the predictions to get better estimates.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Classifier calibration with Platt's scaling and isotonic regression",
             "url": "http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/"
@@ -1635,7 +1636,7 @@
             "description": "\"In this post, we\u2019ll explore a Bayesian approach to nonparametric regression, which allows us to model complex functions with relatively weak assumptions.\" Extends scikit-learn.",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Nonparametric Bayesian Regression with Gaussian Processes",
             "url": "http://austinrochford.com/posts/2014-03-23-bayesian-nonparamtric-regression-gp.html"
@@ -1694,7 +1695,7 @@
             "description": "\"In this article we are going to work a simple (but important) problem where (for once) the Bayesian calculations are in fact easier than the frequentist ones.\"",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Frequentist inference only seems easy",
             "url": "http://www.win-vector.com/blog/2014/07/frequenstist-inference-only-seems-easy/"
@@ -1763,7 +1764,7 @@
             "author": "Megan Risdal",
             "description": "\"In this blog post, I feature some great user kernels as mini-tutorials for getting started with mapping using datasets published on Kaggle. You\u2019ll learn about several ways to wrangle and visualize geospatial data in Python and R including real code examples. I've also included resources so you can learn more about each of the packages highlighted in each tutorial as well as further user analyses for more inspiration.\"",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "R Tutorials",
                 "Visualization Tutorials"
             ],
@@ -1813,7 +1814,7 @@
             "description": "Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Frequentism and Bayesianism",
             "url": "http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/"
@@ -1833,7 +1834,7 @@
             "description": "\"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "PyCon 2015 Introduction to Scikit-Learn tutorial",
             "url": "http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb"
@@ -1861,7 +1862,7 @@
             "author": "Jean Francois Puget",
             "description": "Description of how to use the Python subprocess package to use command line applications within a Python environment.",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Using Python Subprocess To Drive Machine Learning Packages",
             "url": "https://www.ibm.com/developerworks/community/blogs/jfp/entry/Using_Python_Subprocess_To_Drive_Machine_Learning_Packages?lang=en"
@@ -1870,7 +1871,7 @@
             "author": "Tom Augspurger",
             "description": "Series of posts covering Indexing, Method Chaining, Indexes, Fast Pandas, Tidy Data, Visualization, and Time Series",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Modern Pandas",
             "url": "https://tomaugspurger.github.io/modern-1.html"
@@ -1879,7 +1880,7 @@
             "author": "Julia Evans",
             "description": "\"The goal of this cookbook is to give you some concrete examples for getting started with pandas. The docs are really comprehensive. However, I've often had people tell me that they have some trouble getting started, so these are examples with real-world data, and all the bugs and weirdness that entails.\"",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Pandas cookbook",
             "url": "https://github.com/jvns/pandas-cookbook"
@@ -1897,7 +1898,7 @@
             "author": "Jay Feng",
             "description": "Demonstration of how to apply a function to pandas in parallel.",
             "tags": [
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Python Pandas Functions in Parallel",
             "url": "http://www.racketracer.com/2016/07/06/pandas-in-parallel/"
@@ -1906,7 +1907,7 @@
             "author": "Curtis Miller",
             "description": "\"In these posts, I will discuss basics such as obtaining the data from Yahoo! Finance using pandas, visualizing stock data, moving averages, developing a moving-average crossover strategy, backtesting, and benchmarking. The final post will include practice problems. This first post discusses topics up to introducing moving averages.\" Part 2 is <a href='https://ntguardian.wordpress.com/2016/09/26/introduction-stock-market-data-python-2/'>here</a>.",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Finance"
             ],
             "title": "An Introduction to Stock Market Data Analysis with Python ",
@@ -1914,9 +1915,9 @@
         },
         {
             "author": "Chris Mofitt",
-            "description": "Builds an amortization schedule in Pandas",
+            "description": "Builds an amortization schedule in Pandas.",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Finance"
             ],
             "title": "Building a Financial Model with Pandas - Version 2",
@@ -1991,7 +1992,7 @@
             "description": "Example of A/B testing with hierarchical models using pymc3.",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3",
             "url": "https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/"
@@ -2011,7 +2012,7 @@
             "description": "Demonstration of Hierarchical Models in A/B tests using pymc.",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "A/B Testing Statistics",
             "url": "http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/"
@@ -2021,7 +2022,7 @@
             "description": "\"This repository contains some Python demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3).\"",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "Bayesian Data Analysis Python Demos",
             "url": "https://github.com/avehtari/BDA_py_demos"

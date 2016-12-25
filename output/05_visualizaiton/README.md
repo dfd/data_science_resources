@@ -23,7 +23,7 @@ Other tags: [R Tutorials](../02_programming#RTutorials)
 [Exploring Seaborn and Pandas based plot types in HoloViews](http://philippjfr.com/blog/seabornviews/)  
 by Philipp Rudiger  
 "In this notebook we'll look at interfacing between the composability and ability to generate complex visualizations that HoloViews provides and the great looking plots incorporated in the seaborn library. Along the way we'll explore how to wrap different types of data in a number of Seaborn View types, including: Distribution Views, Bivariate Views, TimeSeries Views"  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [The Extra Step: Graphs for Communication versus Exploration](http://www.win-vector.com/blog/2014/01/the-extra-step-graphs-for-communication-versus-exploration/)  
 by Nina Zumel  
@@ -38,7 +38,7 @@ Other tags: [R Tutorials](../02_programming#RTutorials)
 [Seventeen Ways to Map Data in Kaggle Kernels: Tutorials for Python and R Users](http://blog.kaggle.com/2016/11/30/seventeen-ways-to-map-data-in-kaggle-kernels/)  
 by Megan Risdal  
 "In this blog post, I feature some great user kernels as mini-tutorials for getting started with mapping using datasets published on Kaggle. You’ll learn about several ways to wrangle and visualize geospatial data in Python and R including real code examples. I've also included resources so you can learn more about each of the packages highlighted in each tutorial as well as further user analyses for more inspiration."  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials), [R Tutorials](../02_programming#RTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython), [R Tutorials](../02_programming#RTutorials)   
   
 [How to Visualize New York City Using Taxi Location Data and ggplot2](http://minimaxir.com/2015/11/nyc-ggplot2-howto/)  
 by Max Woolf  

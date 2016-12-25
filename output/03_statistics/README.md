@@ -91,27 +91,27 @@ by Thomas M. Cover
 [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
 by Cam Davidson-Pilon  
 "Bayesian Methods for Hackers is designed as an introduction to Bayesian inference from a computational/understanding-first, and mathematics-second, point of view. Of course as an introductory book, we can only leave it at that: an introductory book. For the mathematically trained, they may cure the curiosity this text generates with other texts designed with mathematical analysis in mind. For the enthusiast with less mathematical-background, or one who is not interested in the mathematics but simply the practice of Bayesian methods, this text should be sufficient and entertaining."  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Allen Downey - Computational Statistics - PyCon 2016](https://www.youtube.com/watch?v=VR52vSbHBAk)  
 by Allen Downey  
 Allen Downey's PyCon tutorial for computational statistics in Python.  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Allen Downey - Bayesian statistics made simple - PyCon 2016](https://www.youtube.com/watch?v=6GV5bTCLC8g)  
 by Allen Downey  
 Allen Downey's PyCon tutorial for Bayesian Statistics in Python.  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [A Primer on Bayesian Multilevel Modeling using PyStan](http://mc-stan.org/documentation/case-studies/radon.html)  
 by Chris Fonnesbeck  
 A worked exmaple of Hierarchical Modeling using pystan  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Introduction to Bayesian Inference](https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials)  
 by Aaron Kramer  
 "This post is an introduction to Bayesian probability and inference. We will discuss the intuition behind these concepts, and provide some examples written in Python to help you get started. To get the most out of this introduction, the reader should have a basic understanding of statistics and probability, as well as some experience with Python. The examples use the Python package pymc3."  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [GAM: The Predictive Modeling Silver Bullet](http://multithreaded.stitchfix.com/blog/2015/07/30/gam/)  
 by Kim Larsen  
@@ -131,7 +131,7 @@ Other tags: [R Tutorials](../02_programming#RTutorials)
 [Frequentist inference only seems easy](http://www.win-vector.com/blog/2014/07/frequenstist-inference-only-seems-easy/)  
 by John Mount  
 "In this article we are going to work a simple (but important) problem where (for once) the Bayesian calculations are in fact easier than the frequentist ones."  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Sorry ARIMA, but I’m Going Bayesian](http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)  
 by Kim Larsen  
@@ -141,7 +141,7 @@ Other tags: [R Tutorials](../02_programming#RTutorials)
 [Frequentism and Bayesianism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
 by Jake Vanderplas  
 Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
 by Manojit Nandi  
@@ -151,7 +151,7 @@ Other tags: [Python Tutorials](../02_programming#PythonTutorials)
 [Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3](https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/)  
 by Dan Saber  
 Example of A/B testing with hierarchical models using pymc3.  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Hierarchical Partial Pooling for Repeated Binary Trials](https://cran.r-project.org/web/packages/rstanarm/vignettes/pooling.html)  
 by Bob Carpenter, Jonah Gabry and Ben Goodrich  
@@ -161,12 +161,12 @@ Other tags: [R Tutorials](../02_programming#RTutorials)
 [A/B Testing Statistics](http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/)  
 by Slater Stich  
 Demonstration of Hierarchical Models in A/B tests using pymc.  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Bayesian Data Analysis Python Demos](https://github.com/avehtari/BDA_py_demos)  
 by Tuomas Sivula  
 "This repository contains some Python demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3)."  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Bayesian Data Analysis R Demos](https://github.com/avehtari/BDA_R_demos)  
 by Markus Paasiniemi  

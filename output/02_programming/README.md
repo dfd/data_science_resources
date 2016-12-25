@@ -4,6 +4,7 @@
 [Python Textbooks](#PythonTextbooks)  
 [R Textbooks](#RTextbooks)  
 [Python Tutorials](#PythonTutorials)  
+[Tutorials in Python](#TutorialsinPython)  
 [R Tutorials](#RTutorials)  
 [Python Courses](#PythonCourses)  
 [R Courses](#RCourses)  
@@ -81,16 +82,6 @@ Other tags: [Visualization Textbooks](../05_visualizaiton#VisualizationTextbooks
   
 ## <a name="PythonTutorials"></a>Python Tutorials  
 
-[Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
-by Cam Davidson-Pilon  
-"Bayesian Methods for Hackers is designed as an introduction to Bayesian inference from a computational/understanding-first, and mathematics-second, point of view. Of course as an introductory book, we can only leave it at that: an introductory book. For the mathematically trained, they may cure the curiosity this text generates with other texts designed with mathematical analysis in mind. For the enthusiast with less mathematical-background, or one who is not interested in the mathematics but simply the practice of Bayesian methods, this text should be sufficient and entertaining."  
-Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
-  
-[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
-by Stanford University  
-"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification." Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.  
-Other tags: [Machine Learning Lectures](../04_machine_learning#MachineLearningLectures)   
-  
 [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2016/index.html)  
 by Cliburn Chan (Duke University)  
 Thorough tutorial of Python from basics through scientific stack.  Uses Python 3.  
@@ -100,21 +91,6 @@ Other tags: [Beginner Python](../01_beginner#BeginnerPython)
 by Randy Betancourt  
 Presentation of Python data manipulations with pandas and their SAS counterparts  
 Other tags: [Beginner Python](../01_beginner#BeginnerPython)   
-  
-[Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)  
-by Ujjwal Karn  
-"This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning."  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
-[Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jldbrt65w)  
-by Adam Geitgey  
-Series of posts demonstrating various machine learning tasks using Python.  Examples include recurrent neural networks, convoluatoinal neural networks, face recognition, language translation, and speech recognition.  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
-[Will it Python? Machine Learning for Hackers](https://github.com/carljv/Will_it_Python/tree/master/MLFH)  
-by Carl Vogel  
-Python implementations of examples from Machine Learning for Hackers. Uses Python 2.  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
 [Scipy lecture notes](http://www.scipy-lectures.org/)  
 by Chris Burns, Christophe Combelles, Emmanuelle Gouillart, and Gaël Varoquaux  
@@ -135,6 +111,42 @@ Other tags: [Beginner Python](../01_beginner#BeginnerPython)
 by Kunal Jain  
 Covers basics through predictive modeling in Python 2.  
 Other tags: [Beginner Python](../01_beginner#BeginnerPython)   
+  
+[A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
+by Manojit Nandi  
+"In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model." Uses pymc in Python 2.  
+Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
+  
+[Fundamentals of Python Programming](http://python.cs.southern.edu/pythonbook/pythonbook.pdf)  
+by Richard L. Halterman  
+Thorough book covering many aspects of software development in Python.  Uses Python 3.  
+  
+## <a name="TutorialsinPython"></a>Tutorials in Python  
+
+[Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
+by Cam Davidson-Pilon  
+"Bayesian Methods for Hackers is designed as an introduction to Bayesian inference from a computational/understanding-first, and mathematics-second, point of view. Of course as an introductory book, we can only leave it at that: an introductory book. For the mathematically trained, they may cure the curiosity this text generates with other texts designed with mathematical analysis in mind. For the enthusiast with less mathematical-background, or one who is not interested in the mathematics but simply the practice of Bayesian methods, this text should be sufficient and entertaining."  
+Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
+  
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
+by Stanford University  
+"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification." Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.  
+Other tags: [Machine Learning Lectures](../04_machine_learning#MachineLearningLectures)   
+  
+[Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)  
+by Ujjwal Karn  
+"This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.jldbrt65w)  
+by Adam Geitgey in Python  
+Series of posts demonstrating various machine learning tasks using Python.  Examples include recurrent neural networks, convoluatoinal neural networks, face recognition, language translation, and speech recognition.  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Will it Python? Machine Learning for Hackers](https://github.com/carljv/Will_it_Python/tree/master/MLFH)  
+by Carl Vogel  
+Python implementations of examples from Machine Learning for Hackers. Uses Python 2.  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
 [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)  
 by Kunal Jain  
@@ -221,7 +233,7 @@ Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningT
 [ROC Curves in Python and R](http://blog.yhat.com/posts/roc-curves.html)  
 by yhat  
 "Ever heard people at your office talking about AUC, ROC, or TPR but been too shy to ask what the heck they're talking about? Well lucky for you we're going to be diving into the wonderful world of binary classification evaluation today. In particular, we'll be discussing ROC curves."  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials), [R Tutorials](../02_programming#RTutorials)   
   
 [Random forest interpretation with scikit-learn](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)  
 by Ando Saabas  
@@ -306,13 +318,8 @@ Other tags: [Finance](../06_analytics#Finance)
   
 [Building a Financial Model with Pandas - Version 2](http://pbpython.com/amortization-model-revised.html)  
 by Chris Mofitt  
-Builds an amortization schedule in Pandas  
+Builds an amortization schedule in Pandas.  
 Other tags: [Finance](../06_analytics#Finance)   
-  
-[A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
-by Manojit Nandi  
-"In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model." Uses pymc in Python 2.  
-Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
   
 [Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3](https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/)  
 by Dan Saber  
@@ -329,10 +336,6 @@ by Tuomas Sivula
 "This repository contains some Python demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3)."  
 Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
   
-[Fundamentals of Python Programming](http://python.cs.southern.edu/pythonbook/pythonbook.pdf)  
-by Richard L. Halterman  
-Thorough book covering many aspects of software development in Python.  Uses Python 3.  
-  
 ## <a name="RTutorials"></a>R Tutorials  
 
 [Quick-R](http://www.statmethods.net/)  
@@ -348,6 +351,11 @@ by Hadley Wickham
 by Ben Gorman  
 "Stacking (also called meta ensembling) is a model ensembling technique used to combine information from multiple predictive models to generate a new model. Often times the stacked model (also called 2nd-level model) will outperform each of the individual models due its smoothing nature and ability to highlight each base model where it performs best and discredit each base model where it performs poorly. For this reason, stacking is most effective when the base models are significantly different. Here I provide a simple example and guide on how stacking is most often implemented in practice." Link to github repo with R code is provided.  
 Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[ROC Curves in Python and R](http://blog.yhat.com/posts/roc-curves.html)  
+by yhat  
+"Ever heard people at your office talking about AUC, ROC, or TPR but been too shy to ask what the heck they're talking about? Well lucky for you we're going to be diving into the wonderful world of binary classification evaluation today. In particular, we'll be discussing ROC curves."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials), [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [GAM: The Predictive Modeling Silver Bullet](http://multithreaded.stitchfix.com/blog/2015/07/30/gam/)  
 by Kim Larsen  
@@ -412,7 +420,7 @@ Other tags: [Visualization Tutorials](../05_visualizaiton#VisualizationTutorials
 [Seventeen Ways to Map Data in Kaggle Kernels: Tutorials for Python and R Users](http://blog.kaggle.com/2016/11/30/seventeen-ways-to-map-data-in-kaggle-kernels/)  
 by Megan Risdal  
 "In this blog post, I feature some great user kernels as mini-tutorials for getting started with mapping using datasets published on Kaggle. You’ll learn about several ways to wrangle and visualize geospatial data in Python and R including real code examples. I've also included resources so you can learn more about each of the packages highlighted in each tutorial as well as further user analyses for more inspiration."  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials), [Visualization Tutorials](../05_visualizaiton#VisualizationTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython), [Visualization Tutorials](../05_visualizaiton#VisualizationTutorials)   
   
 [How to Visualize New York City Using Taxi Location Data and ggplot2](http://minimaxir.com/2015/11/nyc-ggplot2-howto/)  
 by Max Woolf  
