@@ -64,7 +64,30 @@
             ],
             "title": "Machine Learning"
         },
-        "05_visualizaiton": {
+        "05_deep_learning": {
+            "headings": [
+                "Deep Learning Textbooks",
+                "Deep Learning Tutorials",
+                "Deep Learning Courses",
+                "Deep Learning Lectures",
+                "Deep Learning Podcasts",
+                "Deep Learning Packages",
+                "Deep Learning Misc"
+            ],
+            "title": "Neural Networks and Deep Learning"
+        },
+        "05_reinforement_learning": {
+            "headings": [
+                "Reinforcement Learning Textbooks",
+                "Reinforcement Learning Tutorials",
+                "Reinforcement Learning Courses",
+                "Reinforcement Learning Lectures",
+                "Reinforcement Learning Podcasts",
+                "Reinforcement Learning Packages"
+            ],
+            "title": "Reinforcement Learning"
+        },
+        "06_visualizaiton": {
             "headings": [
                 "Visualization Textbooks",
                 "Visualization Tutorials",
@@ -74,7 +97,7 @@
             ],
             "title": "Visualization"
         },
-        "06_analytics": {
+        "07_analytics": {
             "headings": [
                 "Finance"
             ],

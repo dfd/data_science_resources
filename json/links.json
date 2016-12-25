@@ -119,7 +119,7 @@
             "author": "Richard S. Sutton and Andrew G. Barto",
             "description": "\"The book consists of three parts. Part I is introductory and problem oriented. We focus on the simplest aspects of reinforcement learning and on its main distinguishing features. One full chapter is devoted to introducing the reinforcement learning problem whose solution we explore in the rest of the book. Part II presents what we see as the three most important elementary solution methods: dynamic programming, simple Monte Carlo methods, and temporal-difference learning. The first of these is a planning method and assumes explicit knowledge of all aspects of a problem, whereas the other two are learning methods. Part III is concerned with generalizing these methods and blending them. Eligibility traces allow unification of Monte Carlo and temporal-difference methods, and function approximation methods such as artificial neural networks extend all the methods so that they can be applied to much larger problems. We bring planning and learning methods together again and relate them to heuristic search. Finally, we summarize our view of the state of reinforcement learning research and briefly present case studies, including some of the most impressive applications of reinforcement learning to date.\"",
             "tags": [
-                "Machine Learning Textbooks"
+                "Reinforcement Learning Textbooks"
             ],
             "title": "Reinforcement Learning: An Introduction ",
             "url": "http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html"
@@ -361,7 +361,7 @@
             "description": "\"TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization. The system is designed to facilitate research in machine learning, and to make it quick and easy to transition from research prototype to production system.\"",
             "tags": [
                 "Python Packages",
-                "Machine Learning Packages"
+                "Deep Learning Packages"
             ],
             "title": "TensorFlow",
             "url": "https://www.tensorflow.org/"
@@ -370,7 +370,7 @@
             "description": "\"OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It makes no assumptions about the structure of your agent, and is compatible with any numerical computation library, such as TensorFlow or Theano. You can use it from Python code, and soon from other languages.\"",
             "tags": [
                 "Python Packages",
-                "Machine Learning Packages"
+                "Reinforcement Learning Packages"
             ],
             "title": "gym",
             "url": "https://gym.openai.com/docs"
@@ -379,7 +379,7 @@
             "description": "\"a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.\"",
             "tags": [
                 "Python Packages",
-                "Machine Learning Packages"
+                "Reinforcement Learning Packages"
             ],
             "title": "universe",
             "url": "https://github.com/openai/universe"
@@ -421,7 +421,7 @@
             "url": "https://spacy.io/"
         },
         {
-            "description": "topic modelling for humans",
+            "description": "\"topic modelling for humans\"",
             "tags": [
                 "Machine Learning Packages",
                 "Python Packages"
@@ -469,7 +469,7 @@
             "description": "\"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.\"",
             "tags": [
                 "Python Packages",
-                "Machine Learning Packages"
+                "Deep Learning Packages"
             ],
             "title": "Theano",
             "url": "http://deeplearning.net/software/theano/"
@@ -478,7 +478,7 @@
             "description": "\"Keras is a minimalist, highly modular neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.\"",
             "tags": [
                 "Python Packages",
-                "Machine Learning Packages"
+                "Deep Learning Packages"
             ],
             "title": "Keras",
             "url": "http://keras.io/"
@@ -645,7 +645,7 @@
             "author": "Geoffrey Hinton",
             "description": "\"Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.<br>This course contains the same content presented on Coursera beginning in 2013. It is not a continuation or update of the original course. It has been adapted for the new platform.<br>Please be advised that the course is suited for an intermediate level learner - comfortable with calculus and with experience programming (Python).\"",
             "tags": [
-                "Machine Learning Courses"
+                "Deep Learning Courses"
             ],
             "title": "Neural Networks for Machine Learning",
             "url": "https://www.coursera.org/learn/neural-networks"
@@ -660,10 +660,19 @@
             "url": "http://course.fast.ai/"
         },
         {
+            "author": "Georgia Tech",
+            "description": "\"You should take this course if you have an interest in machine learning and the desire to engage with it from a theoretical perspective. Through a combination of classic papers and more recent work, you will explore automated decision-making from a computer-science perspective. You will examine efficient algorithms, where they exist, for single-agent and multi-agent planning as well as approaches to learning near-optimal decisions from experience. At the end of the course, you will replicate a result from a published paper in reinforcement learning.\"",
+            "tags": [
+                "Machine Learning Courses"
+            ],
+            "title": "Reinforcement Learning",
+            "url": "https://www.udacity.com/course/reinforcement-learning--ud600"
+        },
+        {
             "author": "IBM",
             "description": "\"In this learning path, you will be able to learn the basic concepts of Neural Networks, Deep Leaning and TensorFlow. Then, you will get hands-on experience in solving problems using Deep Learning. Starting with a simple \u201cHello Word\u201d example, throughout the course you will be able to see how TensorFlow can be used in curve fitting, regression, classification and minimization of error functions. This concept is then explored in the Deep Learning world. You will learn how to apply TensorFlow for backpropagation to tune the weights and biases while the Neural Networks are being trained. Finally, the course covers different types of Deep Architectures, such as Convolutional Networks, Recurrent Networks and Autoencoders.\"",
             "tags": [
-                "Machine Learning Courses"
+                "Deep Learning Courses"
             ],
             "title": "Deep Learning Learning Path from Big Data University",
             "url": "https://bigdatauniversity.com/learn/deep-learning/"
@@ -860,10 +869,19 @@
             "url": "http://work.caltech.edu/lectures.html"
         },
         {
+            "author": "David Silver",
+            "description": "Course on Reinforcement Learning",
+            "tags": [
+                "Reinforcement Learning Lectures"
+            ],
+            "title": "UCL Course on RL",
+            "url": "http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html"
+        },
+        {
             "author": "Stanford University",
             "description": "\"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.\" Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.",
             "tags": [
-                "Machine Learning Lectures",
+                "Deep Learning Lectures",
                 "Tutorials in Python"
             ],
             "title": "CS231n: Convolutional Neural Networks for Visual Recognition",
@@ -962,6 +980,17 @@
             "url": "http://partiallyderivative.com/"
         },
         {
+            "author": "Richard M. Golden",
+            "description": "The intended audience for this podcast series is the general public and the intended objective of this podcast series is to help popularize and demystify the field of Artificial Intelligence by explaining fundamental concepts in an entertaining manner. However, many advanced topics in artificial intelligence and machine learning will be discussed at a \u201chigh-level\u201d so students, scientists, and engineers working in the machine learning area may find this podcast series beneficial for identifying relevant \u201centry points\u201d into advanced statistical machine learning topics. Relevant references to advanced readings are provided (when applicable) in the show notes for each episode.",
+            "tags": [
+                "Machine Learning Podcasts",
+                "Deep Learning Podcasts",
+                "Reinforcement Learning Podcasts"
+            ],
+            "title": "Learning Machines 101",
+            "url": "http://www.learningmachines101.com/"
+        },
+        {
             "author": "Roger Peng (Johns Hopkins University) and Hilary Parker",
             "description": "Podcast on Data Science, Statistics, Python, and R in academia and industry.",
             "tags": [
@@ -1031,7 +1060,7 @@
             "author": "Ujjwal Karn",
             "description": "\"This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. \"",
             "tags": [
-                "Machine Learning Tutorials"
+                "Deep Learning Tutorials"
             ],
             "title": "Machine Learning & Deep Learning Tutorials",
             "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials"
@@ -1098,7 +1127,7 @@
             "author": "",
             "description": "A curated list of awesome TensorFlow experiments, libraries, and projects. ",
             "tags": [
-                "Machine Learning Tutorials"
+                "Deep Learning Tutorials"
             ],
             "title": "Awesome TensorFlow",
             "url": "https://github.com/jtoy/awesome-tensorflow"
@@ -1166,7 +1195,7 @@
             "author": "Michael Nielsen",
             "description": "\"The book will teach you about: Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data; Deep learning, a powerful set of techniques for learning in neural networks.\"  Uses Python 2.",
             "tags": [
-                "Machine Learning Textbooks"
+                "Deep Learning Textbooks"
             ],
             "title": "Neural Networks and Deep Learning",
             "url": "http://neuralnetworksanddeeplearning.com/"
@@ -1175,7 +1204,7 @@
             "author": "Ian Goodfellow, Yoshua Bengio and Aaron Courville",
             "description": "\"The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.\" A pdf version appears to be available here: https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf",
             "tags": [
-                "Machine Learning Textbooks"
+                "Deep Learning Textbooks"
             ],
             "title": "Deep Learning",
             "url": "http://www.deeplearningbook.org/"
@@ -1216,7 +1245,7 @@
             "description": "\"Machine learning can be an intimidating subject. In this session, we'll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We\u2019ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization.\"",
             "tags": [
                 "Tutorials in Python",
-                "Machine Learning Tutorials"
+                "Deep Learning Tutorials"
             ],
             "title": "Diving into Machine Learning through TensorFlow - PyCon 2016",
             "url": "https://www.youtube.com/watch?v=GZBIPwdGtkk"
@@ -1469,7 +1498,7 @@
             "author": "Yuan Tang",
             "description": "\"Scikit Flow is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining. It helps smooth the transition from the Scikit-learn world of one-liner machine learning into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable. It\u2019s Scikit-learn compatible so you can also benefit from Scikit-learn features like GridSearch and Pipeline.\"",
             "tags": [
-                "Machine Learning Tutorials",
+                "Deep Learning Tutorials",
                 "Tutorials in Python"
             ],
             "title": "Introduction to Scikit Flow",
@@ -1529,7 +1558,7 @@
             "author": "Fjodor Van Veen",
             "description": "\"With new neural network architectures popping up every now and then, it\u2019s hard to keep track of them all. Knowing all the abbreviations being thrown around (DCIGN, BiLSTM, DCGAN, anyone?) can be a bit overwhelming at first.<br>So I decided to compose a cheat sheet containing many of those architectures. Most of these are neural networks, some are completely different beasts. Though all of these architectures are presented as novel and unique, when I drew the node structures\u2026 their underlying relations started to make more sense.\"",
             "tags": [
-                "Machine Learning Misc"
+                "Deep Learning Misc"
             ],
             "title": "The Neural Network Zoo",
             "url": "http://www.asimovinstitute.org/neural-network-zoo/"
@@ -1538,7 +1567,7 @@
             "author": "Andrej Karpathy",
             "description": "\"In other words, it is easy to fall into the trap of abstracting away the learning process\u200a\u2014\u200abelieving that you can simply stack arbitrary layers together and backprop will \u201cmagically make them work\u201d on your data. So lets look at a few explicit examples where this is not the case in quite unintuitive ways.\"",
             "tags": [
-                "Machine Learning Misc"
+                "Deep Learning Misc"
             ],
             "title": "Yes you should understand backprop",
             "url": "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.deo6y636u"
@@ -1570,6 +1599,26 @@
             ],
             "title": "Pattern Classification",
             "url": "https://github.com/rasbt/pattern_classification"
+        },
+        {
+            "author": "Andrej Karpathy",
+            "description": "Tutorial for training a policy network to play Pong",
+            "tags": [
+                "Reinforcement Learning Tutorials",
+                "Tutorials in Python"
+            ],
+            "title": "Deep Reinforcement Learning: Pong from Pixels",
+            "url": "http://karpathy.github.io/2016/05/31/rl/"
+        },
+        {
+            "author": "",
+            "description": "A Policy Gradient tutorial to solve the Pendulum environment in OpenAI gym",
+            "tags": [
+                "Reinforcement Learning Tutorials",
+                "Tutorials in Python"
+            ],
+            "title": "Deep Deterministic Policy Gradients in TensorFlow",
+            "url": "http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html"
         },
         {
             "author": "Sebastian Raschka",

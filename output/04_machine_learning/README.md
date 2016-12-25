@@ -34,10 +34,6 @@ by David Barber
 "The book is designed to appeal to students with only a modest mathematical background in undergraduate calculus and linear algebra. No formal computer science or statistical background is required to follow the book, although a basic familiarity with probability, calculus and linear algebra would be useful. The book should appeal to students from a variety of backgrounds, including Computer Science, Engineering, applied Statistics, Physics, and Bioinformatics that wish to gain an entry to probabilistic approaches in Machine Learning. In order to engage with students, the book introduces fundamental concepts in inference using only minimal reference to algebra and calculus. More mathematical techniques are postponed until as and when required, always with the concept as primary and the mathematics secondary."  
 Other tags: [Statistics Textbooks](../03_statistics#StatisticsTextbooks)   
   
-[Reinforcement Learning: An Introduction ](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)  
-by Richard S. Sutton and Andrew G. Barto  
-"The book consists of three parts. Part I is introductory and problem oriented. We focus on the simplest aspects of reinforcement learning and on its main distinguishing features. One full chapter is devoted to introducing the reinforcement learning problem whose solution we explore in the rest of the book. Part II presents what we see as the three most important elementary solution methods: dynamic programming, simple Monte Carlo methods, and temporal-difference learning. The first of these is a planning method and assumes explicit knowledge of all aspects of a problem, whereas the other two are learning methods. Part III is concerned with generalizing these methods and blending them. Eligibility traces allow unification of Monte Carlo and temporal-difference methods, and function approximation methods such as artificial neural networks extend all the methods so that they can be applied to much larger problems. We bring planning and learning methods together again and relate them to heuristic search. Finally, we summarize our view of the state of reinforcement learning research and briefly present case studies, including some of the most impressive applications of reinforcement learning to date."  
-  
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)  
 by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani  
 "This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist."  
@@ -52,20 +48,8 @@ Other tags: [Statistics Textbooks](../03_statistics#StatisticsTextbooks), [R Tex
 by Avrim Blum, John Hopcroft and Ravindran Kannan  
 "This book starts with the treatment of high dimensional geometry... We focus on singular value decomposition, a central tool in this area... Central to our understanding of large structures, like the web and social networks, is building models to capture essential properties of these structures... We describe the foundations of machine learning, both algorithms for optimizing over given training examples, as well as the theory for understanding when such optimization can be expected to lead to good performance on new, unseen data... In Chapter 7 we study how to draw good samples efficiently and how to estimate statistical and linear algebra quantities, with such samples... After describing some of the basic methods for clustering, such as the k-means algorithm, we focus on modern developments in understanding these, as well as newer algorithms.  This book also covers graphical models and belief propagation, ranking and voting, sparse vectors, and compressed sensing. The appendix includes a wealth of background material.  
   
-[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)  
-by Michael Nielsen  
-"The book will teach you about: Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data; Deep learning, a powerful set of techniques for learning in neural networks."  Uses Python 2.  
-  
-[Deep Learning](http://www.deeplearningbook.org/)  
-by Ian Goodfellow, Yoshua Bengio and Aaron Courville  
-"The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular." A pdf version appears to be available here: https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf  
-  
 ## <a name="MachineLearningTutorials"></a>Machine Learning Tutorials  
 
-[Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  
-by Ujjwal Karn  
-"This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. "  
-  
 [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)  
 by Ujjwal Karn  
 "This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning."  
@@ -76,18 +60,9 @@ by Adam Geitgey in Python
 Series of posts demonstrating various machine learning tasks using Python.  Examples include recurrent neural networks, convoluatoinal neural networks, face recognition, language translation, and speech recognition.  
 Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
-[Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)  
-by   
-A curated list of awesome TensorFlow experiments, libraries, and projects.   
-  
 [Will it Python? Machine Learning for Hackers](https://github.com/carljv/Will_it_Python/tree/master/MLFH)  
 by Carl Vogel  
 Python implementations of examples from Machine Learning for Hackers. Uses Python 2.  
-Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
-  
-[Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk)  
-by Julia Ferraioli, Amy Unruh, Eli Bixby  
-"Machine learning can be an intimidating subject. In this session, we'll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
@@ -109,11 +84,6 @@ Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learn
 by Ben Gorman  
 "Stacking (also called meta ensembling) is a model ensembling technique used to combine information from multiple predictive models to generate a new model. Often times the stacked model (also called 2nd-level model) will outperform each of the individual models due its smoothing nature and ability to highlight each base model where it performs best and discredit each base model where it performs poorly. For this reason, stacking is most effective when the base models are significantly different. Here I provide a simple example and guide on how stacking is most often implemented in practice." Link to github repo with R code is provided.  
 Other tags: [R Tutorials](../02_programming#RTutorials)   
-  
-[Introduction to Scikit Flow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/)  
-by Yuan Tang  
-"Scikit Flow is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining. It helps smooth the transition from the Scikit-learn world of one-liner machine learning into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable. It’s Scikit-learn compatible so you can also benefit from Scikit-learn features like GridSearch and Pipeline."  
-Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [ROC Curves in Python and R](http://blog.yhat.com/posts/roc-curves.html)  
 by yhat  
@@ -196,17 +166,13 @@ by Andrew Ng, Stanford University
 "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas."  
 Other tags: [Beginner Machine Learning](../01_beginner#BeginnerMachineLearning)   
   
-[Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)  
-by Geoffrey Hinton  
-"Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.<br>This course contains the same content presented on Coursera beginning in 2013. It is not a continuation or update of the original course. It has been adapted for the new platform.<br>Please be advised that the course is suited for an intermediate level learner - comfortable with calculus and with experience programming (Python)."  
-  
 [Practical Deep Learning for Coders, Part 1](http://course.fast.ai/)  
 by Jeremy Howard  
 "Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down."  
   
-[Deep Learning Learning Path from Big Data University](https://bigdatauniversity.com/learn/deep-learning/)  
-by IBM  
-"In this learning path, you will be able to learn the basic concepts of Neural Networks, Deep Leaning and TensorFlow. Then, you will get hands-on experience in solving problems using Deep Learning. Starting with a simple “Hello Word” example, throughout the course you will be able to see how TensorFlow can be used in curve fitting, regression, classification and minimization of error functions. This concept is then explored in the Deep Learning world. You will learn how to apply TensorFlow for backpropagation to tune the weights and biases while the Neural Networks are being trained. Finally, the course covers different types of Deep Architectures, such as Convolutional Networks, Recurrent Networks and Autoencoders."  
+[Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)  
+by Georgia Tech  
+"You should take this course if you have an interest in machine learning and the desire to engage with it from a theoretical perspective. Through a combination of classic papers and more recent work, you will explore automated decision-making from a computer-science perspective. You will examine efficient algorithms, where they exist, for single-agent and multi-agent planning as well as approaches to learning near-optimal decisions from experience. At the end of the course, you will replicate a result from a published paper in reinforcement learning."  
   
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)  
 by Yaser S. Abu-Mostafa (Caltech)  
@@ -252,11 +218,6 @@ by mathematicalmonk
 by Yaser Abu-Mostafa (Caltech)  
 Machine Learning course from Caltech. "The fundamental concepts and techniques are explained in detail. The focus of the lectures is real understanding, not just 'knowing.'"  
   
-[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
-by Stanford University  
-"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification." Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.  
-Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
-  
 [Data Science](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml)  
 by Joe Blitzstein, Hanspeter Pfister, Verena Kaynig-Fittkau (Harvard University)  
 Lectures from Harvard Extension School's Data Science class  
@@ -295,6 +256,11 @@ by Katherine Gorman and Ryan Adams (Harvard University)
 by Jonathon Morgan, Vidya Spandana, and Chris Albon  
 "Partially Derivative is a weekly podcast, blog, and newsletter about the data science in the world around us. We geek out on silly data stories, interview amazing people doing interesting work, and drink beer."  
   
+[Learning Machines 101](http://www.learningmachines101.com/)  
+by Richard M. Golden  
+The intended audience for this podcast series is the general public and the intended objective of this podcast series is to help popularize and demystify the field of Artificial Intelligence by explaining fundamental concepts in an entertaining manner. However, many advanced topics in artificial intelligence and machine learning will be discussed at a “high-level” so students, scientists, and engineers working in the machine learning area may find this podcast series beneficial for identifying relevant “entry points” into advanced statistical machine learning topics. Relevant references to advanced readings are provided (when applicable) in the show notes for each episode.  
+Other tags: [Deep Learning Podcasts](../05_deep_learning#DeepLearningPodcasts), [Reinforcement Learning Podcasts](../05_reinforement_learning#ReinforcementLearningPodcasts)   
+  
 [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)  
 by Ben Lorica (O'Reilly)  
 "The O'Reilly Data Show Podcast: Danny Bickson on recommenders, data science, and applications of machine learning."  
@@ -303,18 +269,6 @@ by Ben Lorica (O'Reilly)
 
 [scikit-learn](http://scikit-learn.org/stable/)  
 "Simple and efficient tools for data mining and data analysis."  
-Other tags: [Python Packages](../02_programming#PythonPackages)   
-  
-[TensorFlow](https://www.tensorflow.org/)  
-"TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization. The system is designed to facilitate research in machine learning, and to make it quick and easy to transition from research prototype to production system."  
-Other tags: [Python Packages](../02_programming#PythonPackages)   
-  
-[gym](https://gym.openai.com/docs)  
-"OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It makes no assumptions about the structure of your agent, and is compatible with any numerical computation library, such as TensorFlow or Theano. You can use it from Python code, and soon from other languages."  
-Other tags: [Python Packages](../02_programming#PythonPackages)   
-  
-[universe](https://github.com/openai/universe)  
-"a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications."  
 Other tags: [Python Packages](../02_programming#PythonPackages)   
   
 [NLTK](http://www.nltk.org/)  
@@ -326,7 +280,7 @@ Other tags: [Python Packages](../02_programming#PythonPackages)
 Other tags: [Python Packages](../02_programming#PythonPackages)   
   
 [gensim](http://radimrehurek.com/gensim/index.html)  
-topic modelling for humans  
+"topic modelling for humans"  
 Other tags: [Python Packages](../02_programming#PythonPackages)   
   
 [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)  
@@ -343,14 +297,6 @@ Other tags: [Python Packages](../02_programming#PythonPackages)
   
 [scikit-image](http://scikit-image.org/)  
 "scikit-image is a collection of algorithms for image processing. It is available free of charge and free of restriction. We pride ourselves on high-quality, peer-reviewed code, written by an active community of volunteers."  
-Other tags: [Python Packages](../02_programming#PythonPackages)   
-  
-[Theano](http://deeplearning.net/software/theano/)  
-"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently."  
-Other tags: [Python Packages](../02_programming#PythonPackages)   
-  
-[Keras](http://keras.io/)  
-"Keras is a minimalist, highly modular neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research."  
 Other tags: [Python Packages](../02_programming#PythonPackages)   
   
 [TFLearn](http://tflearn.org/)  
@@ -392,14 +338,6 @@ Part 1: <a href='http://sebastianraschka.com/blog/2016/model-evaluation-selectio
 by Kaggle user Triskelion  
 "Model ensembling is a very powerful technique to increase accuracy on a variety of ML tasks. In this article I will share my ensembling approaches for Kaggle Competitions."  
   
-[The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)  
-by Fjodor Van Veen  
-"With new neural network architectures popping up every now and then, it’s hard to keep track of them all. Knowing all the abbreviations being thrown around (DCIGN, BiLSTM, DCGAN, anyone?) can be a bit overwhelming at first.<br>So I decided to compose a cheat sheet containing many of those architectures. Most of these are neural networks, some are completely different beasts. Though all of these architectures are presented as novel and unique, when I drew the node structures… their underlying relations started to make more sense."  
-  
-[Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.deo6y636u)  
-by Andrej Karpathy  
-"In other words, it is easy to fall into the trap of abstracting away the learning process — believing that you can simply stack arbitrary layers together and backprop will “magically make them work” on your data. So lets look at a few explicit examples where this is not the case in quite unintuitive ways."  
-  
 [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)  
 by Ben Frederickson  
 "Numerical Optimization is one of the central techniques in Machine Learning. For many problems it is hard to figure out the best solution directly, but it is relatively easy to set up a loss function that measures how good a solution is - and then minimize the parameters of that function to find the solution."  
@@ -411,7 +349,7 @@ Explanation of conformal prediction for constructing confidence intervals for ma
 [How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/)  
 by Martin Wattenberg, Fernanda Viégas, Ian Johnson  
 "Although extremely useful for visualizing high-dimensional data, t-SNE plots can sometimes be mysterious or misleading. By exploring how it behaves in simple cases, we can learn to use it more effectively."  
-Other tags: [Visualization Misc](../05_visualizaiton#VisualizationMisc)   
+Other tags: [Visualization Misc](../06_visualizaiton#VisualizationMisc)   
   
 [Predictive Model Deployment with Spark](http://commitlogs.com/2016/11/19/predictive-model-deployment-with-spark/)  
 by Lei Gong  
