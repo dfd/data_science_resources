@@ -11,6 +11,7 @@
 [R Textbooks](02_programming#RTextbooks)  
 [Python Tutorials](02_programming#PythonTutorials)  
 [Python Pandas Tutorials](02_programming#PythonPandasTutorials)  
+[Python scikit-learn Tutorials](02_programming#Pythonscikit-learnTutorials)  
 [Tutorials in Python](02_programming#TutorialsinPython)  
 [R Tutorials](02_programming#RTutorials)  
 [Python Courses](02_programming#PythonCourses)  

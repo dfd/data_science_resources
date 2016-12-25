@@ -484,6 +484,15 @@
             "url": "http://keras.io/"
         },
         {
+            "description": "\"TFlearn is a modular and transparent deep learning library built on top of Tensorflow. It was designed to provide a higher-level API to TensorFlow in order to facilitate and speed-up experimentations, while remaining fully transparent and compatible with it.\"",
+            "tags": [
+                "Python Packages",
+                "Machine Learning Packages"
+            ],
+            "title": "TFLearn",
+            "url": "http://tflearn.org/"
+        },
+        {
             "description": "An optimized, flexible, portable, regression and classification gradient boosting package that supports distributed training.",
             "tags": [
                 "Python Packages",
@@ -1281,7 +1290,7 @@
             "author": "Sebastian Raschka",
             "description": "\"This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful\"",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "Things in Pandas I Wish I'd Known Earlier",
             "url": "http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb"
@@ -1318,7 +1327,7 @@
             "author": "Zac Stewart",
             "description": "\"The following is a moderately detailed explanation and a few examples of how I use pipelining when I work on competitions.\"",
             "tags": [
-                "Tutorials in Python",
+                "Python scikit-learn Tutorials",
                 "Machine Learning Tutorials"
             ],
             "title": "Using scikit-learn Pipelines and FeatureUnions",
@@ -1328,7 +1337,7 @@
             "author": "Zac Stewart",
             "description": "\"To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate.\"",
             "tags": [
-                "Tutorials in Python",
+                "Python scikit-learn Tutorials",
                 "Machine Learning Tutorials"
             ],
             "title": "Document Classification with scikit-learn",
@@ -1567,7 +1576,7 @@
             "description": "\"When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Tutorials in Python"
+                "Python scikit-learn Tutorials"
             ],
             "title": "Out-of-core Learning and Model Persistence using scikit-learn",
             "url": "https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb"
@@ -1577,7 +1586,7 @@
             "description": "Tutorial on how to convert text data for training with a scikit-learn RandomForest Classifier",
             "tags": [
                 "Machine Learning Tutorials",
-                "Tutorials in Python"
+                "Python scikit-learn Tutorials"
             ],
             "title": "Python: scikit-learn \u2013 Training a classifier with non numeric features",
             "url": "https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/"
@@ -1587,7 +1596,7 @@
             "description": "\"Here, I want to present a simple and conservative approach of implementing a weighted majority rule ensemble classifier in scikit-learn that yielded remarkably good results when I tried it in a kaggle competition.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Tutorials in Python"
+                "Python scikit-learn Tutorials"
             ],
             "title": "Implementing a Weighted Majority Rule Ensemble Classifier",
             "url": "http://sebastianraschka.com/Articles/2014_ensemble_classifier.html"
@@ -1597,7 +1606,7 @@
             "description": "\"A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Tutorials in Python"
+                "Python scikit-learn Tutorials"
             ],
             "title": "Data Science and (Unsupervised) Machine Learning with scikit-learn",
             "url": "http://opensource.datacratic.com/mtlpy50/"
@@ -1617,7 +1626,7 @@
             "description": "\"Calibration is applicable in case a classifier outputs probabilities. Apparently some classifiers have their typical quirks - for example, they say boosted trees and SVM tend to predict probabilities conservatively, meaning closer to mid-range than to extremes. If your metric cares about exact probabilities, like logarithmic loss does, you can calibrate the classifier, that is post-process the predictions to get better estimates.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Tutorials in Python"
+                "Python scikit-learn Tutorials"
             ],
             "title": "Classifier calibration with Platt's scaling and isotonic regression",
             "url": "http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/"
@@ -1834,7 +1843,7 @@
             "description": "\"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Tutorials in Python"
+                "Python scikit-learn Tutorials"
             ],
             "title": "PyCon 2015 Introduction to Scikit-Learn tutorial",
             "url": "http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb"

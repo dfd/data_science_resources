@@ -5,6 +5,7 @@
 [R Textbooks](#RTextbooks)  
 [Python Tutorials](#PythonTutorials)  
 [Python Pandas Tutorials](#PythonPandasTutorials)  
+[Python scikit-learn Tutorials](#Pythonscikit-learnTutorials)  
 [Tutorials in Python](#TutorialsinPython)  
 [R Tutorials](#RTutorials)  
 [Python Courses](#PythonCourses)  
@@ -135,6 +136,10 @@ by Skipper Seabold
 Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
 Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
+[Things in Pandas I Wish I'd Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)  
+by Sebastian Raschka  
+"This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful"  
+  
 [Pandas Pivot Table Explained](http://pbpython.com/pandas-pivot-table-explained.html)  
 by Chris Moffitt  
 "This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis."  
@@ -154,6 +159,48 @@ by Julia Evans
 [Python Pandas Functions in Parallel](http://www.racketracer.com/2016/07/06/pandas-in-parallel/)  
 by Jay Feng  
 Demonstration of how to apply a function to pandas in parallel.  
+  
+## <a name="Pythonscikit-learnTutorials"></a>Python scikit-learn Tutorials  
+
+[Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)  
+by Zac Stewart  
+"The following is a moderately detailed explanation and a few examples of how I use pipelining when I work on competitions."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Document Classification with scikit-learn](http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html)  
+by Zac Stewart  
+"To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Out-of-core Learning and Model Persistence using scikit-learn](https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb)  
+by Sebastian Raschka  
+"When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!"  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Python: scikit-learn – Training a classifier with non numeric features](https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/)  
+by Mark Needham  
+Tutorial on how to convert text data for training with a scikit-learn RandomForest Classifier  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Implementing a Weighted Majority Rule Ensemble Classifier](http://sebastianraschka.com/Articles/2014_ensemble_classifier.html)  
+by Sebastian Raschka  
+"Here, I want to present a simple and conservative approach of implementing a weighted majority rule ensemble classifier in scikit-learn that yielded remarkably good results when I tried it in a kaggle competition."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Data Science and (Unsupervised) Machine Learning with scikit-learn](http://opensource.datacratic.com/mtlpy50/)  
+by Nicolas Kruchten  
+"A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Classifier calibration with Platt's scaling and isotonic regression](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)  
+by Zygmunt Zając  
+"Calibration is applicable in case a classifier outputs probabilities. Apparently some classifiers have their typical quirks - for example, they say boosted trees and SVM tend to predict probabilities conservatively, meaning closer to mid-range than to extremes. If your metric cares about exact probabilities, like logarithmic loss does, you can calibrate the classifier, that is post-process the predictions to get better estimates."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[PyCon 2015 Introduction to Scikit-Learn tutorial](http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb)  
+by Jake Vanderplas  
+"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics."  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
 ## <a name="TutorialsinPython"></a>Tutorials in Python  
 
@@ -206,24 +253,10 @@ by Julia Ferraioli, Amy Unruh, Eli Bixby
 "Machine learning can be an intimidating subject. In this session, we'll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
-[Things in Pandas I Wish I'd Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)  
-by Sebastian Raschka  
-"This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful"  
-  
 [Exploring Seaborn and Pandas based plot types in HoloViews](http://philippjfr.com/blog/seabornviews/)  
 by Philipp Rudiger  
 "In this notebook we'll look at interfacing between the composability and ability to generate complex visualizations that HoloViews provides and the great looking plots incorporated in the seaborn library. Along the way we'll explore how to wrap different types of data in a number of Seaborn View types, including: Distribution Views, Bivariate Views, TimeSeries Views"  
 Other tags: [Visualization Tutorials](../05_visualizaiton#VisualizationTutorials)   
-  
-[Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)  
-by Zac Stewart  
-"The following is a moderately detailed explanation and a few examples of how I use pipelining when I work on competitions."  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
-[Document Classification with scikit-learn](http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html)  
-by Zac Stewart  
-"To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate."  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
 [A Primer on Bayesian Multilevel Modeling using PyStan](http://mc-stan.org/documentation/case-studies/radon.html)  
 by Chris Fonnesbeck  
@@ -255,31 +288,6 @@ by Sebastian Raschka
 A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks  
 Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
-[Out-of-core Learning and Model Persistence using scikit-learn](https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb)  
-by Sebastian Raschka  
-"When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!"  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
-[Python: scikit-learn – Training a classifier with non numeric features](https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/)  
-by Mark Needham  
-Tutorial on how to convert text data for training with a scikit-learn RandomForest Classifier  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
-[Implementing a Weighted Majority Rule Ensemble Classifier](http://sebastianraschka.com/Articles/2014_ensemble_classifier.html)  
-by Sebastian Raschka  
-"Here, I want to present a simple and conservative approach of implementing a weighted majority rule ensemble classifier in scikit-learn that yielded remarkably good results when I tried it in a kaggle competition."  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
-[Data Science and (Unsupervised) Machine Learning with scikit-learn](http://opensource.datacratic.com/mtlpy50/)  
-by Nicolas Kruchten  
-"A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis."  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
-[Classifier calibration with Platt's scaling and isotonic regression](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)  
-by Zygmunt Zając  
-"Calibration is applicable in case a classifier outputs probabilities. Apparently some classifiers have their typical quirks - for example, they say boosted trees and SVM tend to predict probabilities conservatively, meaning closer to mid-range than to extremes. If your metric cares about exact probabilities, like logarithmic loss does, you can calibrate the classifier, that is post-process the predictions to get better estimates."  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
 [Nonparametric Bayesian Regression with Gaussian Processes](http://austinrochford.com/posts/2014-03-23-bayesian-nonparamtric-regression-gp.html)  
 by Austin Rochford  
 "In this post, we’ll explore a Bayesian approach to nonparametric regression, which allows us to model complex functions with relatively weak assumptions." Extends scikit-learn.  
@@ -299,11 +307,6 @@ Other tags: [R Tutorials](../02_programming#RTutorials), [Visualization Tutorial
 by Jake Vanderplas  
 Part I: <a href='http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/'>A Practical Introduction</a><br>Part II: <a href='http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-results-differ/'>When Results Differ</a><br>Part III: <a href='http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/'>Confidence, Credibility, and why Frequentism and Science do not Mix</a><br>Part IV: <a href='http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/'>How to be a Bayesian in Python</a><br>Part V: <a href='https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/'>Model Selection</a>  
 Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
-  
-[PyCon 2015 Introduction to Scikit-Learn tutorial](http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb)  
-by Jake Vanderplas  
-"Statistics has the reputation of being difficult to understand, but using some simple Python skills it can be made much more intuitive. This talk will cover several sampling-based approaches to solving statistical problems, and show you that if you can write a for-loop, you can do statistics."  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
 [Using Python Subprocess To Drive Machine Learning Packages](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Using_Python_Subprocess_To_Drive_Machine_Learning_Packages?lang=en)  
 by Jean Francois Puget  
@@ -654,6 +657,10 @@ Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPa
   
 [Keras](http://keras.io/)  
 "Keras is a minimalist, highly modular neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research."  
+Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPackages)   
+  
+[TFLearn](http://tflearn.org/)  
+"TFlearn is a modular and transparent deep learning library built on top of Tensorflow. It was designed to provide a higher-level API to TensorFlow in order to facilitate and speed-up experimentations, while remaining fully transparent and compatible with it."  
 Other tags: [Machine Learning Packages](../04_machine_learning#MachineLearningPackages)   
   
 [XGBoost (Python)](http://xgboost.readthedocs.io/en/latest/python/python_intro.html)  
