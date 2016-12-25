@@ -146,7 +146,7 @@ Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)
 [A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
 by Manojit Nandi  
 "In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model." Uses pymc in Python 2.  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 [Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3](https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/)  
 by Dan Saber  

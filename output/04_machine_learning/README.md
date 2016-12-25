@@ -93,7 +93,7 @@ Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)
 [Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
 by Skipper Seabold  
 Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
-Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
+Other tags: [Python Pandas Tutorials](../02_programming#PythonPandasTutorials)   
   
 [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)  
 by Zac Stewart  

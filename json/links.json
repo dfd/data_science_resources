@@ -1138,7 +1138,7 @@
             "author": "Kunal Jain",
             "description": "Covers basics through predictive modeling in Python 2.",
             "tags": [
-                "Python Tutorials",
+                "Tutorials in Python",
                 "Beginner Python"
             ],
             "title": "A Complete Tutorial to Learn Data Science with Python from Scratch",
@@ -1216,7 +1216,7 @@
             "author": "Jean Francois Puget",
             "description": "Tutorial on preparing data sets using Pandas",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "Tidy Data In Python",
             "url": "https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en"
@@ -1225,7 +1225,7 @@
             "author": "Jean-Nicholas Hould",
             "description": "Translating exmaples from Hadley Wickham's Tidy Data to Pandas",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "Tidy Data in Python",
             "url": "http://www.jeannicholashould.com/tidy-data-in-python.html"
@@ -1234,7 +1234,7 @@
             "author": "Zygmunt Zaj\u0105c",
             "description": "Overview of ways to pipe in functions in Python.",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "Piping in R and in Pandas",
             "url": "http://fastml.com/piping-in-r-and-in-pandas/"
@@ -1262,7 +1262,7 @@
             "author": "Aarshay Jain",
             "description": "\"This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster.\"",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "12 Useful Pandas Techniques in Python for Data Manipulation",
             "url": "http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/"
@@ -1271,7 +1271,7 @@
             "author": "Skipper Seabold",
             "description": "Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.",
             "tags": [
-                "Tutorials in Python",
+                "Python Pandas Tutorials",
                 "Machine Learning Tutorials"
             ],
             "title": "Using pandas and scikit-learn for classification tasks",
@@ -1290,7 +1290,7 @@
             "author": "Chris Moffitt",
             "description": "\"This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis.\"",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "Pandas Pivot Table Explained",
             "url": "http://pbpython.com/pandas-pivot-table-explained.html"
@@ -1309,7 +1309,7 @@
             "author": "yhat",
             "description": "\"This is a post about pandasql, a library we're open-sourcing for Python which lets you use SQL on pandas dataframes.\"",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "SQL for pandas DataFrames",
             "url": "http://blog.yhat.com/posts/pandasql-sql-for-pandas-dataframes.html"
@@ -1871,7 +1871,7 @@
             "author": "Tom Augspurger",
             "description": "Series of posts covering Indexing, Method Chaining, Indexes, Fast Pandas, Tidy Data, Visualization, and Time Series",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "Modern Pandas",
             "url": "https://tomaugspurger.github.io/modern-1.html"
@@ -1880,7 +1880,7 @@
             "author": "Julia Evans",
             "description": "\"The goal of this cookbook is to give you some concrete examples for getting started with pandas. The docs are really comprehensive. However, I've often had people tell me that they have some trouble getting started, so these are examples with real-world data, and all the bugs and weirdness that entails.\"",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "Pandas cookbook",
             "url": "https://github.com/jvns/pandas-cookbook"
@@ -1898,7 +1898,7 @@
             "author": "Jay Feng",
             "description": "Demonstration of how to apply a function to pandas in parallel.",
             "tags": [
-                "Tutorials in Python"
+                "Python Pandas Tutorials"
             ],
             "title": "Python Pandas Functions in Parallel",
             "url": "http://www.racketracer.com/2016/07/06/pandas-in-parallel/"
@@ -1982,7 +1982,7 @@
             "description": "\"In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model.\" Uses pymc in Python 2.",
             "tags": [
                 "Statistics Tutorials",
-                "Python Tutorials"
+                "Tutorials in Python"
             ],
             "title": "A/B Testing with Hierarchical Models in Python",
             "url": "https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/"

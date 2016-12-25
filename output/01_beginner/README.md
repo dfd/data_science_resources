@@ -56,7 +56,7 @@ Other tags: [Python Tutorials](../02_programming#PythonTutorials)
 [A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)  
 by Kunal Jain  
 Covers basics through predictive modeling in Python 2.  
-Other tags: [Python Tutorials](../02_programming#PythonTutorials)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
   
 ## <a name="BeginnerR"></a>Beginner R  
 

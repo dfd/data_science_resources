@@ -4,6 +4,7 @@
 [Python Textbooks](#PythonTextbooks)  
 [R Textbooks](#RTextbooks)  
 [Python Tutorials](#PythonTutorials)  
+[Python Pandas Tutorials](#PythonPandasTutorials)  
 [Tutorials in Python](#TutorialsinPython)  
 [R Tutorials](#RTutorials)  
 [Python Courses](#PythonCourses)  
@@ -107,19 +108,52 @@ by Python Software Foundation
 Tutorials and Documentation for Beginner, Moderate, and Advanced Users.  Available for Python 2 and 3.  
 Other tags: [Beginner Python](../01_beginner#BeginnerPython)   
   
-[A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)  
-by Kunal Jain  
-Covers basics through predictive modeling in Python 2.  
-Other tags: [Beginner Python](../01_beginner#BeginnerPython)   
-  
-[A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
-by Manojit Nandi  
-"In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model." Uses pymc in Python 2.  
-Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
-  
 [Fundamentals of Python Programming](http://python.cs.southern.edu/pythonbook/pythonbook.pdf)  
 by Richard L. Halterman  
 Thorough book covering many aspects of software development in Python.  Uses Python 3.  
+  
+## <a name="PythonPandasTutorials"></a>Python Pandas Tutorials  
+
+[Tidy Data In Python](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)  
+by Jean Francois Puget  
+Tutorial on preparing data sets using Pandas  
+  
+[Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)  
+by Jean-Nicholas Hould  
+Translating exmaples from Hadley Wickham's Tidy Data to Pandas  
+  
+[Piping in R and in Pandas](http://fastml.com/piping-in-r-and-in-pandas/)  
+by Zygmunt Zając  
+Overview of ways to pipe in functions in Python.  
+  
+[12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)  
+by Aarshay Jain  
+"This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster."  
+  
+[Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
+by Skipper Seabold  
+Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
+Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
+  
+[Pandas Pivot Table Explained](http://pbpython.com/pandas-pivot-table-explained.html)  
+by Chris Moffitt  
+"This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis."  
+  
+[SQL for pandas DataFrames](http://blog.yhat.com/posts/pandasql-sql-for-pandas-dataframes.html)  
+by yhat  
+"This is a post about pandasql, a library we're open-sourcing for Python which lets you use SQL on pandas dataframes."  
+  
+[Modern Pandas](https://tomaugspurger.github.io/modern-1.html)  
+by Tom Augspurger  
+Series of posts covering Indexing, Method Chaining, Indexes, Fast Pandas, Tidy Data, Visualization, and Time Series  
+  
+[Pandas cookbook](https://github.com/jvns/pandas-cookbook)  
+by Julia Evans  
+"The goal of this cookbook is to give you some concrete examples for getting started with pandas. The docs are really comprehensive. However, I've often had people tell me that they have some trouble getting started, so these are examples with real-world data, and all the bugs and weirdness that entails."  
+  
+[Python Pandas Functions in Parallel](http://www.racketracer.com/2016/07/06/pandas-in-parallel/)  
+by Jay Feng  
+Demonstration of how to apply a function to pandas in parallel.  
   
 ## <a name="TutorialsinPython"></a>Tutorials in Python  
 
@@ -148,6 +182,11 @@ by Carl Vogel
 Python implementations of examples from Machine Learning for Hackers. Uses Python 2.  
 Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
+[A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)  
+by Kunal Jain  
+Covers basics through predictive modeling in Python 2.  
+Other tags: [Beginner Python](../01_beginner#BeginnerPython)   
+  
 [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)  
 by Kunal Jain  
 "In this guide, I will use NumPy, Matplotlib, Seaborn and Pandas to perform data exploration." Uses Python 2.  
@@ -167,43 +206,14 @@ by Julia Ferraioli, Amy Unruh, Eli Bixby
 "Machine learning can be an intimidating subject. In this session, we'll get practical, hands-on experience with core concepts in machine learning with TensorFlow, an open source deep learning library. We’ll introduce the basics of TensorFlow, including how to ingest and prepare raw data for use, run a variety of algorithms to gain insight from the data, and have some fun with visualization."  
 Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
   
-[Tidy Data In Python](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)  
-by Jean Francois Puget  
-Tutorial on preparing data sets using Pandas  
-  
-[Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)  
-by Jean-Nicholas Hould  
-Translating exmaples from Hadley Wickham's Tidy Data to Pandas  
-  
-[Piping in R and in Pandas](http://fastml.com/piping-in-r-and-in-pandas/)  
-by Zygmunt Zając  
-Overview of ways to pipe in functions in Python.  
-  
-[12 Useful Pandas Techniques in Python for Data Manipulation](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)  
-by Aarshay Jain  
-"This article focuses on providing 12 ways for data manipulation in Python. I've also shared some tips & tricks which will allow you to work faster."  
-  
-[Using pandas and scikit-learn for classification tasks](https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb)  
-by Skipper Seabold  
-Example of using Pandas and scikit-learn to classify whether a person makes over 50K a year.  
-Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningTutorials)   
-  
 [Things in Pandas I Wish I'd Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)  
 by Sebastian Raschka  
 "This is just a small but growing collection of pandas snippets that I find occasionally and particularly useful"  
-  
-[Pandas Pivot Table Explained](http://pbpython.com/pandas-pivot-table-explained.html)  
-by Chris Moffitt  
-"This article will focus on explaining the pandas pivot_table function and how to use it for your data analysis."  
   
 [Exploring Seaborn and Pandas based plot types in HoloViews](http://philippjfr.com/blog/seabornviews/)  
 by Philipp Rudiger  
 "In this notebook we'll look at interfacing between the composability and ability to generate complex visualizations that HoloViews provides and the great looking plots incorporated in the seaborn library. Along the way we'll explore how to wrap different types of data in a number of Seaborn View types, including: Distribution Views, Bivariate Views, TimeSeries Views"  
 Other tags: [Visualization Tutorials](../05_visualizaiton#VisualizationTutorials)   
-  
-[SQL for pandas DataFrames](http://blog.yhat.com/posts/pandasql-sql-for-pandas-dataframes.html)  
-by yhat  
-"This is a post about pandasql, a library we're open-sourcing for Python which lets you use SQL on pandas dataframes."  
   
 [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)  
 by Zac Stewart  
@@ -299,18 +309,6 @@ Other tags: [Machine Learning Tutorials](../04_machine_learning#MachineLearningT
 by Jean Francois Puget  
 Description of how to use the Python subprocess package to use command line applications within a Python environment.  
   
-[Modern Pandas](https://tomaugspurger.github.io/modern-1.html)  
-by Tom Augspurger  
-Series of posts covering Indexing, Method Chaining, Indexes, Fast Pandas, Tidy Data, Visualization, and Time Series  
-  
-[Pandas cookbook](https://github.com/jvns/pandas-cookbook)  
-by Julia Evans  
-"The goal of this cookbook is to give you some concrete examples for getting started with pandas. The docs are really comprehensive. However, I've often had people tell me that they have some trouble getting started, so these are examples with real-world data, and all the bugs and weirdness that entails."  
-  
-[Python Pandas Functions in Parallel](http://www.racketracer.com/2016/07/06/pandas-in-parallel/)  
-by Jay Feng  
-Demonstration of how to apply a function to pandas in parallel.  
-  
 [An Introduction to Stock Market Data Analysis with Python ](https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/)  
 by Curtis Miller  
 "In these posts, I will discuss basics such as obtaining the data from Yahoo! Finance using pandas, visualizing stock data, moving averages, developing a moving-average crossover strategy, backtesting, and benchmarking. The final post will include practice problems. This first post discusses topics up to introducing moving averages." Part 2 is <a href='https://ntguardian.wordpress.com/2016/09/26/introduction-stock-market-data-python-2/'>here</a>.  
@@ -320,6 +318,11 @@ Other tags: [Finance](../06_analytics#Finance)
 by Chris Mofitt  
 Builds an amortization schedule in Pandas.  
 Other tags: [Finance](../06_analytics#Finance)   
+  
+[A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
+by Manojit Nandi  
+"In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model." Uses pymc in Python 2.  
+Other tags: [Statistics Tutorials](../03_statistics#StatisticsTutorials)   
   
 [Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3](https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/)  
 by Dan Saber  
