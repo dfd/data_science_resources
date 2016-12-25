@@ -27,6 +27,10 @@ Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)
   
 ## <a name="ReinforcementLearningCourses"></a>Reinforcement Learning Courses  
 
+[Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)  
+by Georgia Tech  
+"You should take this course if you have an interest in machine learning and the desire to engage with it from a theoretical perspective. Through a combination of classic papers and more recent work, you will explore automated decision-making from a computer-science perspective. You will examine efficient algorithms, where they exist, for single-agent and multi-agent planning as well as approaches to learning near-optimal decisions from experience. At the end of the course, you will replicate a result from a published paper in reinforcement learning."  
+  
 ## <a name="ReinforcementLearningLectures"></a>Reinforcement Learning Lectures  
 
 [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)  

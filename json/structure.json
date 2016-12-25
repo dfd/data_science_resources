@@ -76,7 +76,7 @@
             ],
             "title": "Neural Networks and Deep Learning"
         },
-        "05_reinforement_learning": {
+        "06_reinforement_learning": {
             "headings": [
                 "Reinforcement Learning Textbooks",
                 "Reinforcement Learning Tutorials",
@@ -87,7 +87,7 @@
             ],
             "title": "Reinforcement Learning"
         },
-        "06_visualizaiton": {
+        "07_visualizaiton": {
             "headings": [
                 "Visualization Textbooks",
                 "Visualization Tutorials",
@@ -97,9 +97,16 @@
             ],
             "title": "Visualization"
         },
-        "07_analytics": {
+        "08_analytics": {
             "headings": [
-                "Finance"
+                "Finance",
+                "A/B Testing",
+                "Social Networks",
+                "Forecasting",
+                "Image Classification",
+                "Document Classification",
+                "Spam Filter",
+                "Sentiment Analysis"
             ],
             "title": "Business Applications"
         }

@@ -136,7 +136,7 @@ Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)
 [Sorry ARIMA, but I’m Going Bayesian](http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)  
 by Kim Larsen  
 Tutorial on using Bayesian structural time series models.  
-Other tags: [R Tutorials](../02_programming#RTutorials)   
+Other tags: [R Tutorials](../02_programming#RTutorials), [Forecasting](../08_analytics#Forecasting)   
   
 [Frequentism and Bayesianism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)  
 by Jake Vanderplas  
@@ -146,12 +146,12 @@ Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)
 [A/B Testing with Hierarchical Models in Python](https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)  
 by Manojit Nandi  
 "In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model." Uses pymc in Python 2.  
-Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython), [A/B Testing](../08_analytics#A/BTesting)   
   
 [Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3](https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/)  
 by Dan Saber  
 Example of A/B testing with hierarchical models using pymc3.  
-Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython), [A/B Testing](../08_analytics#A/BTesting)   
   
 [Hierarchical Partial Pooling for Repeated Binary Trials](https://cran.r-project.org/web/packages/rstanarm/vignettes/pooling.html)  
 by Bob Carpenter, Jonah Gabry and Ben Goodrich  
@@ -161,7 +161,7 @@ Other tags: [R Tutorials](../02_programming#RTutorials)
 [A/B Testing Statistics](http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/)  
 by Slater Stich  
 Demonstration of Hierarchical Models in A/B tests using pymc.  
-Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython), [A/B Testing](../08_analytics#A/BTesting)   
   
 [Bayesian Data Analysis Python Demos](https://github.com/avehtari/BDA_py_demos)  
 by Tuomas Sivula  

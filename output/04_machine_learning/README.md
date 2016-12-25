@@ -78,7 +78,7 @@ Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learn
 [Document Classification with scikit-learn](http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html)  
 by Zac Stewart  
 "To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate."  
-Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learnTutorials)   
+Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learnTutorials), [Spam Filter](../08_analytics#SpamFilter)   
   
 [Guide to Model Stacking (i.e. Meta Ensembling)](https://gormanalysis.com/guide-to-model-stacking-i-e-meta-ensembling/)  
 by Ben Gorman  
@@ -103,7 +103,7 @@ Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)
 [Out-of-core Learning and Model Persistence using scikit-learn](https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb)  
 by Sebastian Raschka  
 "When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!"  
-Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learnTutorials)   
+Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learnTutorials), [Sentiment Analysis](../08_analytics#SentimentAnalysis)   
   
 [Python: scikit-learn – Training a classifier with non numeric features](https://www.webcodegeeks.com/python/python-scikit-learn-training-classifier-non-numeric-features/)  
 by Mark Needham  
@@ -118,7 +118,7 @@ Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learn
 [Data Science and (Unsupervised) Machine Learning with scikit-learn](http://opensource.datacratic.com/mtlpy50/)  
 by Nicolas Kruchten  
 "A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis."  
-Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learnTutorials)   
+Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learnTutorials), [Document Classification](../08_analytics#DocumentClassification)   
   
 [Classifier calibration with Platt's scaling and isotonic regression](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)  
 by Zygmunt Zając  
@@ -128,6 +128,7 @@ Other tags: [Python scikit-learn Tutorials](../02_programming#Pythonscikit-learn
 [Edge Prediction in a Social Graph: My Solution to Facebook's User Recommendation Contest on Kaggle](http://blog.echen.me/2012/07/31/edge-prediction-in-a-social-graph-my-solution-to-facebooks-user-recommendation-contest-on-kaggle/)  
 by Edwin Chen  
 "A couple weeks ago, Facebook launched a link prediction contest on Kaggle, with the goal of recommending missing edges in a social graph. I love investigating social networks, so I dug around a little, and since I did well enough to score one of the coveted prizes, I’ll share my approach here."  
+Other tags: [Social Networks](../08_analytics#SocialNetworks)   
   
 [Nonparametric Bayesian Regression with Gaussian Processes](http://austinrochford.com/posts/2014-03-23-bayesian-nonparamtric-regression-gp.html)  
 by Austin Rochford  
@@ -169,10 +170,6 @@ Other tags: [Beginner Machine Learning](../01_beginner#BeginnerMachineLearning)
 [Practical Deep Learning for Coders, Part 1](http://course.fast.ai/)  
 by Jeremy Howard  
 "Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down."  
-  
-[Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)  
-by Georgia Tech  
-"You should take this course if you have an interest in machine learning and the desire to engage with it from a theoretical perspective. Through a combination of classic papers and more recent work, you will explore automated decision-making from a computer-science perspective. You will examine efficient algorithms, where they exist, for single-agent and multi-agent planning as well as approaches to learning near-optimal decisions from experience. At the end of the course, you will replicate a result from a published paper in reinforcement learning."  
   
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)  
 by Yaser S. Abu-Mostafa (Caltech)  
@@ -259,7 +256,7 @@ by Jonathon Morgan, Vidya Spandana, and Chris Albon
 [Learning Machines 101](http://www.learningmachines101.com/)  
 by Richard M. Golden  
 The intended audience for this podcast series is the general public and the intended objective of this podcast series is to help popularize and demystify the field of Artificial Intelligence by explaining fundamental concepts in an entertaining manner. However, many advanced topics in artificial intelligence and machine learning will be discussed at a “high-level” so students, scientists, and engineers working in the machine learning area may find this podcast series beneficial for identifying relevant “entry points” into advanced statistical machine learning topics. Relevant references to advanced readings are provided (when applicable) in the show notes for each episode.  
-Other tags: [Deep Learning Podcasts](../05_deep_learning#DeepLearningPodcasts), [Reinforcement Learning Podcasts](../05_reinforement_learning#ReinforcementLearningPodcasts)   
+Other tags: [Deep Learning Podcasts](../05_deep_learning#DeepLearningPodcasts), [Reinforcement Learning Podcasts](../06_reinforement_learning#ReinforcementLearningPodcasts)   
   
 [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)  
 by Ben Lorica (O'Reilly)  
@@ -349,7 +346,7 @@ Explanation of conformal prediction for constructing confidence intervals for ma
 [How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/)  
 by Martin Wattenberg, Fernanda Viégas, Ian Johnson  
 "Although extremely useful for visualizing high-dimensional data, t-SNE plots can sometimes be mysterious or misleading. By exploring how it behaves in simple cases, we can learn to use it more effectively."  
-Other tags: [Visualization Misc](../06_visualizaiton#VisualizationMisc)   
+Other tags: [Visualization Misc](../07_visualizaiton#VisualizationMisc)   
   
 [Predictive Model Deployment with Spark](http://commitlogs.com/2016/11/19/predictive-model-deployment-with-spark/)  
 by Lei Gong  

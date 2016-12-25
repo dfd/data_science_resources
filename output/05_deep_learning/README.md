@@ -25,8 +25,14 @@ by Ujjwal Karn
 "This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. "  
   
 [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)  
-by   
+by jtoy  
 A curated list of awesome TensorFlow experiments, libraries, and projects.   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
+  
+[Not another MNIST tutorial with TensorFlow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)  
+by Justin Francis  
+"Back when TensorFlow was released to the public in November 2015, I remember following TensorFlow’s beginner MNIST tutorial. I blindly copied and pasted all this code into my terminal and some numbers popped out as they should have. I thought, OK, I know there is something amazing happening here, why can I not see it? My goal was to make a MNIST tutorial that was both interactive and visual, and hopefully will teach you a thing or two that others just assume you know."  
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython), [Image Classification](../08_analytics#ImageClassification)   
   
 [Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?v=GZBIPwdGtkk)  
 by Julia Ferraioli, Amy Unruh, Eli Bixby  
@@ -53,14 +59,14 @@ by IBM
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
 by Stanford University  
 "This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification." Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.  
-Other tags: [Tutorials in Python](../02_programming#TutorialsinPython)   
+Other tags: [Tutorials in Python](../02_programming#TutorialsinPython), [Image Classification](../08_analytics#ImageClassification)   
   
 ## <a name="DeepLearningPodcasts"></a>Deep Learning Podcasts  
 
 [Learning Machines 101](http://www.learningmachines101.com/)  
 by Richard M. Golden  
 The intended audience for this podcast series is the general public and the intended objective of this podcast series is to help popularize and demystify the field of Artificial Intelligence by explaining fundamental concepts in an entertaining manner. However, many advanced topics in artificial intelligence and machine learning will be discussed at a “high-level” so students, scientists, and engineers working in the machine learning area may find this podcast series beneficial for identifying relevant “entry points” into advanced statistical machine learning topics. Relevant references to advanced readings are provided (when applicable) in the show notes for each episode.  
-Other tags: [Machine Learning Podcasts](../04_machine_learning#MachineLearningPodcasts), [Reinforcement Learning Podcasts](../05_reinforement_learning#ReinforcementLearningPodcasts)   
+Other tags: [Machine Learning Podcasts](../04_machine_learning#MachineLearningPodcasts), [Reinforcement Learning Podcasts](../06_reinforement_learning#ReinforcementLearningPodcasts)   
   
 ## <a name="DeepLearningPackages"></a>Deep Learning Packages  
 

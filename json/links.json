@@ -663,7 +663,7 @@
             "author": "Georgia Tech",
             "description": "\"You should take this course if you have an interest in machine learning and the desire to engage with it from a theoretical perspective. Through a combination of classic papers and more recent work, you will explore automated decision-making from a computer-science perspective. You will examine efficient algorithms, where they exist, for single-agent and multi-agent planning as well as approaches to learning near-optimal decisions from experience. At the end of the course, you will replicate a result from a published paper in reinforcement learning.\"",
             "tags": [
-                "Machine Learning Courses"
+                "Reinforcement Learning Courses"
             ],
             "title": "Reinforcement Learning",
             "url": "https://www.udacity.com/course/reinforcement-learning--ud600"
@@ -882,7 +882,8 @@
             "description": "\"This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.\" Course includes a <a href='http://cs231n.github.io/python-numpy-tutorial/'>Python tutorial.</a>  Uses Python 2.",
             "tags": [
                 "Deep Learning Lectures",
-                "Tutorials in Python"
+                "Tutorials in Python",
+                "Image Classification"
             ],
             "title": "CS231n: Convolutional Neural Networks for Visual Recognition",
             "url": "http://cs231n.stanford.edu/"
@@ -1124,13 +1125,25 @@
             "url": "https://journal.r-project.org/"
         },
         {
-            "author": "",
+            "author": "jtoy",
             "description": "A curated list of awesome TensorFlow experiments, libraries, and projects. ",
             "tags": [
-                "Deep Learning Tutorials"
+                "Deep Learning Tutorials",
+                "Tutorials in Python"
             ],
             "title": "Awesome TensorFlow",
             "url": "https://github.com/jtoy/awesome-tensorflow"
+        },
+        {
+            "author": "Justin Francis",
+            "description": "\"Back when TensorFlow was released to the public in November 2015, I remember following TensorFlow\u2019s beginner MNIST tutorial. I blindly copied and pasted all this code into my terminal and some numbers popped out as they should have. I thought, OK, I know there is something amazing happening here, why can I not see it? My goal was to make a MNIST tutorial that was both interactive and visual, and hopefully will teach you a thing or two that others just assume you know.\"",
+            "tags": [
+                "Deep Learning Tutorials",
+                "Tutorials in Python",
+                "Image Classification"
+            ],
+            "title": "Not another MNIST tutorial with TensorFlow",
+            "url": "https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow"
         },
         {
             "author": "Carl Vogel",
@@ -1367,7 +1380,8 @@
             "description": "\"To demonstrate text classification with scikit-learn, we're going to build a simple spam filter. While the filters in production for services like Gmail are vastly more sophisticated, the model we'll have by the end of this tutorial is effective, and surprisingly accurate.\"",
             "tags": [
                 "Python scikit-learn Tutorials",
-                "Machine Learning Tutorials"
+                "Machine Learning Tutorials",
+                "Spam Filter"
             ],
             "title": "Document Classification with scikit-learn",
             "url": "http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html"
@@ -1625,7 +1639,8 @@
             "description": "\"When we are applying machine learning algorithms to real-world applications, our computer hardware often still constitutes the major bottleneck of the learning process. Of course, we all have access to supercomputers, Amazon EC2, Apache Spark, etc. However, out-of-core learning via Stochastic Gradient Descent can still be attractive if we'd want to update our model on-the-fly ('online-learning'), and in this notebook, I want to provide some examples of how we can implement an 'out-of-core' approach using scikit-learn. I compiled the following code examples for personal reference, and I don't intend it to be a comprehensive reference for the underlying theory, but nonetheless, I decided to share it since it may be useful to one or the other!\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python scikit-learn Tutorials"
+                "Python scikit-learn Tutorials",
+                "Sentiment Analysis"
             ],
             "title": "Out-of-core Learning and Model Persistence using scikit-learn",
             "url": "https://github.com/rasbt/pattern_classification/blob/master/machine_learning/scikit-learn/outofcore_modelpersistence.ipynb"
@@ -1655,7 +1670,8 @@
             "description": "\"A different way to look at graph analysis and visualization, as an introduction to a few cool algorithms: Truncated SVD, K-Means and t-SNE with a practical walkthrough using scikit-learn and friends numpy and bokeh, and finishing off with some more general commentary on this approach to data analysis.\"",
             "tags": [
                 "Machine Learning Tutorials",
-                "Python scikit-learn Tutorials"
+                "Python scikit-learn Tutorials",
+                "Document Classification"
             ],
             "title": "Data Science and (Unsupervised) Machine Learning with scikit-learn",
             "url": "http://opensource.datacratic.com/mtlpy50/"
@@ -1684,7 +1700,8 @@
             "author": "Edwin Chen",
             "description": "\"A couple weeks ago, Facebook launched a link prediction contest on Kaggle, with the goal of recommending missing edges in a social graph. I love investigating social networks, so I dug around a little, and since I did well enough to score one of the coveted prizes, I\u2019ll share my approach here.\"",
             "tags": [
-                "Machine Learning Tutorials"
+                "Machine Learning Tutorials",
+                "Social Networks"
             ],
             "title": "Edge Prediction in a Social Graph: My Solution to Facebook's User Recommendation Contest on Kaggle",
             "url": "http://blog.echen.me/2012/07/31/edge-prediction-in-a-social-graph-my-solution-to-facebooks-user-recommendation-contest-on-kaggle/"
@@ -1853,7 +1870,8 @@
             "description": "Tutorial on using Bayesian structural time series models.",
             "tags": [
                 "R Tutorials",
-                "Statistics Tutorials"
+                "Statistics Tutorials",
+                "Forecasting"
             ],
             "title": "Sorry ARIMA, but I\u2019m Going Bayesian",
             "url": "http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/"
@@ -2040,7 +2058,8 @@
             "description": "\"In this post, I discuss a method for A/B testing using Beta-Binomial Hierarchical models to correct for a common pitfall when testing multiple hypotheses. I will compare it to the classical method of using Bernoulli models for p-value, and cover other advantages hierarchical models have over the classical model.\" Uses pymc in Python 2.",
             "tags": [
                 "Statistics Tutorials",
-                "Tutorials in Python"
+                "Tutorials in Python",
+                "A/B Testing"
             ],
             "title": "A/B Testing with Hierarchical Models in Python",
             "url": "https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/"
@@ -2050,7 +2069,8 @@
             "description": "Example of A/B testing with hierarchical models using pymc3.",
             "tags": [
                 "Statistics Tutorials",
-                "Tutorials in Python"
+                "Tutorials in Python",
+                "A/B Testing"
             ],
             "title": "Analyze Your Experiment with a Multilevel Logistic Regression using PyMC3",
             "url": "https://dansaber.wordpress.com/2016/08/27/analyze-your-experiment-with-a-multilevel-logistic-regression-using-pymc3%E2%80%8B/"
@@ -2070,7 +2090,8 @@
             "description": "Demonstration of Hierarchical Models in A/B tests using pymc.",
             "tags": [
                 "Statistics Tutorials",
-                "Tutorials in Python"
+                "Tutorials in Python",
+                "A/B Testing"
             ],
             "title": "A/B Testing Statistics",
             "url": "http://sl8r000.github.io/ab_testing_statistics/use_a_hierarchical_model/"

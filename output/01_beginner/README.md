@@ -143,5 +143,5 @@ Other tags: [Machine Learning Courses](../04_machine_learning#MachineLearningCou
 [Choosing a Data Chart](http://img.labnol.org/di/data-chart-type.png)  
 by Unknown  
 Flow chart for choosing a chart type.  
-Other tags: [Visualization Misc](../06_visualizaiton#VisualizationMisc)   
+Other tags: [Visualization Misc](../07_visualizaiton#VisualizationMisc)   
   
